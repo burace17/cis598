@@ -11,6 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+Forecaster
+==================
+.. autoclass:: forecaster.result_reader.ResultReader
+.. autoclass:: forecaster.model.Model
 
 
 Indices and tables

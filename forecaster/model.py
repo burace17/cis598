@@ -1,4 +1,4 @@
-from result_reader import ResultReader
+from .result_reader import ResultReader
 class Model:
     """
         Abstract class that describes an object that predicts the outcome of an election using an algorithm.
