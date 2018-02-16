@@ -13,12 +13,10 @@ class Model:
 
     def get_forecast(self):
         """
-            Gets the predicted outcome of the election as predicted by the forecasting algorithm using the results
-            that have been counted so far.
-
-            :return: A dictionary with keys that correspond to the candidates or political parties in this election
-                     and values corresponding with the percentage of the final vote each candidate or political party
-                     is expected to receive when all votes have been counted.
+            Gets the predicted outcome of the election as predicted by the forecasting algorithm using the results that have been counted so far.
+                :return: A dictionary with keys that correspond to the candidates or political parties in this election
+                    and values corresponding with the percentage of the final vote each candidate or political party
+                    is expected to receive when all votes have been counted.
         """
         pass
 
@@ -33,6 +31,5 @@ class Model:
     def update_forecast(self):
         """
            Updates the forecast by requesting more results from the result reader connected to this model
-           :return: Does not return anything
         """
         pass

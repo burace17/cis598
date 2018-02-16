@@ -9,7 +9,7 @@ class ResultReader:
     def check_for_new_results(self):
         """
         Query the data source for new results.
-        :return: A dictionary with keys corresponding with a candidate or political party and values corresponding 
+            :return: A dictionary with keys corresponding with a candidate or political party and values corresponding 
                  with the number of votes that candidate or political party received. The key names should be the same
                  as the names defined in the global configuration file.
         """

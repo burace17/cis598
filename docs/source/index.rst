@@ -14,7 +14,9 @@ Contents:
 Forecaster
 ==================
 .. autoclass:: forecaster.result_reader.ResultReader
+    :members:
 .. autoclass:: forecaster.model.Model
+    :members:
 
 
 Indices and tables
