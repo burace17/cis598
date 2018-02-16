@@ -11,9 +11,10 @@ class Result:
         """
         assert isinstance(candidates, list)
         self.candidates = {}
+        self.total_votes = 0
         for candidate in candidates:
             self.candidates[candidate] = 0
-            self.total_votes = 0
+            
     
     def add_votes(self, candidate, votes):
         """
