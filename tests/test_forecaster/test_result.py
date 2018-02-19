@@ -73,4 +73,25 @@ class TestResult:
         """
         get_percentage() returns the correct percentage of the final votes for a given candidate
         """
-        pass
+        assert self.result.get_percentage("Candidate1") == 0.0
+        assert self.result.get_percentage("Candidate2") == 0.0
+        assert self.result.get_percentage("Candidate3") == 0.0
+
+        self.result.add_votes("Candidate1", 253)
+        self.result.add_votes("Candidate2", 106)
+        self.result.add_votes("Candidate3", 56)
+
+        total = 253 + 106 + 56
+        assert self.result.get_percentage("Candidate1") == (253 / total)
+        assert self.result.get_percentage("Candidate2") == (106 / total)
+        assert self.result.get_percentage("Candidate3") == (56 / total)
+
+
+    def test_get_total_votes_returns_correct_total(self):
+        """
+        get_total_votes() actually returns the total number of votes
+        """
+        assert self.result.get_total_votes() == 0
+        assert self.empty_result.get_total_votes() == 0
+
+        
