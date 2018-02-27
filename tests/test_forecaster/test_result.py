@@ -100,4 +100,27 @@ class TestResult:
 
         assert self.result.get_total_votes() == 210 + 26 + 90
 
+    def test_get_result_summary_returns_dictionary(self):
+        assert isinstance(self.empty_result.get_summary(), dict)
+        self.result.add_votes("Candidate1", 43)
+        self.result.add_votes("Candidate2", 6)
+        self.result.add_votes("Candidate3", 913)
+
+        summary = self.result.get_summary()
+        assert isinstance(summary, dict)
+        assert summary["Candidate1"] == 43
+        assert summary["Candidate2"] == 6
+        assert summary["Candidate3"] == 913
         
+    def test_get_percentage_summary_returns_dictionary(self):
+        assert isinstance(self.empty_result.get_percentage_summary(), dict)
+        self.result.add_votes("Candidate1", 74)
+        self.result.add_votes("Candidate2", 32)
+        self.result.add_votes("Candidate3", 12)
+        
+        summary = self.result.get_percentage_summary()
+        total = self.result.get_total_votes()
+        assert isinstance(summary, dict)
+        assert summary["Candidate1"] == 74 / total
+        assert summary["Candidate2"] == 32 / total
+        assert summary["Candidate3"] == 12 / total
