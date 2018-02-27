@@ -94,4 +94,10 @@ class TestResult:
         assert self.result.get_total_votes() == 0
         assert self.empty_result.get_total_votes() == 0
 
+        self.result.add_votes("Candidate1", 210)
+        self.result.add_votes("Candidate1", 26)
+        self.result.add_votes("Candidate3", 90)
+
+        assert self.result.get_total_votes() == 210 + 26 + 90
+
         
