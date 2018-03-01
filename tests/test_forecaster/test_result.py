@@ -31,6 +31,23 @@ class TestResult:
         assert self.result.candidates["Candidate3"] == 3
         assert self.result.candidates["Candidate2"] == 5
 
+    def test_add_operator_updates_count(self):
+        """
+        Adding votes using the addition operator updates the actual count
+        """
+        self.result.add_votes("Candidate2", 17)
+        self.result.add_votes("Candidate3", 46)
+
+        tmp = Result(["Candidate1","Candidate2","Candidate3"])
+        tmp.add_votes("Candidate1", 462)
+        tmp.add_votes("Candidate2", 1)
+        tmp.add_votes("Candidate3", 193)
+
+        self.result += tmp
+        assert self.result.candidates["Candidate1"] == 462
+        assert self.result.candidates["Candidate2"] == 18
+        assert self.result.candidates["Candidate3"] == 193 + 46
+        
     def test_get_votes_invalid_candidate(self):
         """
         Attempting to get the number of votes for an invalid candidate raises ValueError
