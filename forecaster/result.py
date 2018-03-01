@@ -4,14 +4,16 @@ class Result:
     with added protection against malformed data.  
     """
 
-    def __init__(self, candidates):
+    def __init__(self, candidates, name):
         """
         Construct a new result instance
             :param candidates: A list of strings containing the candidates in this election
+            :param name: The location these results are from (county name, precinct ID, etc.)
         """
         assert isinstance(candidates, list)
         self.candidates = {}
         self.total_votes = 0
+        self.name = name
         for candidate in candidates:
             self.candidates[candidate] = 0
             
@@ -89,4 +91,9 @@ class Result:
             summary[candidate] = self.__safeCalculateVotePercentage(self.candidates[candidate], self.total_votes)
         return summary
 
+    def get_name(self):
+        """
+        Returns the location name for this data
+        """
+        return self.name
         

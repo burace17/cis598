@@ -8,8 +8,8 @@ class TestResult:
         """
         Initialize unit tests
         """
-        self.result = Result(["Candidate1","Candidate2","Candidate3"])
-        self.empty_result = Result([])
+        self.result = Result(["Candidate1","Candidate2","Candidate3"], "Test")
+        self.empty_result = Result([], "Empty")
 
     def test_add_votes_invalid_candidate(self):
         """
@@ -38,7 +38,7 @@ class TestResult:
         self.result.add_votes("Candidate2", 17)
         self.result.add_votes("Candidate3", 46)
 
-        tmp = Result(["Candidate1","Candidate2","Candidate3"])
+        tmp = Result(["Candidate1","Candidate2","Candidate3"], "Temp")
         tmp.add_votes("Candidate1", 462)
         tmp.add_votes("Candidate2", 1)
         tmp.add_votes("Candidate3", 193)
@@ -141,3 +141,7 @@ class TestResult:
         assert summary["Candidate1"] == 74 / total
         assert summary["Candidate2"] == 32 / total
         assert summary["Candidate3"] == 12 / total
+
+    def test_get_name_returns_name(self):
+        assert self.result.get_name() == "Test"
+        assert self.empty_result.get_name() == "Empty"
