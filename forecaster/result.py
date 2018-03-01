@@ -4,16 +4,22 @@ class Result:
     with added protection against malformed data.  
     """
 
-    def __init__(self, candidates, name):
+    def __init__(self, candidates, name, parts_reporting=0, total_parts=0):
         """
         Construct a new result instance
             :param candidates: A list of strings containing the candidates in this election
             :param name: The location these results are from (county name, precinct ID, etc.)
+            :param parts_reporting: (Optional) The number of parts at this location that have reported. For counties, this tends to be precincts (defaults to 0)
+            :param total_parts: (Optional) Total number of parts (defaults to 0)
         """
         assert isinstance(candidates, list)
         self.candidates = {}
         self.total_votes = 0
         self.name = name
+
+        self.parts_reporting = parts_reporting
+        self.total_parts = total_parts
+
         for candidate in candidates:
             self.candidates[candidate] = 0
             
