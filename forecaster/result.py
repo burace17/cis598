@@ -27,6 +27,16 @@ class Result:
             self.candidates[candidate] += votes
             self.total_votes += votes
 
+    def __add__(self, other):
+        """
+        Overrides the addition operator to allow the votes stored in two Result objects to be added together
+        """
+        assert isinstance(other, Result)
+        for candidate in other.candidates.keys():
+            assert candidate in self.candidates
+            self.add_votes(candidate, other.get_votes(candidate))
+        return self
+
     def get_votes(self, candidate):
         """
         Get the number of votes this candidate has received. Raises ValueError if the candidate
