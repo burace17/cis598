@@ -17,6 +17,8 @@ Forecaster
     :members:
 .. autoclass:: forecaster.model.Model
     :members:
+.. autoclass:: forecaster.result.Result
+    :members:
 
 
 Indices and tables
