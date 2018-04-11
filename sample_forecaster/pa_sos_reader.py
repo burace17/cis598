@@ -1,9 +1,9 @@
 """
 Implementation of ResultReader which pulls results from the Pennsylvania Secretary of State website.
 """
-from forecaster.result_reader import ResultReader
-from forecaster.result import Result
-from sample_forecaster import config
+from cis598.forecaster.result_reader import ResultReader
+from cis598.forecaster.result import Result
+from cis598 import config
 import urllib.request
 import json
 

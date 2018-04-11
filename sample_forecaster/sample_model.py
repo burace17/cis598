@@ -1,6 +1,6 @@
-from forecaster.model import Model
-from forecaster.result import Result
-from sample_forecaster import config
+from cis598.forecaster.model import Model
+from cis598.forecaster.result import Result
+from cis598 import config
 import csv
 import copy
 

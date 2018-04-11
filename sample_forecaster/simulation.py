@@ -1,5 +1,5 @@
-from forecaster.result_reader import ResultReader
-from forecaster.result import Result
+from cis598.forecaster.result_reader import ResultReader
+from cis598.forecaster.result import Result
 import csv
 import random
 
