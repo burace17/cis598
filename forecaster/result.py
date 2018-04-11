@@ -45,6 +45,9 @@ class Result:
             self.add_votes(candidate, other.get_votes(candidate))
         return self
 
+    def __eq__(self, other):
+        return other != None and len(set(self.candidates.items() ^ other.candidates.items())) == 0
+
     def get_votes(self, candidate):
         """
         Get the number of votes this candidate has received. Raises ValueError if the candidate
@@ -54,6 +57,9 @@ class Result:
             raise ValueError
         else:
             return self.candidates[candidate]
+
+    def set_votes(self, candidate, votes):
+        self.candidates[candidate] = votes
 
     def __safeCalculateVotePercentage(self, candidate_votes, total):
         """
@@ -103,3 +109,7 @@ class Result:
         """
         return self.name
         
+    def clear_votes(self):
+        self.total_votes = 0
+        for candidate in self.candidates.keys():
+            self.candidates[candidate] = 0

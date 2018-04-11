@@ -1,6 +1,6 @@
 from .result_reader import ResultReader
 from .result import Result
-import config
+
 class Model:
     """
         Abstract class that describes an object that predicts the outcome of an election using an algorithm.
@@ -12,8 +12,6 @@ class Model:
            :param result_reader: A ResultReader object that will read the actual election results.
         """
         assert isinstance(result_reader, ResultReader)
-        self.actual_result = Result(config.candidates)
-        self.predicted_result = Result(config.candidates)
         self.result_reader = result_reader
 
     def get_forecast(self):
@@ -34,8 +32,4 @@ class Model:
         """
            Updates the forecast by requesting more results from the result reader connected to this model
         """
-        new_results = self.result_reader.check_for_new_results()
-        if new_results != None:
-            self.actual_result += new_results
-
         raise NotImplementedError

@@ -23,10 +23,10 @@ class SimulatedElection(ResultReader):
             index = random.randint(0, len(self.results)-1)
             result_dict = self.results[index]
             result = Result(["Donald Trump", "Hillary Clinton", "Gary Johnson", "Jill Stein"], name=result_dict["county"])
-            result.add_votes("Donald Trump", result_dict["rep_votes"])
-            result.add_votes("Hillary Clinton", result_dict["dem_votes"])
-            result.add_votes("Gary Johnson", result_dict["lib_votes"])
-            result.add_votes("Jill Stein", result_dict["ind_votes"])
+            result.add_votes("Donald Trump", int(result_dict["rep_votes"]))
+            result.add_votes("Hillary Clinton", int(result_dict["dem_votes"]))
+            result.add_votes("Gary Johnson", int(result_dict["lib_votes"]))
+            result.add_votes("Jill Stein", int(result_dict["ind_votes"]))
 
             del self.results[index]
             return result
