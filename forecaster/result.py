@@ -23,6 +23,8 @@ class Result:
         for candidate in candidates:
             self.candidates[candidate] = 0
             
+    def toDict(self):
+        return {"name":self.name, "parts_reporting":self.parts_reporting, "total_parts":self.total_parts, "candidates":self.candidates}
     
     def add_votes(self, candidate, votes):
         """

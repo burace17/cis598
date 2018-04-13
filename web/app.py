@@ -5,6 +5,7 @@ from cis598.forecaster.result_reader import ResultReader
 import importlib
 import threading
 import time
+import json
 
 app = Flask(__name__)
 
@@ -24,4 +25,8 @@ threading.Thread(target=update_forecast).start()
 
 @app.route("/get_actual_count")
 def actual_count():
-    return str(model.get_actual_count().get_percentage_summary())
+    return json.dumps(model.get_actual_count().toDict())
+
+@app.route("/get_forecast")
+def forecast():
+    return json.dumps(model.get_forecast().toDict())
