@@ -13,6 +13,7 @@ mod = "cis598.sample_forecaster.sample_model"
 # Name of the module containing the result reader to use
 reader = "cis598.sample_forecaster.pa_sos_reader"
 
+# Names of the specific Model class and ResultReader class your implementation uses
 mod_class = "SampleModel"
 read_class = "PAReader"
 
