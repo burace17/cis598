@@ -12,20 +12,20 @@ class SampleModel(Model):
         self.result_reader = result_reader
         self.turnout_prediction = 230000
 
-        self.actual_overall = Result(config.candidates(), "PA18")
+        self.actual_overall = Result(config.candidates, "PA18")
         self.actual_counties = {
-            "ALLEGHENY":Result(config.candidates(), "ALLEGHENY"),
-            "GREENE":Result(config.candidates(), "GREEN"),
-            "WASHINGTON":Result(config.candidates(), "WASHINGTON"),
-            "WESTMORELAND":Result(config.candidates(), "WESTMORELAND")
+            "ALLEGHENY":Result(config.candidates, "ALLEGHENY"),
+            "GREENE":Result(config.candidates, "GREEN"),
+            "WASHINGTON":Result(config.candidates, "WASHINGTON"),
+            "WESTMORELAND":Result(config.candidates, "WESTMORELAND")
         }
 
-        self.benchmark_overall = Result(config.candidates(), "PA18")
+        self.benchmark_overall = Result(config.candidates, "PA18")
         self.benchmark_counties = {
-            "ALLEGHENY":Result(config.candidates(), "ALLEGHENY"),
-            "GREENE":Result(config.candidates(), "GREEN"),
-            "WASHINGTON":Result(config.candidates(), "WASHINGTON"),
-            "WESTMORELAND":Result(config.candidates(), "WESTMORELAND")
+            "ALLEGHENY":Result(config.candidates, "ALLEGHENY"),
+            "GREENE":Result(config.candidates, "GREEN"),
+            "WASHINGTON":Result(config.candidates, "WASHINGTON"),
+            "WESTMORELAND":Result(config.candidates, "WESTMORELAND")
         }
 
         # Read in benchmark results.

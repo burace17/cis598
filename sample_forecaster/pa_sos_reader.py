@@ -18,7 +18,7 @@ class PAReader(ResultReader):
         request_dict = json.loads(request_str2) # ?????
         county_arr = request_dict["Election"]["18th Congressional District"]
         
-        overall_results = Result(config.candidates(), "PA-18")
+        overall_results = Result(config.candidates, "PA-18")
         overall_counties = {
             "ALLEGHENY":Result(["LAMB, CONOR", "SACCONE, RICHARD", "MILLER, DREW GRAY"], "ALLEGHENY"),
             "GREENE":Result(["LAMB, CONOR", "SACCONE, RICHARD", "MILLER, DREW GRAY"], "GREEN"),

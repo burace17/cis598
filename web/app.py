@@ -8,11 +8,11 @@ import time
 
 app = Flask(__name__)
 
-model_module = importlib.import_module(config.model())
-result_module = importlib.import_module(config.result_reader())
+model_module = importlib.import_module(config.model)
+result_module = importlib.import_module(config.result_reader)
 
-result_reader = getattr(result_module, config.reader_class())()
-model = getattr(model_module, config.model_class())(result_reader)
+result_reader = getattr(result_module, config.reader_class)()
+model = getattr(model_module, config.model_class)(result_reader)
 
 def update_forecast():
     while True:
