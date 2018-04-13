@@ -7,10 +7,26 @@ Here, you may specify any variables that you wish to be available from anywhere 
 # These should correspond with the values that will be read by the ResultReader
 cand = ["LAMB, CONOR", "SACCONE, RICHARD", "MILLER, DREW GRAY"]
 
+# Name of the module containing the forecasting algorithm to use
+mod = "cis598.sample_forecaster.sample_model"
+
+# Name of the module containing the result reader to use
+reader = "cis598.sample_forecaster.pa_sos_reader"
+
+mod_class = "SampleModel"
+read_class = "PAReader"
+
 def candidates():
     return cand
 
-# Name of the module containing the forecasting algorithm to use
-algo = "cis598.sample_forecaster"
-def forecasting_algorithm():
-    return algo
+def model():
+    return mod
+
+def result_reader():
+    return reader
+
+def model_class():
+    return mod_class
+
+def reader_class():
+    return read_class
