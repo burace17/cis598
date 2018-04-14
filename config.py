@@ -16,3 +16,13 @@ result_reader = "cis598.sample_forecaster.pa_sos_reader"
 # Names of the specific Model class and ResultReader class your implementation uses
 model_class = "SampleModel"
 reader_class = "PAReader"
+
+# --------------------------------------------------------
+# Web app configuration.
+# --------------------------------------------------------
+
+# These values will be displayed to the user
+elex_name = "Pennsylvania's 18th Congressional District Special Election"
+republican_candidate = "Rick Saccone"
+democratic_candidate = "Conor Lamb"
+libertarian_candidate = "Drew Gray Miller"

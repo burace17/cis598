@@ -1,4 +1,5 @@
 from flask import Flask
+from flask import render_template
 from cis598 import config
 from cis598.forecaster.model import Model
 from cis598.forecaster.result_reader import ResultReader
@@ -7,7 +8,7 @@ import threading
 import time
 import json
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path="/static")
 
 model_module = importlib.import_module(config.model)
 result_module = importlib.import_module(config.result_reader)
@@ -21,6 +22,10 @@ def update_forecast():
         time.sleep(30)
 
 threading.Thread(target=update_forecast).start()
+
+@app.route("/")
+def index():
+    return render_template("index.html")
 
 @app.route("/get_actual_count")
 def actual_count():
