@@ -8,9 +8,32 @@
     </head>
     <body>
         <main role="main" class="container">
-            <h1 class="mt-5">Election Forecaster</h1>
-            <p class="lead">Below you will find the latest results for this election.</p>
-            <p>Content should go here</p>
+            <h1 class="mt-5">{{ config.elex_name }}</h1>
+            <hr />
+            <div class="row">
+                <div class="col-sm">
+                    <table class="table">
+                        <tr>
+                            <th>Name</th>
+                            <th>Party</th>
+                            <th>Votes</th>
+                            <th>Percentage</th>
+                        </tr>
+                        {% for candidate in config.candidate_info %}
+                        <tr>
+                            <td>{{ config.candidate_info[candidate]["display_name"] }}</td>
+                            <td>{{ config.candidate_info[candidate]["party"] }}</td>
+                            <td>0</td>
+                            <td>0.0%</td>
+                        </tr>
+                        {% endfor %}
+                    </table>
+                </div>
+                <div class="col-sm">
+                    Map will go here.
+                </div>
+            </div>
+
         </main>
     </body>
 </html>

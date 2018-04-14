@@ -25,7 +25,7 @@ threading.Thread(target=update_forecast).start()
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("index.html", config=config)
 
 @app.route("/get_actual_count")
 def actual_count():

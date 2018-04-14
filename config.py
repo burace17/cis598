@@ -23,6 +23,8 @@ reader_class = "PAReader"
 
 # These values will be displayed to the user
 elex_name = "Pennsylvania's 18th Congressional District Special Election"
-republican_candidate = "Rick Saccone"
-democratic_candidate = "Conor Lamb"
-libertarian_candidate = "Drew Gray Miller"
+candidate_info = {
+    "SACCONE, RICHARD": { "display_name": "Rick Saccone", "party":"Republican"},
+    "LAMB, CONNOR": { "display_name": "Conor Lamb", "party":"Democratic"},
+    "MILLER, DREW GRAY": { "display_name": "Drew Gray Miller", "party":"Libertarian"}
+}
