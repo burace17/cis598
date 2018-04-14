@@ -17,7 +17,6 @@ model = getattr(model_module, config.model_class)(result_reader)
 
 def update_forecast():
     while True:
-        print("Updating forecast")
         model.update_forecast()
         time.sleep(30)
 
