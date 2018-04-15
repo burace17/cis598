@@ -2,5 +2,6 @@
 .cache/
 docs/build/
 node_modules/
+dist/
 *.pyc
 *.swp
