@@ -34,3 +34,7 @@ def actual_count():
 @app.route("/get_forecast")
 def forecast():
     return json.dumps(model.get_forecast().toDict())
+
+@app.route("/get_config")
+def get_config():
+    return json.dumps(config.toDict())

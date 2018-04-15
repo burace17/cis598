@@ -23,8 +23,22 @@ reader_class = "PAReader"
 
 # These values will be displayed to the user
 elex_name = "Pennsylvania's 18th Congressional District Special Election"
+
+# Define all of the candidates that will be displayed to the user here.
+# The keys of the candidate_info dictionary must correspond to the names defined in the candidates array defined above.
+# Use the display name to indicate how each candidate's name should be displayed to the user.
 candidate_info = {
     "SACCONE, RICHARD": { "display_name": "Rick Saccone", "party":"Republican"},
     "LAMB, CONNOR": { "display_name": "Conor Lamb", "party":"Democratic"},
     "MILLER, DREW GRAY": { "display_name": "Drew Gray Miller", "party":"Libertarian"}
 }
+
+# --------------------------------------------------------
+# Retrieves all of the variables used in this module and stores them in a dictionary so they can be converted easily to JSON
+def toDict():
+    d = {}
+    attributes = globals()
+    for var in attributes:
+        if not var.startswith("__") and type(attributes[var]) == str:
+            d[var] = attributes[var]
+    return d
