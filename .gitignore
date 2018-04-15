@@ -1,5 +1,6 @@
 .vscode/
 .cache/
 docs/build/
+node_modules/
 *.pyc
 *.swp
