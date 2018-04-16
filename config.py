@@ -39,6 +39,6 @@ def toDict():
     d = {}
     attributes = globals()
     for var in attributes:
-        if not var.startswith("__") and type(attributes[var]) == str:
+        if not var.startswith("__") and (type(attributes[var]) == str or type(attributes[var]) == dict):
             d[var] = attributes[var]
     return d
