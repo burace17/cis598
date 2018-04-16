@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { CandidateInfo, Candidate } from '../types/index';
 
-export interface Properties {
+interface Properties {
     info: CandidateInfo;
 }
 
