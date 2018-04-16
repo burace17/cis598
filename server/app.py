@@ -1,5 +1,7 @@
 from flask import Flask
 from flask import render_template
+from flask_cors import CORS
+from flask_cors import cross_origin
 from cis598 import config
 from cis598.forecaster.model import Model
 from cis598.forecaster.result_reader import ResultReader
@@ -9,6 +11,7 @@ import time
 import json
 
 app = Flask(__name__, static_url_path="/static")
+CORS(app)
 
 model_module = importlib.import_module(config.model)
 result_module = importlib.import_module(config.result_reader)
@@ -32,5 +35,6 @@ def forecast():
     return json.dumps(model.get_forecast().toDict())
 
 @app.route("/get_config")
+@cross_origin()
 def get_config():
     return json.dumps(config.toDict())
