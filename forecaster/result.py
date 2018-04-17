@@ -1,3 +1,4 @@
+import copy
 class Result:
     """
     Stores the result of an election. This class is essentially a light wrapper around a dictionary
@@ -12,16 +13,13 @@ class Result:
             :param parts_reporting: (Optional) The number of parts at this location that have reported. For counties, this tends to be precincts (defaults to 0)
             :param total_parts: (Optional) Total number of parts (defaults to 0)
         """
-        assert isinstance(candidates, list)
-        self.candidates = {}
+        assert isinstance(candidates, dict)
+        self.candidates = copy.deepcopy(candidates)
         self.total_votes = 0
         self.name = name
 
         self.parts_reporting = parts_reporting
         self.total_parts = total_parts
-
-        for candidate in candidates:
-            self.candidates[candidate] = 0
             
     def toDict(self):
         return {"name":self.name, "parts_reporting":self.parts_reporting, "total_parts":self.total_parts, "candidates":self.candidates}
@@ -34,7 +32,7 @@ class Result:
         if not candidate in self.candidates.keys():
             raise ValueError
         else:
-            self.candidates[candidate] += votes
+            self.candidates[candidate]["votes"] += votes
             self.total_votes += votes
 
     def __add__(self, other):
@@ -58,10 +56,10 @@ class Result:
         if not candidate in self.candidates.keys():
             raise ValueError
         else:
-            return self.candidates[candidate]
+            return self.candidates[candidate]["votes"]
 
     def set_votes(self, candidate, votes):
-        self.candidates[candidate] = votes
+        self.candidates[candidate]["votes"] = votes
 
     def __safeCalculateVotePercentage(self, candidate_votes, total):
         """
@@ -82,7 +80,7 @@ class Result:
         if not candidate in self.candidates.keys():
             raise ValueError
         else:
-            return self.__safeCalculateVotePercentage(self.candidates[candidate], self.total_votes)
+            return self.__safeCalculateVotePercentage(self.candidates[candidate]["votes"], self.total_votes)
 
     def get_total_votes(self):
         """
@@ -102,7 +100,7 @@ class Result:
         """
         summary = {}
         for candidate in self.candidates:
-            summary[candidate] = self.__safeCalculateVotePercentage(self.candidates[candidate], self.total_votes)
+            summary[candidate] = self.__safeCalculateVotePercentage(self.candidates[candidate]["votes"], self.total_votes)
         return summary
 
     def get_name(self):
@@ -114,4 +112,4 @@ class Result:
     def clear_votes(self):
         self.total_votes = 0
         for candidate in self.candidates.keys():
-            self.candidates[candidate] = 0
+            self.candidates[candidate]["votes"] = 0

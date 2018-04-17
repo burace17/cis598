@@ -1,4 +1,4 @@
-from forecaster.result import Result
+from cis598.forecaster.result import Result
 import pytest
 class TestResult:
     """
@@ -8,8 +8,13 @@ class TestResult:
         """
         Initialize unit tests
         """
-        self.result = Result(["Candidate1","Candidate2","Candidate3"], "Test")
-        self.empty_result = Result([], "Empty")
+        self.candidates_dict = {
+            "Candidate1": { "display_name": "Candidate 1", "party":"Party 1", "votes":0},
+            "Candidate2": { "display_name": "Candidate 2", "party":"Party 2", "votes":0},
+            "Candidate3": { "display_name": "Candidate 3", "party":"Party 2", "votes":0}
+        }
+        self.result = Result(self.candidates_dict, "Test")
+        self.empty_result = Result({}, "Empty")
 
     def test_add_votes_invalid_candidate(self):
         """
@@ -25,11 +30,11 @@ class TestResult:
         Adding votes for a candidate updates the actual count stored in the object
         """
         self.result.add_votes("Candidate2", 5)
-        assert self.result.candidates["Candidate2"] == 5
+        assert self.result.candidates["Candidate2"]["votes"] == 5
 
         self.result.add_votes("Candidate3", 3)
-        assert self.result.candidates["Candidate3"] == 3
-        assert self.result.candidates["Candidate2"] == 5
+        assert self.result.candidates["Candidate3"]["votes"] == 3
+        assert self.result.candidates["Candidate2"]["votes"] == 5
 
     def test_add_operator_updates_count(self):
         """
@@ -38,15 +43,15 @@ class TestResult:
         self.result.add_votes("Candidate2", 17)
         self.result.add_votes("Candidate3", 46)
 
-        tmp = Result(["Candidate1","Candidate2","Candidate3"], "Temp")
+        tmp = Result(self.candidates_dict, "Temp")
         tmp.add_votes("Candidate1", 462)
         tmp.add_votes("Candidate2", 1)
         tmp.add_votes("Candidate3", 193)
 
         self.result += tmp
-        assert self.result.candidates["Candidate1"] == 462
-        assert self.result.candidates["Candidate2"] == 18
-        assert self.result.candidates["Candidate3"] == 193 + 46
+        assert self.result.candidates["Candidate1"]["votes"] == 462
+        assert self.result.candidates["Candidate2"]["votes"] == 18
+        assert self.result.candidates["Candidate3"]["votes"] == 193 + 46
         
     def test_get_votes_invalid_candidate(self):
         """
@@ -125,9 +130,9 @@ class TestResult:
 
         summary = self.result.get_summary()
         assert isinstance(summary, dict)
-        assert summary["Candidate1"] == 43
-        assert summary["Candidate2"] == 6
-        assert summary["Candidate3"] == 913
+        assert summary["Candidate1"]["votes"] == 43
+        assert summary["Candidate2"]["votes"] == 6
+        assert summary["Candidate3"]["votes"] == 913
         
     def test_get_percentage_summary_returns_dictionary(self):
         assert isinstance(self.empty_result.get_percentage_summary(), dict)

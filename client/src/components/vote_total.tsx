@@ -15,7 +15,7 @@ export function VoteTotal(props: Properties) {
                 <tr>
                 <td>{elem.display_name}</td>
                 <td>{elem.party}</td>
-                <td>{0}</td>
+                <td>{elem.votes}</td>
                 <td>{0.0}</td>
                 </tr>
             ));

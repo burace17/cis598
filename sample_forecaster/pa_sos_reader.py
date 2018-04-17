@@ -20,10 +20,10 @@ class PAReader(ResultReader):
         
         overall_results = Result(config.candidates, "PA-18")
         overall_counties = {
-            "ALLEGHENY":Result(["LAMB, CONOR", "SACCONE, RICHARD", "MILLER, DREW GRAY"], "ALLEGHENY"),
-            "GREENE":Result(["LAMB, CONOR", "SACCONE, RICHARD", "MILLER, DREW GRAY"], "GREEN"),
-            "WASHINGTON":Result(["LAMB, CONOR", "SACCONE, RICHARD", "MILLER, DREW GRAY"], "WASHINGTON"),
-            "WESTMORELAND":Result(["LAMB, CONOR", "SACCONE, RICHARD", "MILLER, DREW GRAY"], "WESTMORELAND")
+            "ALLEGHENY":Result(config.candidates, "ALLEGHENY"),
+            "GREENE":Result(config.candidates, "GREEN"),
+            "WASHINGTON":Result(config.candidates, "WASHINGTON"),
+            "WESTMORELAND":Result(config.candidates, "WESTMORELAND")
         }
 
         for county_dict in county_arr:
