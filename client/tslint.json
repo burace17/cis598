@@ -3,7 +3,6 @@
     "rules": {
         "align": [
             true,
-            "parameters",
             "arguments",
             "statements"
         ],
@@ -47,7 +46,6 @@
             true,
             "check-catch",
             "check-else",
-            "check-open-brace",
             "check-whitespace"
         ],
         "radix": true,

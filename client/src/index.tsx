@@ -10,6 +10,36 @@ import { Candidate, CandidateInfo } from "./types/index";
 const CAND_INFO_STR = "candidate_info";
 const ELEX_NAME_STR = "elex_name";
 
+function updateVoteTotals(electionName?: string, voteTotals?: Map<string, Candidate>, 
+    precinctsReporting: number = 0, totalPrecincts: number = 0) 
+{
+    if (electionName)
+    {
+        ReactDOM.render(
+            <ElectionName name={electionName} />,
+            document.getElementById("election_name")
+        );
+    }
+
+    if (voteTotals)
+    {
+        ReactDOM.render(
+            <VoteTotal info={voteTotals} />,
+            document.getElementById("vote_totals")
+        );
+    }
+
+    ReactDOM.render(
+        <PrecinctsReporting precincts_reported={precinctsReporting} total_precincts={totalPrecincts} />,
+        document.getElementById("precincts_reporting")
+    );
+
+    ReactDOM.render(
+        <LastUpdated />,
+        document.getElementById("last_updated")
+    );
+}
+
 fetch("http://localhost:5000/get_config").then(response => {
     return response.json();
 }).then(cfg => {
@@ -19,23 +49,5 @@ fetch("http://localhost:5000/get_config").then(response => {
         candidateInfo.set(key, candidateObj[key]);
     });
 
-    ReactDOM.render(
-        <ElectionName name={cfg[ELEX_NAME_STR]} />,
-        document.getElementById("election_name")
-    );
-
-    ReactDOM.render(
-        <VoteTotal info={candidateInfo} />,
-        document.getElementById("vote_totals")
-    );
-
-    ReactDOM.render(
-        <PrecinctsReporting />,
-        document.getElementById("precincts_reporting")
-    );
-
-    ReactDOM.render(
-        <LastUpdated />,
-        document.getElementById("last_updated")
-    );
+    updateVoteTotals(cfg[ELEX_NAME_STR], candidateInfo);
 });
