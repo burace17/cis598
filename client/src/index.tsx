@@ -3,6 +3,8 @@ import * as ReactDOM from 'react-dom';
 
 import { VoteTotal } from "./components/vote_total";
 import { ElectionName } from "./components/election_name";
+import { PrecinctsReporting } from "./components/precincts_reporting";
+import { LastUpdated } from "./components/last_updated";
 import { Candidate, CandidateInfo } from "./types/index";
 
 const CAND_INFO_STR = "candidate_info";
@@ -21,9 +23,19 @@ fetch("http://localhost:5000/get_config").then(response => {
         <ElectionName name={cfg[ELEX_NAME_STR]} />,
         document.getElementById("election_name")
     );
-    
+
     ReactDOM.render(
         <VoteTotal info={candidateInfo} />,
         document.getElementById("vote_totals")
+    );
+
+    ReactDOM.render(
+        <PrecinctsReporting />,
+        document.getElementById("precincts_reporting")
+    );
+
+    ReactDOM.render(
+        <LastUpdated />,
+        document.getElementById("last_updated")
     );
 });
