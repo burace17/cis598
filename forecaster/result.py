@@ -22,7 +22,7 @@ class Result:
         self.total_parts = total_parts
             
     def toDict(self):
-        return {"name":self.name, "parts_reporting":self.parts_reporting, "total_parts":self.total_parts, "candidates":self.candidates}
+        return {"name":self.name, "parts_reporting":self.parts_reporting, "total_parts":self.total_parts, "candidates":self.candidates, "total_votes":self.total_votes}
     
     def add_votes(self, candidate, votes):
         """

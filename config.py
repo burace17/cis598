@@ -24,9 +24,9 @@ elex_name = "Pennsylvania's 18th Congressional District Special Election"
 # The keys of the candidate_info dictionary must correspond to the names defined in the candidates array defined above.
 # Use the display name to indicate how each candidate's name should be displayed to the user.
 candidates = {
-    "SACCONE, RICHARD": { "display_name": "Rick Saccone", "party":"Republican", "votes":0},
-    "LAMB, CONOR": { "display_name": "Conor Lamb", "party":"Democratic", "votes":0},
-    "MILLER, DREW GRAY": { "display_name": "Drew Gray Miller", "party":"Libertarian", "votes":0}
+    "SACCONE, RICHARD": { "displayName": "Rick Saccone", "party":"Republican", "votes":0},
+    "LAMB, CONOR": { "displayName": "Conor Lamb", "party":"Democratic", "votes":0},
+    "MILLER, DREW GRAY": { "displayName": "Drew Gray Miller", "party":"Libertarian", "votes":0}
 }
 
 # --------------------------------------------------------

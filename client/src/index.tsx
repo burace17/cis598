@@ -13,9 +13,12 @@ const RESULT_OBJ_NAME = "name";
 const RESULT_CANDIDATE_NAME = "candidates";
 const RESULT_PARTS_REPORTING = "parts_reporting";
 const RESULT_TOTAL_PARTS = "total_parts";
+const RESULT_TOTAL_VOTES = "total_votes";
 
-function updateVoteTotals(electionName: string = "Election", voteTotals?: Map<string, Candidate>, 
-    precinctsReporting: number = 0, totalPrecincts: number = 0) 
+const UPDATE_INTERVAL = 20000;
+
+function updateVoteTotals(electionName: string = "Election", voteTotals?: CandidateInfo, 
+    precinctsReporting: number = 0, totalPrecincts: number = 0, totalVotes: number = 0) 
 {
     ReactDOM.render(
         <ElectionName name={electionName} />,
@@ -23,7 +26,7 @@ function updateVoteTotals(electionName: string = "Election", voteTotals?: Map<st
     );
 
     ReactDOM.render(
-        <VoteTotal info={voteTotals} />,
+        <VoteTotal info={voteTotals} totalVotes={totalVotes} />,
         document.getElementById("vote_totals")
     );
 
@@ -43,14 +46,15 @@ function convertToResult(resultObj: object): Result {
     const candidates: object = resultObj[RESULT_CANDIDATE_NAME];
     const partsReporting = resultObj[RESULT_PARTS_REPORTING];
     const totalParts = resultObj[RESULT_TOTAL_PARTS];
+    const totalVotes = resultObj[RESULT_TOTAL_VOTES];
 
-    // convert candidates object to Map<string, number>
+    // convert candidates object to Map<string, Candidate>
     var candidateMap = new Map<string, Candidate>();
     Object.keys(candidates).forEach(key => {
         candidateMap.set(key, candidates[key]);
     });
 
-    return new Result(name, candidateMap, partsReporting, totalParts);
+    return new Result(name, candidateMap, partsReporting, totalParts, totalVotes);
 }
 
 function fetchNewResults() {
@@ -58,17 +62,10 @@ function fetchNewResults() {
         return response.json();
     }).then(response => {
         const result = convertToResult(response);
-        updateVoteTotals(result.name, result.candidates, result.partsReporting, result.totalParts);
+        updateVoteTotals(result.name, result.candidates, result.partsReporting, result.totalParts, result.totalVotes);
     });
 }
 
-// fetch("http://localhost:5000/get_config").then(response => {
-//     return response.json();
-// }).then(cfg => {
-//     const result = convertToResult(cfg);
-//     updateVoteTotals(result.name, result.candidates);
-// });
-
 updateVoteTotals();
 fetchNewResults();
-setInterval(() => fetchNewResults(), 5000);
+setInterval(() => fetchNewResults(), UPDATE_INTERVAL);

@@ -1,5 +1,5 @@
 export interface Candidate {
-    display_name: string;
+    displayName: string;
     party: string;
     votes: number;
 }
@@ -8,15 +8,17 @@ export type CandidateInfo = Map<string, Candidate>;
 
 export class Result {
     name: string;
-    candidates: Map<string, Candidate>;
+    candidates: CandidateInfo;
     partsReporting: number;
     totalParts: number;
+    totalVotes: number;
 
-    constructor(name: string, candidates: Map<string, Candidate>, partsReporting: number, totalParts: number)
+    constructor(name: string, candidates: CandidateInfo, partsReporting: number, totalParts: number, totalVotes: number)
     {
         this.name = name;
         this.candidates = candidates;
         this.partsReporting = partsReporting;
         this.totalParts = totalParts;
+        this.totalVotes = totalVotes;
     }
 }
