@@ -12,13 +12,23 @@ export function VoteTotal(props: Properties) {
     var candidateElements: Array<JSX.Element> = [];
     if (info)
     {
-        info.forEach(elem => {
+        // Convert the Map to an Array so we can sort it by number of votes.
+        const mapArr = Array.from(info);
+        const sorted = mapArr.sort((a, b) => {
+            if (a[1].votes < b[1].votes)
+                return -1;
+            else if (a[1].votes === b[1].votes)
+                return 0;
+            else
+                return 1;
+        }).reverse();
+        sorted.forEach(elem => {
             candidateElements.push((
                 <tr>
-                <td>{elem.displayName}</td>
-                <td>{elem.party}</td>
-                <td>{elem.votes}</td>
-                <td>{((elem.votes / totalVotes) * 100).toFixed(2)}</td>
+                <td>{elem[1].displayName}</td>
+                <td>{elem[1].party}</td>
+                <td>{elem[1].votes}</td>
+                <td>{((elem[1].votes / totalVotes) * 100).toFixed(2)}</td>
                 </tr>
             ));
         });
