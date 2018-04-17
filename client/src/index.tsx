@@ -10,24 +10,18 @@ import { Candidate, CandidateInfo } from "./types/index";
 const CAND_INFO_STR = "candidate_info";
 const ELEX_NAME_STR = "elex_name";
 
-function updateVoteTotals(electionName?: string, voteTotals?: Map<string, Candidate>, 
+function updateVoteTotals(electionName: string = "Election", voteTotals?: Map<string, Candidate>, 
     precinctsReporting: number = 0, totalPrecincts: number = 0) 
 {
-    if (electionName)
-    {
-        ReactDOM.render(
-            <ElectionName name={electionName} />,
-            document.getElementById("election_name")
-        );
-    }
+    ReactDOM.render(
+        <ElectionName name={electionName} />,
+        document.getElementById("election_name")
+    );
 
-    if (voteTotals)
-    {
-        ReactDOM.render(
-            <VoteTotal info={voteTotals} />,
-            document.getElementById("vote_totals")
-        );
-    }
+    ReactDOM.render(
+        <VoteTotal info={voteTotals} />,
+        document.getElementById("vote_totals")
+    );
 
     ReactDOM.render(
         <PrecinctsReporting precincts_reported={precinctsReporting} total_precincts={totalPrecincts} />,
@@ -51,3 +45,5 @@ fetch("http://localhost:5000/get_config").then(response => {
 
     updateVoteTotals(cfg[ELEX_NAME_STR], candidateInfo);
 });
+
+updateVoteTotals();

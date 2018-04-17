@@ -8,16 +8,20 @@ interface Properties {
 export function VoteTotal(props: Properties) {
     const info: CandidateInfo = props.info;
     var candidateElements: Array<JSX.Element> = [];
-    info.forEach(elem => {
-        candidateElements.push((
-            <tr>
-            <td>{elem.display_name}</td>
-            <td>{elem.party}</td>
-            <td>{0}</td>
-            <td>{0.0}</td>
-            </tr>
-        ));
-    });
+    if (info)
+    {
+        info.forEach(elem => {
+            candidateElements.push((
+                <tr>
+                <td>{elem.display_name}</td>
+                <td>{elem.party}</td>
+                <td>{0}</td>
+                <td>{0.0}</td>
+                </tr>
+            ));
+        });
+    }
+  
     return (
         <table className="table">
             <thead>
