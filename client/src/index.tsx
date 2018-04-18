@@ -5,6 +5,7 @@ import { VoteTotal } from "./components/vote_total";
 import { ElectionName } from "./components/election_name";
 import { PrecinctsReporting } from "./components/precincts_reporting";
 import { LastUpdated } from "./components/last_updated";
+import { ResultMap } from "./components/map";
 import { Candidate, CandidateInfo, Result } from "./types/index";
 
 const CAND_INFO_STR = "candidate_info";
@@ -38,6 +39,11 @@ function updateVoteTotals(electionName: string = "Election", voteTotals?: Candid
     ReactDOM.render(
         <LastUpdated />,
         document.getElementById("last_updated")
+    );
+
+    ReactDOM.render(
+        <ResultMap voteData={voteTotals} />,
+        document.getElementById("actual_results_map")
     );
 }
 
