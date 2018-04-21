@@ -20,9 +20,7 @@ result_reader = getattr(result_module, config.reader_class)()
 model = getattr(model_module, config.model_class)(result_reader)
 
 def update_forecast():
-    while True:
-        model.update_forecast()
-        time.sleep(30)
+    model.update_forecast()
 
 threading.Thread(target=update_forecast).start()
 
@@ -38,3 +36,11 @@ def forecast():
 @cross_origin()
 def get_config():
     return json.dumps(config.toDict())
+
+@app.route("/get_actual_subdiv")
+def actual_subdiv():
+    return json.dumps(model.get_actual_subdiv())
+
+@app.route("/get_forecast_subdiv")
+def forecast_subdiv():
+    return json.dumps(model.get_forecast_subdiv())

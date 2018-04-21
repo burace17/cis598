@@ -27,7 +27,21 @@ class Model:
                 :return: A Result object containing the actual election result as they have been counted.
         """
         raise NotImplementedError
+    
+    def get_actual_subdiv_count(self):
+        """
+            Gets the actual election results by subdivision
+                :return: A object that maps subdivision name to the Result object containing the actual results for that subdivision.
+        """
+        raise NotImplementedError
 
+    def get_forecast_subdiv(self):
+        """
+            Gets the predicted outcome of the election by subdivision.
+                :return: A object that maps subdivision name to the Result object containing the predicted results for that subdivision.
+        """
+        raise NotImplementedError
+    
     def update_forecast(self):
         """
            Updates the forecast by requesting more results from the result reader connected to this model

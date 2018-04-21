@@ -82,3 +82,15 @@ class SampleModel(Model):
 
     def get_forecast(self):
         return self.predicted_overall
+
+    def get_actual_subdiv(self):
+        ret = {}
+        for county,result in self.actual_counties.items():
+            ret[county] = result.toDict()
+        return ret
+    
+    def get_forecast_subdiv(self):
+        ret = {}
+        for county,result in self.predicted_counties.items():
+            ret[county] = result.toDict()
+        return ret
