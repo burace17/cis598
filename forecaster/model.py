@@ -28,7 +28,7 @@ class Model:
         """
         raise NotImplementedError
     
-    def get_actual_subdiv_count(self):
+    def get_actual_subdiv(self):
         """
             Gets the actual election results by subdivision
                 :return: A object that maps subdivision name to the Result object containing the actual results for that subdivision.
