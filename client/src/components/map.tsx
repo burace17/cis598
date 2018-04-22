@@ -2,6 +2,7 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { Map, esriPromise } from 'react-arcgis';
 import { CandidateInfo, Candidate, Result } from '../types/index';
+import { ResultWidget } from './result_widget';
 
 interface Properties {
     voteData: Map<string, Result>;
@@ -10,7 +11,7 @@ interface Properties {
 export class ResultMap extends React.Component<Properties, object> {
     map: __esri.Map = null;
     view: __esri.MapView = null;
-    shape: __esri.FeatureLayer = null;
+    widget: JSX.Element = null;
 
     constructor(props: Properties)
     {
@@ -24,12 +25,12 @@ export class ResultMap extends React.Component<Properties, object> {
         this.map = map;
         this.view = view;
         esriPromise(["esri/layers/FeatureLayer", "esri/layers/GraphicsLayer", "esri/Graphic", "esri/symbols/SimpleFillSymbol"]).then(([FeatureLayer, GraphicsLayer, Graphic, SimpleFillSymbol]) => {
-            this.shape = new FeatureLayer({
+            var shape: __esri.FeatureLayer = new FeatureLayer({
                 url: "https://services8.arcgis.com/yBvhbG6FeRtNxtFh/arcgis/rest/services/PA18/FeatureServer",
                 outFields: ["NAME"]
             });
     
-            this.shape.queryFeatures().then(featureSet => {
+            shape.queryFeatures().then(featureSet => {
                 for (var i = 0; i < featureSet.features.length; i++)
                 {
                     var graphic = featureSet.features[i];
@@ -58,14 +59,17 @@ export class ResultMap extends React.Component<Properties, object> {
                 }
             });
 
-            this.shape.queryExtent().then(response => {
+            shape.queryExtent().then(response => {
                this.view.goTo(response.extent);
             });
 
             this.view.on("pointer-move", event => {
                 this.view.hitTest(event).then(response => {
                     const graphic = response.results[0].graphic;
-                    console.log(graphic.attributes);
+                    const subdivName = graphic.getAttribute("NAME");
+                    const subdivResults = this.props.voteData.get(subdivName.toUpperCase());
+
+                    this.widget = <ResultWidget result={subdivResults} view={this.view} />
                 });
             });
         });
@@ -79,7 +83,7 @@ export class ResultMap extends React.Component<Properties, object> {
     render() 
     { 
         return (
-            <Map onLoad={this.handleMapLoad} onFail={this.handleMapError} />
+            <Map onLoad={this.handleMapLoad} onFail={this.handleMapError}>{this.widget}</Map>
         );
     }
 }
