@@ -57,13 +57,13 @@ class SampleModel(Model):
     def update_forecast(self):
         new_results = self.result_reader.check_for_new_results()
         self.actual_overall = new_results[0]
-        new_counties = new_results[1]
+        self.actual_counties = new_results[1]
 
-        for county,result in new_counties.items():
+        for county,result in self.actual_counties.items():
            if result.parts_reporting == result.total_parts:
                self.predicted_counties[county] = copy.deepcopy(result)
            elif result.parts_reporting > 0:
-                bench_r_delta = new_counties[county].get_percentage(republican) - self.benchmark_counties[county].get_percentage(republican)
+                bench_r_delta = self.actual_counties[county].get_percentage(republican) - self.benchmark_counties[county].get_percentage(republican)
                 bench_r_delta *= result.parts_reporting / result.total_parts
                 new_r_per = self.benchmark_counties[county].get_percentage(republican) + bench_r_delta
                 new_d_per = 0.99 - new_r_per

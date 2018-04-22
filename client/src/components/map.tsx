@@ -1,10 +1,10 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { Map, esriPromise } from 'react-arcgis';
-import { CandidateInfo, Candidate } from '../types/index';
+import { CandidateInfo, Candidate, Result } from '../types/index';
 
 interface Properties {
-    voteData: CandidateInfo;
+    voteData: Map<string, Result>;
 }
 
 export class ResultMap extends React.Component<Properties, object> {
@@ -47,7 +47,13 @@ export class ResultMap extends React.Component<Properties, object> {
                         symbol: symbol,
                         attributes: graphic.attributes
                     });
-                    newGraphic.setAttribute("test", "test1234");
+                    
+                    const subdivName = graphic.getAttribute("NAME");
+                    const subdivResults = this.props.voteData.get(subdivName.toUpperCase());
+                    
+                    subdivResults.candidates.forEach((info, name) => {
+                        newGraphic.setAttribute(info.displayName, info.votes);
+                    });
                     view.graphics.add(newGraphic);
                 }
             });

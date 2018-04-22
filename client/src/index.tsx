@@ -41,8 +41,12 @@ function updateVoteTotals(electionName: string = "Election", voteTotals?: Candid
         document.getElementById("last_updated")
     );
 
+}
+
+function updateMaps(resultsBySubdiv: Map<string, Result>)
+{
     ReactDOM.render(
-        <ResultMap voteData={voteTotals} />,
+        <ResultMap voteData={resultsBySubdiv} />,
         document.getElementById("actual_results_map")
     );
 }
@@ -63,12 +67,30 @@ function convertToResult(resultObj: object): Result {
     return new Result(name, candidateMap, partsReporting, totalParts, totalVotes);
 }
 
+// Returns a Map which maps subdivision names to the 
+function convertSubdivResults(resultObj: object): Map<string, Result> 
+{
+    var results = new Map<string, Result>();
+    for (var subdiv in resultObj)
+    {
+        results.set(subdiv, convertToResult(resultObj[subdiv]));
+    }
+    return results;
+}
+
 function fetchNewResults() {
     fetch("http://localhost:5000/get_actual_count").then (response => {
         return response.json();
     }).then(response => {
         const result = convertToResult(response);
         updateVoteTotals(result.name, result.candidates, result.partsReporting, result.totalParts, result.totalVotes);
+    });
+
+    fetch("http://localhost:5000/get_actual_subdiv").then (response => {
+        return response.json();
+    }).then(response => {
+        const subDivResults = convertSubdivResults(response);
+        updateMaps(subDivResults);
     });
 }
 
