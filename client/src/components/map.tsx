@@ -8,10 +8,17 @@ interface Properties {
     voteData: Map<string, Result>;
 }
 
+function getWinnerColor(result: Result)
+{
+    
+}
+
 export class ResultMap extends React.Component<Properties, object> {
     map: __esri.Map = null;
     view: __esri.MapView = null;
     widget: JSX.Element = null;
+
+    cursorOverSubdiv: string = "";
 
     constructor(props: Properties)
     {
@@ -34,9 +41,12 @@ export class ResultMap extends React.Component<Properties, object> {
                 for (var i = 0; i < featureSet.features.length; i++)
                 {
                     var graphic = featureSet.features[i];
+                    const subdivName = graphic.getAttribute("NAME");
+                    const subdivResults = this.props.voteData.get(subdivName.toUpperCase());
+
                     const symbol = new SimpleFillSymbol({
                         type: "simple-fill",
-                        color: [255, 0, 0, ],
+                        color: [255, 0, 0, 1.0],
                         style: "solid",
                         outline: {
                             color: "black",
@@ -49,8 +59,7 @@ export class ResultMap extends React.Component<Properties, object> {
                         attributes: graphic.attributes
                     });
                     
-                    const subdivName = graphic.getAttribute("NAME");
-                    const subdivResults = this.props.voteData.get(subdivName.toUpperCase());
+                    
                     
                     subdivResults.candidates.forEach((info, name) => {
                         newGraphic.setAttribute(info.displayName, info.votes);
@@ -68,8 +77,15 @@ export class ResultMap extends React.Component<Properties, object> {
                     const graphic = response.results[0].graphic;
                     const subdivName = graphic.getAttribute("NAME");
                     const subdivResults = this.props.voteData.get(subdivName.toUpperCase());
-
-                    this.widget = <ResultWidget result={subdivResults} view={this.view} />
+                    
+                    if (subdivResults.name !== this.cursorOverSubdiv)
+                    {
+                        this.cursorOverSubdiv = subdivResults.name;
+                        this.widget = <ResultWidget result={subdivResults} view={this.view} />
+                        console.log("update widget");
+                        this.forceUpdate();
+                    }
+                        
                 });
             });
         });
@@ -82,7 +98,7 @@ export class ResultMap extends React.Component<Properties, object> {
 
     render() 
     { 
-        return (
+        return ( 
             <Map onLoad={this.handleMapLoad} onFail={this.handleMapError}>{this.widget}</Map>
         );
     }

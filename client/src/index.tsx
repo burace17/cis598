@@ -18,21 +18,20 @@ const RESULT_TOTAL_VOTES = "total_votes";
 
 const UPDATE_INTERVAL = 20000;
 
-function updateVoteTotals(electionName: string = "Election", voteTotals?: CandidateInfo, 
-    precinctsReporting: number = 0, totalPrecincts: number = 0, totalVotes: number = 0) 
+function updateVoteTotals(result?: Result) 
 {
     ReactDOM.render(
-        <ElectionName name={electionName} />,
+        <ElectionName result={result} />,
         document.getElementById("election_name")
     );
 
     ReactDOM.render(
-        <VoteTotal info={voteTotals} totalVotes={totalVotes} />,
+        <VoteTotal result={result} />,
         document.getElementById("vote_totals")
     );
 
     ReactDOM.render(
-        <PrecinctsReporting precincts_reported={precinctsReporting} total_precincts={totalPrecincts} />,
+        <PrecinctsReporting result={result} />,
         document.getElementById("precincts_reporting")
     );
 
@@ -83,7 +82,7 @@ function fetchNewResults() {
         return response.json();
     }).then(response => {
         const result = convertToResult(response);
-        updateVoteTotals(result.name, result.candidates, result.partsReporting, result.totalParts, result.totalVotes);
+        updateVoteTotals(result);
     });
 
     fetch("http://localhost:5000/get_actual_subdiv").then (response => {

@@ -21,4 +21,25 @@ export class Result {
         this.totalParts = totalParts;
         this.totalVotes = totalVotes;
     }
+
+    getSortedCandidates()
+    {
+        const mapArr = Array.from(this.candidates);
+        const sorted = mapArr.sort((a, b) => {
+            if (a[1].votes < b[1].votes)
+                return -1;
+            else if (a[1].votes === b[1].votes)
+                return 0;
+            else
+                return 1;
+        }).reverse();
+
+        return sorted;
+    }
+    getWinner()
+    {
+        this.candidates.forEach((candidate, name) => {
+
+        });
+    }
 }

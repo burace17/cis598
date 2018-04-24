@@ -1,6 +1,8 @@
 import * as React from "react";
+import ReactDOMServer from "react-dom/server";
 import { esriPromise } from "react-arcgis";
 import { Result } from "../types/index";
+import { VoteTotal } from "./vote_total";
 
 interface Properties 
 {
@@ -10,7 +12,7 @@ interface Properties
 
 export class ResultWidget extends React.Component<Properties, object> 
 {
-    widget: __esri.Widget;
+    widget: HTMLElement;
     constructor(props: Properties)
     {
         super(props);
@@ -20,19 +22,14 @@ export class ResultWidget extends React.Component<Properties, object>
 
     render() : JSX.Element
     {
-        return null;
+        console.log("render widget");
+        return <VoteTotal result={this.props.result} />;
     }
 
     componentWillMount()
     {
-        esriPromise(["./result_widget_impl"]).then(([ResultInfo]) => 
-        {
-            console.log("widget loaded");
-            var resultInfo = new ResultInfo();
-            resultInfo.results = this.props.result;
-            this.widget = resultInfo;
-            this.props.view.ui.add(resultInfo, { position: "bottom-right", index: 2});
-        });
+        //console.log("render widget");
+        //const resultInfo = 
     }
 
     componentWillUnmount()

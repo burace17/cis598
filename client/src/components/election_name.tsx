@@ -1,12 +1,11 @@
-import * as React from 'react';
+import * as React from "react";
+import { Result } from "../types/index";
 
 interface Properties {
-    name: string;
+    result: Result;
 }
 
 export function ElectionName(props: Properties) {
-    if (props.name === undefined) {
-        props.name = "Election Results";
-    }
-    return (<h1 className="mt-5">{props.name} Results</h1>);
+    const name = props.result? props.result.name : "Election Results";
+    return (<h1 className="mt-5">{name} Results</h1>);
 }

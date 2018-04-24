@@ -1,12 +1,13 @@
 import * as React from 'react';
-
+import { Result } from "../types/index";
 interface Properties {
-    precincts_reported?: number;
-    total_precincts?: number;
+    result: Result;
 }
 
-export function PrecinctsReporting({precincts_reported = 0, total_precincts = 0}: Properties) {
+export function PrecinctsReporting(props: Properties) {
+    const precinctsReporting = props.result? props.result.partsReporting : 0;
+    const totalPrecincts = props.result? props.result.totalParts : 0;
     return (
-        <div>{precincts_reported} out of {total_precincts} precincts reporting.</div>
+        <div>{precinctsReporting} out of {totalPrecincts} precincts reporting.</div>
     );
 }
