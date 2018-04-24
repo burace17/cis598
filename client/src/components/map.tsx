@@ -6,8 +6,9 @@ import { ResultWidget } from './result_widget';
 
 interface Properties {
     voteData: Map<string, Result>;
-    mouseOver: (result: Result) => void;
-    mouseLeave: () => void;
+    actual: boolean;
+    mouseOver: (actual: boolean, result: Result) => void;
+    mouseLeave: (actual: boolean) => void;
 }
 
 // Eventually, this will become a configurable option.
@@ -100,7 +101,7 @@ export class ResultMap extends React.Component<Properties, object> {
                     if (subdivResults.name !== this.cursorOverSubdiv)
                     {
                         this.cursorOverSubdiv = subdivResults.name;
-                        this.props.mouseOver(subdivResults);
+                        this.props.mouseOver(this.props.actual, subdivResults);
                         //this.widget = <ResultWidget result={subdivResults} view={this.view} />
                         //console.log("update widget");
                         //this.forceUpdate();
@@ -111,7 +112,7 @@ export class ResultMap extends React.Component<Properties, object> {
 
             this.view.on("pointer-leave", event => {
                 this.cursorOverSubdiv = "";
-                this.props.mouseLeave();
+                this.props.mouseLeave(this.props.actual);
             });
         });
     }

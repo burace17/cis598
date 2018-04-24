@@ -20,32 +20,39 @@ const UPDATE_INTERVAL = 20000;
 
 var lastResult: Result = null;
 
-function onMouseOverSubdiv(result: Result)
+function onMouseOverSubdiv(actual: boolean, result: Result)
 {
-    updateVoteTotals(false, result);
+    updateVoteTotals(false, actual, result);
 }
 
-function onMouseLeaveSubdiv()
+function onMouseLeaveSubdiv(actual: boolean)
 {
-    updateVoteTotals(false, lastResult);
+    updateVoteTotals(false, actual, lastResult);
 }
 
-function updateVoteTotals(fromServer: boolean, result?: Result) 
+// Update the vote total box with the data contained in result.
+// fromServer specifies whether these results are new data from the server or just a change to show results from a subdivision
+// actual specifies whether these are actual results or forecasted results (different elements will be updated for both)
+function updateVoteTotals(fromServer: boolean, actual: boolean, result?: Result) 
 {
-    ReactDOM.render(
-        <ElectionName result={result} />,
-        document.getElementById("election_name")
-    );
-
+    const vote_totals_element_id = actual? "actual_vote_totals" : "forecast_vote_totals";
     ReactDOM.render(
         <VoteTotal result={result} />,
-        document.getElementById("vote_totals")
+        document.getElementById(vote_totals_element_id)
     );
 
-    ReactDOM.render(
-        <PrecinctsReporting result={result} />,
-        document.getElementById("precincts_reporting")
-    );
+    if (actual)
+    {
+        ReactDOM.render(
+            <ElectionName result={result} />,
+            document.getElementById("election_name")
+        );
+    
+        ReactDOM.render(
+            <PrecinctsReporting result={result} />,
+            document.getElementById("precincts_reporting")
+        );
+    }
 
     // If these results are from the server, we can update the last update time and save this result.
     if (fromServer)
@@ -56,15 +63,14 @@ function updateVoteTotals(fromServer: boolean, result?: Result)
             document.getElementById("last_updated")
         );
     }
-   
-
 }
 
-function updateMaps(resultsBySubdiv: Map<string, Result>)
+function updateMaps(actual: boolean, resultsBySubdiv: Map<string, Result>)
 {
+    const result_map_element_id = actual? "actual_results_map" : "forecast_results_map";
     ReactDOM.render(
-        <ResultMap voteData={resultsBySubdiv} mouseOver={onMouseOverSubdiv} mouseLeave={onMouseLeaveSubdiv} />,
-        document.getElementById("actual_results_map")
+        <ResultMap voteData={resultsBySubdiv} mouseOver={onMouseOverSubdiv} mouseLeave={onMouseLeaveSubdiv} actual={actual} />,
+        document.getElementById(result_map_element_id)
     );
 }
 
@@ -100,17 +106,31 @@ function fetchNewResults() {
         return response.json();
     }).then(response => {
         const result = convertToResult(response);
-        updateVoteTotals(true, result);
+        updateVoteTotals(true, true, result);
     });
 
     fetch("http://localhost:5000/get_actual_subdiv").then (response => {
         return response.json();
     }).then(response => {
         const subDivResults = convertSubdivResults(response);
-        updateMaps(subDivResults);
+        updateMaps(true, subDivResults);
+    });
+
+    fetch("http://localhost:5000/get_forecast").then (response => {
+        return response.json();
+    }).then(response => {
+        const result = convertToResult(response);
+        updateVoteTotals(false, false, result);
+    });
+
+    fetch("http://localhost:5000/get_forecast_subdiv").then (response => {
+        return response.json();
+    }).then(response => {
+        const subDivResults = convertSubdivResults(response);
+        updateMaps(false, subDivResults);
     });
 }
 
-updateVoteTotals(true);
+updateVoteTotals(true, true);
 fetchNewResults();
 setInterval(() => fetchNewResults(), UPDATE_INTERVAL);
