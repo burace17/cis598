@@ -36,10 +36,17 @@ export class Result {
 
         return sorted;
     }
-    getWinner()
+    getWinner() : [string, Candidate]
     {
-        this.candidates.forEach((candidate, name) => {
+        const sorted = this.getSortedCandidates();
+        const winner = sorted[0];
 
-        });
+        if (winner[1].votes === sorted[1][1].votes)
+            return ["Tie", null];
+
+        if (winner[1].votes === 0)
+            return ["NA", null];
+
+        return winner;
     }
 }

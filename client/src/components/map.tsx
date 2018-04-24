@@ -8,9 +8,26 @@ interface Properties {
     voteData: Map<string, Result>;
 }
 
+// Eventually, this will become a configurable option.
 function getWinnerColor(result: Result)
 {
-    
+    const winner = result.getWinner();
+    if (winner[0] === "Tie")
+    {
+       return [220, 0, 255, 1.0];
+    }
+    else if (winner[0] === "NA")
+    {
+        return [145,145,145,1.0];
+    }
+    else if (winner[1].party === "Democratic")
+    {
+        return [34,0,255,1.0];
+    }
+    else 
+    {
+        return [255,0,0,1.0];
+    }
 }
 
 export class ResultMap extends React.Component<Properties, object> {
@@ -46,7 +63,7 @@ export class ResultMap extends React.Component<Properties, object> {
 
                     const symbol = new SimpleFillSymbol({
                         type: "simple-fill",
-                        color: [255, 0, 0, 1.0],
+                        color: getWinnerColor(subdivResults),
                         style: "solid",
                         outline: {
                             color: "black",
