@@ -18,7 +18,19 @@ const RESULT_TOTAL_VOTES = "total_votes";
 
 const UPDATE_INTERVAL = 20000;
 
-function updateVoteTotals(result?: Result) 
+var lastResult: Result = null;
+
+function onMouseOverSubdiv(result: Result)
+{
+    updateVoteTotals(false, result);
+}
+
+function onMouseLeaveSubdiv()
+{
+    updateVoteTotals(false, lastResult);
+}
+
+function updateVoteTotals(fromServer: boolean, result?: Result) 
 {
     ReactDOM.render(
         <ElectionName result={result} />,
@@ -35,17 +47,23 @@ function updateVoteTotals(result?: Result)
         document.getElementById("precincts_reporting")
     );
 
-    ReactDOM.render(
-        <LastUpdated />,
-        document.getElementById("last_updated")
-    );
+    // If these results are from the server, we can update the last update time and save this result.
+    if (fromServer)
+    {
+        lastResult = result;
+        ReactDOM.render(
+            <LastUpdated />,
+            document.getElementById("last_updated")
+        );
+    }
+   
 
 }
 
 function updateMaps(resultsBySubdiv: Map<string, Result>)
 {
     ReactDOM.render(
-        <ResultMap voteData={resultsBySubdiv} />,
+        <ResultMap voteData={resultsBySubdiv} mouseOver={onMouseOverSubdiv} mouseLeave={onMouseLeaveSubdiv} />,
         document.getElementById("actual_results_map")
     );
 }
@@ -82,7 +100,7 @@ function fetchNewResults() {
         return response.json();
     }).then(response => {
         const result = convertToResult(response);
-        updateVoteTotals(result);
+        updateVoteTotals(true, result);
     });
 
     fetch("http://localhost:5000/get_actual_subdiv").then (response => {
@@ -93,6 +111,6 @@ function fetchNewResults() {
     });
 }
 
-updateVoteTotals();
+updateVoteTotals(true);
 fetchNewResults();
 setInterval(() => fetchNewResults(), UPDATE_INTERVAL);

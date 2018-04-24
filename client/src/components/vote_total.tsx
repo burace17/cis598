@@ -1,7 +1,8 @@
 import * as React from 'react';
 import { CandidateInfo, Candidate, Result } from '../types/index';
 
-interface Properties {
+interface Properties 
+{
     result: Result;
 }
 
