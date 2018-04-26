@@ -2,7 +2,6 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { Map, esriPromise } from 'react-arcgis';
 import { CandidateInfo, Candidate, Result } from '../types/index';
-import { ResultWidget } from './result_widget';
 
 //const mapServiceUrl = "https://services8.arcgis.com/yBvhbG6FeRtNxtFh/arcgis/rest/services/PA18/FeatureServer";
 const mapServiceUrl = "https://services8.arcgis.com/yBvhbG6FeRtNxtFh/arcgis/rest/services/KSCounties3/FeatureServer";
@@ -81,7 +80,8 @@ export class ResultMap extends React.Component<Properties, object>
                         type: "simple-fill",
                         color: getWinnerColor(subdivResults),
                         style: "solid",
-                        outline: {
+                        outline: 
+                        {
                             color: "black",
                             width: 1
                         }
@@ -169,7 +169,8 @@ export class ResultMap extends React.Component<Properties, object>
                     type: "simple-fill",
                     color: getWinnerColor(changedGraphic.result),
                     style: "solid",
-                    outline: {
+                    outline: 
+                    {
                         color: "black",
                         width: 1
                     }
