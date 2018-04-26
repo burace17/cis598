@@ -1,0 +1,3870 @@
+county,name,rep_votes,dem_votes,lib_votes,ind_votes,win_code
+ALLEN,001 Carlyle Township,88,39,3,0,16
+ALLEN,001 Cottage Grove Township,64,20,2,0,17
+ALLEN,001 Deer Creek Township,28,20,3,0,15
+ALLEN,001 East Elm,108,100,11,0,14
+ALLEN,001 Geneva Township,39,14,2,0,17
+ALLEN,001 Humboldt Township,66,37,6,0,16
+ALLEN,001 Humboldt Township Rural Enclave,0,0,0,0,0
+ALLEN,001 Humboldt Township Split,0,0,0,0,0
+ALLEN,001 Humboldt Ward 1,104,127,17,0,25
+ALLEN,001 Humboldt Ward 2,152,139,16,0,14
+ALLEN,001 Iola Ward 1,185,192,20,0,24
+ALLEN,001 Iola Ward 2,268,241,11,0,15
+ALLEN,001 Iola Ward 2 Exclave,0,0,0,0,0
+ALLEN,001 Iola Ward 3,189,234,21,0,25
+ALLEN,001 Iola Ward 4,206,218,23,0,24
+ALLEN,001 Logan Township S12,53,25,4,0,16
+ALLEN,001 Logan Township S15,0,0,0,0,0
+ALLEN,001 Marmaton Township,121,122,19,0,24
+ALLEN,001 North Elmsmore,39,18,6,0,16
+ALLEN,001 North Iola Part A,70,34,6,0,16
+ALLEN,001 North Iola Part A Rural Enclave,0,0,0,0,0
+ALLEN,001 North Iola Part B,0,0,0,0,0
+ALLEN,001 Osage Township,46,43,8,0,14
+ALLEN,001 Salem Township,50,49,7,0,14
+ALLEN,001 South Elmsmore,27,26,0,0,15
+ALLEN,001 South Iola,137,100,14,0,15
+ALLEN,001 South Iola Enclave,0,0,0,0,0
+ALLEN,001 West Elm,228,183,12,0,15
+ANDERSON,003 Garnett Precinct 1,187,134,25,0,15
+ANDERSON,003 Garnett Precinct 1 Exclave,0,0,0,0,0
+ANDERSON,003 Garnett Precinct 2,189,123,15,0,15
+ANDERSON,003 Garnett Precinct 3,137,95,10,0,15
+ANDERSON,003 Garnett Precinct 4,29,22,4,0,15
+ANDERSON,003 Indian Creek Township,35,13,0,0,17
+ANDERSON,003 Jackson Township H9,101,45,6,0,16
+ANDERSON,003 Lincoln Township,48,23,5,0,16
+ANDERSON,003 Lone Elm Township,65,20,9,0,16
+ANDERSON,003 Monroe Township,78,53,1,0,15
+ANDERSON,003 Ozark Township,128,59,17,0,16
+ANDERSON,003 Putnam Township,54,60,5,0,25
+ANDERSON,003 Reeder Township,48,26,6,0,16
+ANDERSON,003 Rich Township,77,41,7,0,16
+ANDERSON,003 Walker Township,120,107,21,0,14
+ANDERSON,003 Washington Township,61,39,3,0,15
+ANDERSON,003 Welda Township,54,44,10,0,15
+ANDERSON,003 Westphalia Township,73,36,3,0,16
+ATCHISON,005 Atchison Precinct 1,90,78,8,0,15
+ATCHISON,005 Atchison Precinct 2 East,120,88,10,0,15
+ATCHISON,005 Atchison Precinct 2 West,101,91,9,0,15
+ATCHISON,005 Atchison Precinct 3 East,197,184,7,0,15
+ATCHISON,005 Atchison Precinct 3 West,242,262,7,0,25
+ATCHISON,005 Atchison Precinct 4,125,205,10,0,26
+ATCHISON,005 Atchison Precinct 4 Exclave A,0,0,0,0,0
+ATCHISON,005 Atchison Precinct 4 Exclave B,0,0,0,0,0
+ATCHISON,005 Atchison Precinct 5 North,202,191,17,0,14
+ATCHISON,005 Atchison Precinct 5 North Exclave A,0,0,0,0,0
+ATCHISON,005 Atchison Precinct 5 North Exclave B,0,0,0,0,0
+ATCHISON,005 Atchison Precinct 5 South,109,104,8,0,14
+ATCHISON,005 Atchison Precinct 5 South Exclave A,0,0,0,0,0
+ATCHISON,005 Atchison Precinct 5 South Exclave B,0,0,0,0,0
+ATCHISON,005 Atchison Precinct 5 South Exclave C,0,0,0,0,0
+ATCHISON,005 Benton Township H62,131,148,15,0,25
+ATCHISON,005 Benton Township H63,41,38,5,0,14
+ATCHISON,005 Center Township,171,89,7,0,16
+ATCHISON,005 Grasshopper Township,172,76,6,0,16
+ATCHISON,005 Huron Township,43,25,6,0,15
+ATCHISON,005 Kapioma Township,70,43,10,0,15
+ATCHISON,005 Lancaster Township,106,98,16,0,14
+ATCHISON,005 Mount Pleasant Voting District Township,202,138,14,0,15
+ATCHISON,005 Shannon Township,248,192,14,0,15
+ATCHISON,005 Walnut Township,91,79,9,0,15
+ATCHISON,005 Walnut Township Enclave,0,0,0,0,0
+BARBER,007 Aetna Township,4,0,0,0,19
+BARBER,007 Deerhead Township,5,0,0,0,19
+BARBER,007 Eagle Township,14,0,0,0,19
+BARBER,007 Elm Mills Township,43,15,3,0,17
+BARBER,007 Elwood Township,43,18,4,0,16
+BARBER,007 Hazelton Township,39,30,3,0,15
+BARBER,007 Kiowa East Township,169,70,14,0,16
+BARBER,007 Kiowa West Township,102,57,10,0,16
+BARBER,007 Lake City Township,22,8,0,0,17
+BARBER,007 McAdoo Township,8,1,0,0,18
+BARBER,007 Medicine Lodge Precinct 1,160,107,10,0,15
+BARBER,007 Medicine Lodge Precinct 2,129,62,11,0,16
+BARBER,007 Medicine Lodge Precinct 2 Exclave,0,0,0,0,0
+BARBER,007 Medicine Lodge Precinct 3,83,55,3,0,15
+BARBER,007 Medicine Lodge Precinct 4,89,25,5,0,17
+BARBER,007 Medicine Lodge Precinct 5,21,5,1,0,17
+BARBER,007 Mingona Township,24,10,0,0,17
+BARBER,007 Moore Township,7,6,0,0,15
+BARBER,007 Nippawalla Township,16,0,0,0,19
+BARBER,007 Sharon Township,109,34,7,0,17
+BARBER,007 Sun City Township,19,1,1,0,19
+BARBER,007 Turkey Creek Township,5,5,0,0,0
+BARBER,007 Valley Township,46,11,0,0,18
+BARTON,009 Albion Township,19,1,0,0,19
+BARTON,009 Beaver Township,29,9,1,0,17
+BARTON,009 Buffalo Township,121,54,2,0,16
+BARTON,009 Cheyenne Township,72,18,4,0,17
+BARTON,009 Clarence Township,40,15,1,0,17
+BARTON,009 Cleveland Township,13,5,0,0,17
+BARTON,009 Comanche Township,114,47,5,0,16
+BARTON,009 Eureka Township,29,10,0,0,17
+BARTON,009 Fairview Township,28,6,4,0,17
+BARTON,009 Grant Township,14,13,0,0,15
+BARTON,009 Great Bend City Ward 1 Precinct 1,101,107,12,0,24
+BARTON,009 Great Bend City Ward 1 Precinct 1 Courthouse,0,0,0,0,0
+BARTON,009 Great Bend City Ward 1 Precinct 2,205,159,14,0,15
+BARTON,009 Great Bend City Ward 1 Precinct 3,170,102,20,0,15
+BARTON,009 Great Bend City Ward 2 Precinct 1,282,186,18,0,15
+BARTON,009 Great Bend City Ward 2 Precinct 2,281,184,20,0,15
+BARTON,009 Great Bend City Ward 2 Precinct 3,397,187,12,0,16
+BARTON,009 Great Bend City Ward 3 Precinct 1,193,119,6,0,16
+BARTON,009 Great Bend City Ward 3 Precinct 2,194,155,20,0,15
+BARTON,009 Great Bend City Ward 3 Precinct 3,250,162,19,0,15
+BARTON,009 Great Bend City Ward 3 Precinct 3 Exclave,0,0,0,0,0
+BARTON,009 Great Bend City Ward 4 Precinct 1,107,74,26,0,15
+BARTON,009 Great Bend City Ward 4 Precinct 2,81,64,6,0,15
+BARTON,009 Great Bend City Ward 4 Precinct 3,32,20,7,0,15
+BARTON,009 Great Bend City Ward 4 Precinct 3 Exclave A,0,0,0,0,0
+BARTON,009 Great Bend City Ward 4 Precinct 3 Exclave B,0,0,0,0,0
+BARTON,009 Great Bend City Ward 4 Precinct 3 Exclave C,0,0,0,0,0
+BARTON,009 Great Bend City Ward 4 Precinct 3 Exclave D1,0,0,0,0,0
+BARTON,009 Great Bend City Ward 4 Precinct 3 Exclave D2,0,0,0,0,0
+BARTON,009 Great Bend Township,0,0,0,0,0
+BARTON,009 Great Bend Township Part A,315,144,14,0,16
+BARTON,009 Great Bend Township Part B,57,17,6,0,17
+BARTON,009 Hoisington Landfill,0,0,0,0,0
+BARTON,009 Hoisington Ward 1,113,85,8,0,15
+BARTON,009 Hoisington Ward 2,133,83,9,0,15
+BARTON,009 Hoisington Ward 3,128,64,9,0,16
+BARTON,009 Hoisington Ward 4,98,66,6,0,15
+BARTON,009 Hoisington Ward 4 Exclave,0,0,0,0,0
+BARTON,009 Independent Township,185,73,17,0,16
+BARTON,009 Lakin Township,552,262,30,0,16
+BARTON,009 Liberty Township,70,32,2,0,16
+BARTON,009 Logan Township,50,18,2,0,17
+BARTON,009 North Homestead Township,30,19,1,0,16
+BARTON,009 Pawnee Rock Township,87,41,6,0,16
+BARTON,009 South Bend Township,155,62,15,0,16
+BARTON,009 South Homestead Township,91,34,6,0,16
+BARTON,009 Union Township,26,13,5,0,15
+BARTON,009 Walnut Township Albert,45,31,1,0,15
+BARTON,009 Walnut Township Olmitz,41,26,0,0,16
+BARTON,009 Wheatland Township,25,2,0,0,19
+BOURBON,011 Drywood Township,123,32,5,0,17
+BOURBON,011 Fort Scott Ward 1,158,126,22,0,15
+BOURBON,011 Fort Scott Ward 1 Exclave Colonial,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 1 Exclave Halls,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 1 Exclave Red Barn,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 1 Exclave Red Ram A,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 1 Exclave Red Ram B,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 2,163,145,12,0,15
+BOURBON,011 Fort Scott Ward 3,64,45,9,0,15
+BOURBON,011 Fort Scott Ward 4,159,144,14,0,15
+BOURBON,011 Fort Scott Ward 4 Exclave A,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 4 Exclave B,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 4 Exclave C,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 4 Exclave D,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 5,217,144,16,0,15
+BOURBON,011 Fort Scott Ward 6,287,186,12,0,15
+BOURBON,011 Fort Scott Ward 6 Exclave A,0,0,0,0,0
+BOURBON,011 Fort Scott Ward 7,231,176,16,0,15
+BOURBON,011 Franklin Township,84,32,7,0,16
+BOURBON,011 Freedom Township,110,45,4,0,16
+BOURBON,011 Marion Township,266,132,20,0,16
+BOURBON,011 Marmaton Township,192,99,14,0,16
+BOURBON,011 Mill Creek Township,107,59,6,0,16
+BOURBON,011 North Scott Township,173,130,5,0,15
+BOURBON,011 Osage Township,87,45,7,0,16
+BOURBON,011 Pawnee Township,75,43,2,0,16
+BOURBON,011 South Scott Township,434,224,21,0,16
+BOURBON,011 Timberhill Township,53,28,3,0,16
+BOURBON,011 Walnut Township,27,9,1,0,17
+BROWN,013 Hamlin Township,50,15,7,0,16
+BROWN,013 Hiawatha City Ward 1,73,69,13,0,14
+BROWN,013 Hiawatha City Ward 2,215,242,14,0,25
+BROWN,013 Hiawatha City Ward 3,188,174,10,0,15
+BROWN,013 Hiawatha City Ward 3 Exclave,0,0,0,0,0
+BROWN,013 Hiawatha City Ward 4,31,24,2,0,15
+BROWN,013 Hiawatha City Ward 4 Exclave Club,0,0,0,0,0
+BROWN,013 Hiawatha Township,161,87,8,0,16
+BROWN,013 Horton Ward 1,108,78,9,0,15
+BROWN,013 Horton Ward 2,76,45,8,0,15
+BROWN,013 Horton Ward 3,37,31,7,0,14
+BROWN,013 Horton Ward 3 Exclave A,0,0,0,0,0
+BROWN,013 Horton Ward 3 Exclave B,0,0,0,0,0
+BROWN,013 Irving Township,57,36,2,0,16
+BROWN,013 Mission Township,151,92,6,0,16
+BROWN,013 Morrill Township,141,36,4,0,17
+BROWN,013 Padonia Township,44,21,10,0,15
+BROWN,013 Powhattan Township,101,93,7,0,15
+BROWN,013 Reserve Township,27,12,3,0,16
+BROWN,013 Robinson Township,101,58,8,0,16
+BROWN,013 Sabetha Ward 1 Part 1 Exclave,0,0,0,0,0
+BROWN,013 Sabetha Ward 1 Part A,0,0,0,0,0
+BROWN,013 Sabetha Ward 1 Part B,0,0,0,0,0
+BROWN,013 Sabetha Ward 4 Part A,0,0,0,0,0
+BROWN,013 Sabetha Ward 4 Part B,0,0,0,0,0
+BROWN,013 Sabetha Ward 5,0,0,0,0,0
+BROWN,013 Walnut Township,158,77,15,0,16
+BROWN,013 Washington Township,106,46,6,0,16
+BUTLER,015 Andover Ward 1,955,723,67,0,15
+BUTLER,015 Andover Ward 2,781,575,52,0,15
+BUTLER,015 Andover Ward 3,350,252,32,0,15
+BUTLER,015 Andover Ward 4,100,28,2,0,17
+BUTLER,015 Augusta Ward 1,272,252,37,0,14
+BUTLER,015 Augusta Ward 2,215,183,22,0,15
+BUTLER,015 Augusta Ward 3,463,420,37,0,15
+BUTLER,015 Augusta Ward 4,470,316,37,0,15
+BUTLER,015 Augusta Township S14,75,54,6,0,15
+BUTLER,015 Augusta Township S16,198,91,12,0,16
+BUTLER,015 Benton Township / City,586,290,42,0,16
+BUTLER,015 Bloomington Township,98,56,7,0,16
+BUTLER,015 Bruno Township North H77,304,108,16,0,17
+BUTLER,015 Bruno Township North H99,154,82,10,0,16
+BUTLER,015 Bruno Township South H77,64,32,7,0,16
+BUTLER,015 Bruno Township South H99,71,31,3,0,16
+BUTLER,015 Chelsea Township,52,32,5,0,15
+BUTLER,015 Clay Township,22,11,1,0,16
+BUTLER,015 Clifford Township,70,19,1,0,17
+BUTLER,015 Douglass Township / City,316,270,38,0,15
+BUTLER,015 El Dorado Township West,108,82,6,0,15
+BUTLER,015 El Dorado Township East,27,38,4,0,25
+BUTLER,015 El Dorado Ward 1,655,571,49,0,15
+BUTLER,015 El Dorado Ward 2,441,484,56,0,24
+BUTLER,015 El Dorado Ward 3,361,357,41,0,14
+BUTLER,015 El Dorado Ward 4,246,255,25,0,24
+BUTLER,015 Fairmount Township / Elbing,197,58,5,0,17
+BUTLER,015 Fairview Township,124,63,7,0,16
+BUTLER,015 Glencoe Township,34,31,3,0,15
+BUTLER,015 Hickory Township,26,9,3,0,16
+BUTLER,015 Lincoln Township,74,27,4,0,17
+BUTLER,015 Little Walnut Township / Leon,153,103,35,0,15
+BUTLER,015 Logan Township,32,18,2,0,16
+BUTLER,015 Murdock Township,135,45,2,0,17
+BUTLER,015 Pleasant Township,746,400,48,0,16
+BUTLER,015 Plum Grove Township / Potwin,112,87,8,0,15
+BUTLER,015 Prospect Township,222,168,20,0,15
+BUTLER,015 Richland Township,336,183,27,0,16
+BUTLER,015 Rock Creek Township,73,33,8,0,16
+BUTLER,015 Rosalia Township,148,67,16,0,16
+BUTLER,015 Rose Hill,475,317,37,0,15
+BUTLER,015 Spring Township,316,209,21,0,15
+BUTLER,015 Sycamore / Cassoday,79,43,7,0,16
+BUTLER,015 Towanda Township / City,569,332,49,0,15
+BUTLER,015 Union Township / Latham,39,11,7,0,16
+BUTLER,015 Walnut Township,148,75,14,0,16
+BUTLER,015 Whitewater / Milton Township H72,176,76,17,0,16
+BUTLER,015 Whitewater / Milton Township H75,139,39,6,0,17
+CHASE,017 Bazaar Township,37,5,0,0,18
+CHASE,017 Cedar Township,21,13,2,0,15
+CHASE,017 Cottonwood Township,36,21,4,0,15
+CHASE,017 Diamond Township,78,32,3,0,16
+CHASE,017 East Falls Township,94,56,7,0,15
+CHASE,017 East Strong Township,76,96,10,0,25
+CHASE,017 Homestead Township,12,10,0,0,15
+CHASE,017 Matfield Township,30,25,2,0,15
+CHASE,017 Toledo Township,81,56,9,0,15
+CHASE,017 West Falls Township,96,102,14,0,24
+CHASE,017 West Strong Township,25,24,4,0,14
+CHAUTAUQUA,019 Caneyville Township,26,9,3,0,16
+CHAUTAUQUA,019 Center Township,22,2,2,0,18
+CHAUTAUQUA,019 Chautauqua,59,10,3,0,18
+CHAUTAUQUA,019 Harrison Township,24,4,0,0,18
+CHAUTAUQUA,019 Hendricks Township,20,13,2,0,15
+CHAUTAUQUA,019 Jefferson Township,94,63,9,0,15
+CHAUTAUQUA,019 Lafayette Township,12,5,4,0,15
+CHAUTAUQUA,019 Little Caney Township,66,18,2,0,17
+CHAUTAUQUA,019 North Sedan,139,82,21,0,15
+CHAUTAUQUA,019 Peru,81,19,13,0,17
+CHAUTAUQUA,019 Salt Creek Township,38,7,0,0,18
+CHAUTAUQUA,019 South Sedan,124,37,8,0,17
+CHAUTAUQUA,019 Summit Township,24,7,5,0,16
+CHAUTAUQUA,019 Washington Township,29,4,2,0,18
+CHEROKEE,021 Baxter Springs Ward 1,125,61,5,0,16
+CHEROKEE,021 Baxter Springs Ward 2,76,55,11,0,15
+CHEROKEE,021 Baxter Springs Ward 3,249,146,11,0,16
+CHEROKEE,021 Baxter Springs Ward 4,118,68,12,0,15
+CHEROKEE,021 Baxter Springs Ward 4 Exclave,0,0,0,0,0
+CHEROKEE,021 Cherokee Township,69,67,3,0,14
+CHEROKEE,021 Columbus Ward 1,75,51,11,0,15
+CHEROKEE,021 Columbus Ward 2,150,104,5,0,15
+CHEROKEE,021 Columbus Ward 3,133,93,13,0,15
+CHEROKEE,021 Columbus Ward 4,87,53,5,0,16
+CHEROKEE,021 Columbus Ward 5,96,79,7,0,15
+CHEROKEE,021 Columbus Ward 5 Exclave,0,0,0,0,0
+CHEROKEE,021 Crawford Township,153,102,4,0,15
+CHEROKEE,021 Galena Ward 1,90,60,7,0,15
+CHEROKEE,021 Galena Ward 2,76,49,6,0,15
+CHEROKEE,021 Galena Ward 2 Exclave A City Park,0,0,0,0,0
+CHEROKEE,021 Galena Ward 2 Exclave B,0,0,0,0,0
+CHEROKEE,021 Galena Ward 2 Exclave C,0,0,0,0,0
+CHEROKEE,021 Galena Ward 3,136,74,9,0,16
+CHEROKEE,021 Galena Ward 4,60,24,6,0,16
+CHEROKEE,021 Galena Ward 4 Exclave,0,0,0,0,0
+CHEROKEE,021 Garden Township Lowell,384,244,28,0,15
+CHEROKEE,021 Garden Township Stanley Mine,125,60,6,0,16
+CHEROKEE,021 Garden Township Stanley Mine Enclave A,0,0,0,0,0
+CHEROKEE,021 Garden Township Stanley Mine Enclave B,0,0,0,0,0
+CHEROKEE,021 Lola Township,64,30,0,0,16
+CHEROKEE,021 Lowell Township,149,66,7,0,16
+CHEROKEE,021 Lyon Township,95,38,3,0,16
+CHEROKEE,021 Mineral Township,57,16,4,0,17
+CHEROKEE,021 Neosho Township Faulkner,26,7,0,0,17
+CHEROKEE,021 Neosho Township Melrose,33,12,0,0,17
+CHEROKEE,021 Pleasant View Township,142,66,8,0,16
+CHEROKEE,021 Roseland City,0,0,0,0,0
+CHEROKEE,021 Ross Township Belleview,38,32,1,0,15
+CHEROKEE,021 Ross Township Roseland,46,53,4,0,25
+CHEROKEE,021 Ross Township West Mineral,32,49,5,0,25
+CHEROKEE,021 Salamanca Township,133,83,10,0,15
+CHEROKEE,021 Salamanca Township Enclave,0,0,0,0,0
+CHEROKEE,021 Scammon Ward 1,13,27,0,0,26
+CHEROKEE,021 Scammon Ward 2,21,21,5,0,0
+CHEROKEE,021 Scammon Ward 3,28,34,1,0,25
+CHEROKEE,021 Shawnee Township,131,48,6,0,17
+CHEROKEE,021 Sheridan Township,46,33,3,0,15
+CHEROKEE,021 Spring Valley Township Neutral,119,92,9,0,15
+CHEROKEE,021 Spring Valley Township Spring Valley,99,40,6,0,16
+CHEROKEE,021 Spring Valley Township Spring Valley Enclave,0,0,0,0,0
+CHEROKEE,021 Weir Ward 1,18,28,0,0,26
+CHEROKEE,021 Weir Ward 2,37,63,1,0,26
+CHEROKEE,021 Weir Ward 3,23,34,3,0,25
+CHEROKEE,021 West Mineral City,0,0,0,0,0
+CHEROKEE,021 West Mineral City Exclave Big Brutus,0,0,0,0,0
+CHEYENNE,023 Benkelman Township,14,2,1,0,18
+CHEYENNE,023 Bird City Township,178,52,12,0,17
+CHEYENNE,023 Calhoun Township,25,1,0,0,19
+CHEYENNE,023 Cleveland Run Township,27,2,0,0,19
+CHEYENNE,023 Jaqua Township,7,2,1,0,17
+CHEYENNE,023 Orlando Township,19,6,1,0,17
+CHEYENNE,023 Wano 1 Township,213,55,12,0,17
+CHEYENNE,023 Wano 2 Township,321,99,13,0,17
+CLARK,025 Appleton Township,231,83,15,0,17
+CLARK,025 Center 1,130,73,7,0,16
+CLARK,025 Center 2,103,48,8,0,16
+CLARK,025 Englewood Township,35,14,4,0,16
+CLARK,025 Lexington Township,20,5,0,0,18
+CLARK,025 Liberty Township,14,3,0,0,18
+CLARK,025 Sitka Township,23,14,0,0,16
+CLAY,027 Athelstane Township,54,2,3,0,19
+CLAY,027 Blaine Township,83,38,2,0,16
+CLAY,027 Bloom Township,40,8,3,0,17
+CLAY,027 Chapman Township,32,23,4,0,15
+CLAY,027 Clay Center Township,97,54,7,0,16
+CLAY,027 Clay Center Township Enclave,0,0,0,0,0
+CLAY,027 Clay Center Ward 1,250,219,28,0,15
+CLAY,027 Clay Center Ward 1 Exclave,0,0,0,0,0
+CLAY,027 Clay Center Ward 2,289,236,15,0,15
+CLAY,027 Clay Center Ward 3,170,112,10,0,15
+CLAY,027 Clay Center Ward 4,120,115,15,0,14
+CLAY,027 Clay Center Ward 4 Exclave,0,0,0,0,0
+CLAY,027 Exeter Township,33,5,2,0,18
+CLAY,027 Five Creeks Township,29,13,4,0,16
+CLAY,027 Garfield Township,30,6,2,0,17
+CLAY,027 Gill Township,52,17,1,0,17
+CLAY,027 Goshen Township,13,9,1,0,15
+CLAY,027 Grant Township,58,13,4,0,17
+CLAY,027 Hayes Township,71,23,4,0,17
+CLAY,027 Highland Township,80,33,5,0,16
+CLAY,027 Mulberry Township,54,24,4,0,16
+CLAY,027 Oakland Township,20,13,2,0,15
+CLAY,027 Republican Township,194,101,21,0,16
+CLAY,027 Sherman Township,50,32,5,0,15
+CLAY,027 Union Township,53,29,4,0,16
+CLOUD,029 Arion Township,25,16,1,0,15
+CLOUD,029 Aurora Township,32,16,1,0,16
+CLOUD,029 Buffalo Township,41,11,1,0,17
+CLOUD,029 Center Township,71,16,2,0,17
+CLOUD,029 Colfax Township,16,1,0,0,19
+CLOUD,029 Concordia Ward 1,135,111,12,0,15
+CLOUD,029 Concordia Ward 1 Exclave A,0,0,0,0,0
+CLOUD,029 Concordia Ward 2 Precinct 1,141,157,9,0,25
+CLOUD,029 Concordia Ward 2 Precinct 2,218,152,11,0,15
+CLOUD,029 Concordia Ward 2 Precinct 2 Exclave,0,0,0,0,0
+CLOUD,029 Concordia Ward 3,224,189,20,0,15
+CLOUD,029 Concordia Ward 4,107,84,11,0,15
+CLOUD,029 East Lincoln,68,29,3,0,16
+CLOUD,029 East Lincoln Enclave,0,0,0,0,0
+CLOUD,029 East Meredith,11,7,0,0,16
+CLOUD,029 Elk Township,181,124,13,0,15
+CLOUD,029 Grant Township,73,32,7,0,16
+CLOUD,029 Lyon Township,29,16,1,0,16
+CLOUD,029 Nelson Township,41,7,1,0,18
+CLOUD,029 North Lawrence,24,9,3,0,16
+CLOUD,029 Oakland Township,22,0,0,0,19
+CLOUD,029 Shirley Township,38,19,6,0,16
+CLOUD,029 Sibley Township,47,41,1,0,15
+CLOUD,029 Solomon Township,114,49,19,0,16
+CLOUD,029 South Lawrence,13,8,2,0,15
+CLOUD,029 Starr Township,140,53,13,0,16
+CLOUD,029 Summit Township,26,2,1,0,18
+CLOUD,029 West Lincoln,44,22,0,0,16
+CLOUD,029 West Meredith,8,5,0,0,16
+COFFEY,031 Avon Township,55,23,5,0,16
+COFFEY,031 Burlington Township,103,43,10,0,16
+COFFEY,031 Burlington Township Enclave 1,0,0,0,0,0
+COFFEY,031 Burlington Township Enclave 2,0,0,0,0,0
+COFFEY,031 Burlington Ward 1,190,121,12,0,15
+COFFEY,031 Burlington Ward 2,161,76,14,0,16
+COFFEY,031 Burlington Ward 2 Country Club Heights,0,0,0,0,0
+COFFEY,031 Burlington Ward 2 Exclave 2,0,0,0,0,0
+COFFEY,031 Burlington Ward 3,157,112,22,0,15
+COFFEY,031 Burlington Ward 3 Exclave Caldwell's Add.,0,0,0,0,0
+COFFEY,031 Burlington Ward 3 Exclave Indust. Park #2 & 3,0,0,0,0,0
+COFFEY,031 Hampden Township,43,28,1,0,15
+COFFEY,031 Key West Township,55,37,6,0,15
+COFFEY,031 Leroy Township,134,78,12,0,15
+COFFEY,031 Liberty Township,130,92,10,0,15
+COFFEY,031 Lincoln Township,218,200,33,0,14
+COFFEY,031 Neosho Township,30,16,3,0,16
+COFFEY,031 Ottumwa Township,186,108,18,0,15
+COFFEY,031 Pleasant Township,50,35,7,0,15
+COFFEY,031 Pottawatomie Township,62,19,2,0,17
+COFFEY,031 Rock Creek Township,157,138,14,0,15
+COFFEY,031 Spring Creek Township,48,15,3,0,17
+COFFEY,031 Star Township,39,26,2,0,15
+COMANCHE,033 Avilla Township,26,5,2,0,17
+COMANCHE,033 Coldwater Township,224,124,4,0,16
+COMANCHE,033 Powell Township,28,8,1,0,17
+COMANCHE,033 Protection Township H115,108,46,10,0,16
+COMANCHE,033 Protection Township H116,76,4,14,0,18
+COWLEY,035 Arkansas City Ward 1 A,46,72,8,0,25
+COWLEY,035 Arkansas City Ward 1 A Exclave A,10,6,1,0,15
+COWLEY,035 Arkansas City Ward 1 A Exclave B,0,1,0,0,29
+COWLEY,035 Arkansas City Ward 1 B,52,63,9,0,25
+COWLEY,035 Arkansas City Ward 1 C,89,101,10,0,25
+COWLEY,035 Arkansas City Ward 1 D,68,115,9,0,25
+COWLEY,035 Arkansas City Ward 1 D Exclave A,0,0,0,0,0
+COWLEY,035 Arkansas City Ward 2 A,132,132,13,0,0
+COWLEY,035 Arkansas City Ward 2 B - 1,41,40,4,0,14
+COWLEY,035 Arkansas City Ward 2 B - 2,35,35,1,0,0
+COWLEY,035 Arkansas City Ward 2 C,12,13,4,0,24
+COWLEY,035 Arkansas City Ward 2 D,16,18,4,0,24
+COWLEY,035 Arkansas City Ward 2 D Exclave 1,0,0,0,0,0
+COWLEY,035 Arkansas City Ward 3 A,21,24,2,0,25
+COWLEY,035 Arkansas City Ward 3 B,29,35,2,0,25
+COWLEY,035 Arkansas City Ward 3 C,31,29,3,0,14
+COWLEY,035 Arkansas City Ward 4 A,81,119,7,0,25
+COWLEY,035 Arkansas City Ward 4 B,199,241,21,0,25
+COWLEY,035 Arkansas City Ward 4 C,71,106,8,0,25
+COWLEY,035 Arkansas City Ward 4 D,157,189,31,0,25
+COWLEY,035 Arkansas City Ward 5,0,0,0,0,0
+COWLEY,035 Beaver Township,53,39,2,0,15
+COWLEY,035 West Bolton,286,176,32,0,15
+COWLEY,035 East Bolton,286,176,32,0,15
+COWLEY,035 Cedar Township,11,2,1,0,17
+COWLEY,035 Dexter Township,110,45,4,0,16
+COWLEY,035 East Creswell,268,209,18,0,15
+COWLEY,035 Fairview Township,57,45,2,0,15
+COWLEY,035 Grant Township,20,7,0,0,17
+COWLEY,035 Harvey Township,25,14,1,0,16
+COWLEY,035 Liberty Township,46,10,1,0,18
+COWLEY,035 Maple Township,149,89,23,0,15
+COWLEY,035 Ninnescah Township,188,144,24,0,15
+COWLEY,035 Omnia Township,73,29,3,0,16
+COWLEY,035 Otter Township,12,3,1,0,17
+COWLEY,035 Pleasant Valley Township,185,152,5,0,15
+COWLEY,035 Richland Township,55,32,6,0,15
+COWLEY,035 Rock Township,39,30,4,0,15
+COWLEY,035 Salem Township,58,46,4,0,15
+COWLEY,035 Sheridan Township,39,22,4,0,16
+COWLEY,035 Silver Creek Township,133,86,10,0,15
+COWLEY,035 Silverdale Township,71,43,7,0,15
+COWLEY,035 Spring Creek Township,22,8,0,0,17
+COWLEY,035 Tisdale Township,92,48,10,0,16
+COWLEY,035 Vernon Township,115,67,6,0,16
+COWLEY,035 Walnut Township,133,120,20,0,14
+COWLEY,035 West Bolton Enclave A,0,0,0,0,0
+COWLEY,035 West Creswell,129,88,11,0,15
+COWLEY,035 West Creswell Enclave A,0,0,0,0,0
+COWLEY,035 West Creswell Enclave B,0,0,0,0,0
+COWLEY,035 West Creswell Enclave C,0,0,0,0,0
+COWLEY,035 Windsor Township,35,30,5,0,15
+COWLEY,035 Winfield Ward 1 East,102,165,15,0,25
+COWLEY,035 Winfield Ward 1 West,60,81,9,0,25
+COWLEY,035 Winfield Ward 2 Central,65,115,11,0,26
+COWLEY,035 Winfield Ward 2 East,85,129,8,0,25
+COWLEY,035 Winfield Ward 2 South,136,179,11,0,25
+COWLEY,035 Winfield Ward 2 West,74,103,10,0,25
+COWLEY,035 Winfield Ward 3,97,135,15,0,25
+COWLEY,035 Winfield Ward 3 South,63,33,2,0,16
+COWLEY,035 Winfield Ward 4,32,43,4,0,25
+COWLEY,035 Winfield Ward 5 East,136,219,12,0,25
+COWLEY,035 Winfield Ward 5 East Exclave Lake,0,0,0,0,0
+COWLEY,035 Winfield Ward 5 West,48,75,11,0,25
+COWLEY,035 Winfield Ward 6,173,185,11,0,25
+COWLEY,035 Winfield Ward 6 A,87,74,1,0,15
+COWLEY,035 Winfield Ward 7,103,142,5,0,25
+COWLEY,035 Winfield Ward 8,14,17,0,0,25
+COWLEY,035 Winfield Ward 9,0,0,0,0,0
+CRAWFORD,037 Arcadia,39,53,6,0,25
+CRAWFORD,037 Baker,197,192,12,0,14
+CRAWFORD,037 Baker Enclave,0,0,0,0,0
+CRAWFORD,037 Beulah,45,45,2,0,0
+CRAWFORD,037 Brazilton,15,12,3,0,15
+CRAWFORD,037 Capaldo,66,98,5,0,25
+CRAWFORD,037 Cherokee,93,89,9,0,14
+CRAWFORD,037 Cherokee-Sheridan,60,57,6,0,14
+CRAWFORD,037 Chicopee,111,125,4,0,25
+CRAWFORD,037 Crawford,100,59,10,0,15
+CRAWFORD,037 Crowe,35,42,4,0,25
+CRAWFORD,037 Franklin,56,77,5,0,25
+CRAWFORD,037 Frontenac Ward 1,93,204,7,0,26
+CRAWFORD,037 Frontenac Ward 2,144,302,11,0,26
+CRAWFORD,037 Frontenac Ward 3,56,116,10,0,26
+CRAWFORD,037 Frontenac Ward 3 Industrial Park,0,0,0,0,0
+CRAWFORD,037 Frontenac Ward 4,39,96,4,0,26
+CRAWFORD,037 Girard Ward 1,34,42,6,0,25
+CRAWFORD,037 Girard Ward 2,125,133,8,0,25
+CRAWFORD,037 Girard Ward 3,55,108,7,0,26
+CRAWFORD,037 Girard Ward 3 Exclave Golf Course,0,0,0,0,0
+CRAWFORD,037 Girard Ward 4,118,116,13,0,14
+CRAWFORD,037 Grant,65,45,3,0,15
+CRAWFORD,037 Hepler,10,22,1,0,26
+CRAWFORD,037 Lincoln,67,57,5,0,15
+CRAWFORD,037 Lincoln-Arcadia,11,19,2,0,25
+CRAWFORD,037 Lone Star,202,233,13,0,25
+CRAWFORD,037 McCune,50,61,10,0,25
+CRAWFORD,037 Mulberry Ward 1,23,26,2,0,25
+CRAWFORD,037 Mulberry Ward 2,26,19,3,0,15
+CRAWFORD,037 North Arma,120,122,2,0,25
+CRAWFORD,037 Opolis,65,69,1,0,25
+CRAWFORD,037 Osage-McCune,116,45,3,0,17
+CRAWFORD,037 Parkview,60,105,7,0,26
+CRAWFORD,037 Parkview Enclave,0,0,0,0,0
+CRAWFORD,037 Pittsburg Ward 1 Precinct 1,90,84,7,0,14
+CRAWFORD,037 Pittsburg Ward 1 Precinct 2,147,211,6,0,25
+CRAWFORD,037 Pittsburg Ward 1 Precinct 3,393,450,25,0,25
+CRAWFORD,037 Pittsburg Ward 2 Precinct 1,55,90,5,0,26
+CRAWFORD,037 Pittsburg Ward 2 Precinct 2,85,128,5,0,25
+CRAWFORD,037 Pittsburg Ward 2 Precinct 3,84,160,8,0,26
+CRAWFORD,037 Pittsburg Ward 2 Precinct 4,97,114,4,0,25
+CRAWFORD,037 Pittsburg Ward 2 Precinct 5,146,143,5,0,14
+CRAWFORD,037 Pittsburg Ward 2 Precinct 5 Exclave A,0,0,0,0,0
+CRAWFORD,037 Pittsburg Ward 2 Precinct 5 Exclave B,0,0,0,0,0
+CRAWFORD,037 Pittsburg Ward 3 Precinct 1,85,110,8,0,25
+CRAWFORD,037 Pittsburg Ward 3 Precinct 2,100,131,11,0,25
+CRAWFORD,037 Pittsburg Ward 4 Precinct 1,27,56,2,0,26
+CRAWFORD,037 Pittsburg Ward 4 Precinct 2,48,103,5,0,26
+CRAWFORD,037 Pittsburg Ward 4 Precinct 3,121,192,12,0,25
+CRAWFORD,037 Pittsburg Ward 4 Precinct 4,53,87,6,0,25
+CRAWFORD,037 Pittsburg Ward 4 Precinct 5,227,253,10,0,25
+CRAWFORD,037 Pittsburg Ward 4 Precinct 6,49,29,0,0,16
+CRAWFORD,037 Raymond,127,142,9,0,25
+CRAWFORD,037 Sheridan,21,19,4,0,14
+CRAWFORD,037 Sheridan-Cherokee City,15,22,6,0,25
+CRAWFORD,037 Sherman,114,105,8,0,15
+CRAWFORD,037 Smelter,130,114,7,0,15
+CRAWFORD,037 South Arma,103,159,13,0,25
+CRAWFORD,037 Walnut,22,22,3,0,0
+CRAWFORD,037 Walnut-Helper,8,10,3,0,24
+CRAWFORD,037 Walnut Township,9,9,0,0,0
+DECATUR,039 Allison Township,4,5,0,0,25
+DECATUR,039 Altory Township,6,3,0,0,16
+DECATUR,039 Bassettville Township,8,2,0,0,18
+DECATUR,039 Beaver Township,11,3,0,0,17
+DECATUR,039 Center Township,17,5,2,0,17
+DECATUR,039 Cook Township,14,2,0,0,18
+DECATUR,039 Custer Township,20,0,0,0,19
+DECATUR,039 Dresden Township,40,12,2,0,17
+DECATUR,039 Finley Township,12,2,0,0,18
+DECATUR,039 Garfield Township,13,7,0,0,16
+DECATUR,039 Grant Township,3,0,0,0,19
+DECATUR,039 Harlan Township,11,1,0,0,19
+DECATUR,039 Jennings Township,38,26,2,0,15
+DECATUR,039 Liberty Township,23,2,1,0,18
+DECATUR,039 Lincoln Township,43,18,1,0,16
+DECATUR,039 Logan Township,15,1,0,0,19
+DECATUR,039 Lyon Township,2,3,0,0,26
+DECATUR,039 Oberlin City Precinct 1,214,80,11,0,17
+DECATUR,039 Oberlin City Precinct 2,297,90,10,0,17
+DECATUR,039 Oberlin City Precinct 2 Exclave,0,0,0,0,0
+DECATUR,039 Oberlin Township,33,11,3,0,17
+DECATUR,039 Olive Township,15,7,3,0,16
+DECATUR,039 Pleasant Valley Township,12,5,1,0,16
+DECATUR,039 Prairie Dog Township,13,1,0,0,19
+DECATUR,039 Roosevelt Township,5,3,0,0,16
+DECATUR,039 Sappa Township,19,0,0,0,19
+DECATUR,039 Sherman Township,7,0,0,0,19
+DECATUR,039 Summit Township,9,3,1,0,16
+DICKINSON,041 Abilene Ward 1,145,112,35,0,14
+DICKINSON,041 Abilene Ward 1 Exclave A,0,0,0,0,0
+DICKINSON,041 Abilene Ward 2,277,211,56,0,15
+DICKINSON,041 Abilene Ward 2 Exclave A,0,0,0,0,0
+DICKINSON,041 Abilene Ward 2 Exclave B,0,0,0,0,0
+DICKINSON,041 Abilene Ward 3,139,114,25,0,15
+DICKINSON,041 Abilene Ward 4 Precinct 1,249,184,32,0,15
+DICKINSON,041 Abilene Ward 4 Precinct 2,338,208,30,0,15
+DICKINSON,041 Banner Township,35,11,2,0,17
+DICKINSON,041 Buckeye Township,129,49,8,0,16
+DICKINSON,041 Center Township,237,86,27,0,16
+DICKINSON,041 Cheever Township,37,10,6,0,16
+DICKINSON,041 Flora Township,40,22,3,0,16
+DICKINSON,041 Fragrant Hill Township,86,23,7,0,17
+DICKINSON,041 Garfield Township,53,22,4,0,16
+DICKINSON,041 Grant Township,248,108,21,0,16
+DICKINSON,041 Grant Township Enclave,0,0,0,0,0
+DICKINSON,041 Hayes Township,88,21,3,0,17
+DICKINSON,041 Herington Ward 1,89,121,14,0,25
+DICKINSON,041 Herington Ward 2,108,106,22,0,14
+DICKINSON,041 Herington Ward 4,68,49,14,0,15
+DICKINSON,041 Holland Township,32,11,1,0,17
+DICKINSON,041 Hope Township,86,74,7,0,15
+DICKINSON,041 Jefferson Township,75,21,2,0,17
+DICKINSON,041 Liberty Township,71,46,3,0,15
+DICKINSON,041 Lincoln Township,308,162,34,0,16
+DICKINSON,041 Logan Township,42,29,6,0,15
+DICKINSON,041 Lyon Township H68,11,12,0,0,25
+DICKINSON,041 Lyon Township H68 A,4,1,1,0,16
+DICKINSON,041 Lyon Township H70,40,22,0,0,16
+DICKINSON,041 Newbern Township,122,51,12,0,16
+DICKINSON,041 Noble Township,332,224,33,0,15
+DICKINSON,041 Ridge Township,47,12,1,0,17
+DICKINSON,041 Rinehart Township,77,17,2,0,18
+DICKINSON,041 Sherman Township,52,10,3,0,18
+DICKINSON,041 Union Township,40,20,2,0,16
+DICKINSON,041 Wheatland Township,49,6,0,0,18
+DICKINSON,041 Willowdale Township,70,29,4,0,16
+DONIPHAN,043 Bendena Township,72,48,1,0,15
+DONIPHAN,043 Blair Township,46,17,4,0,16
+DONIPHAN,043 Burr Oak Township,46,2,3,0,19
+DONIPHAN,043 Denton Township,90,40,4,0,16
+DONIPHAN,043 Elwood Township,86,66,17,0,15
+DONIPHAN,043 Highland Township,233,134,15,0,16
+DONIPHAN,043 Leona Township,25,8,0,0,17
+DONIPHAN,043 Marion Township,71,25,5,0,17
+DONIPHAN,043 Severance Township,55,21,3,0,16
+DONIPHAN,043 Troy Township,366,128,28,0,17
+DONIPHAN,043 Wathena Township,308,124,21,0,16
+DONIPHAN,043 Wayne Township,45,19,0,0,17
+DONIPHAN,043 White Cloud Township,48,36,6,0,15
+DOUGLAS,045 Big Springs Township Precinct 58 Part 1,59,88,14,0,25
+DOUGLAS,045 Big Springs Township Precinct 58 Part 2,59,88,14,0,25
+DOUGLAS,045 Central Eudora Precinct 54 Part 1,201,273,30,0,25
+DOUGLAS,045 Clinton Township Precinct 51,141,177,11,0,25
+DOUGLAS,045 Clinton Township Precinct 51 Part 1,141,177,11,0,25
+DOUGLAS,045 Clinton Township Precinct 51 Part 2,141,177,11,0,25
+DOUGLAS,045 Clinton Township Precinct 51 Part 3,141,177,11,0,25
+DOUGLAS,045 East Wakarusa Precinct 65 Part 1,130,183,12,0,25
+DOUGLAS,045 East Wakarusa Precinct 65 Part 2,130,183,12,0,25
+DOUGLAS,045 East Wakarusa Precinct 65 Part 3,130,183,12,0,25
+DOUGLAS,045 East Wakarusa H10 Precinct 65 Part 2,0,0,0,0,0
+DOUGLAS,045 East Wakarusa H38 Precinct 65 Part 1,0,0,0,0,0
+DOUGLAS,045 East Wakarusa H38 Precinct 65 Part 2,0,0,0,0,0
+DOUGLAS,045 East Wakarusa H38 Precinct 65 Part 3 H10,0,0,0,0,0
+DOUGLAS,045 East Wakarusa H38 Precinct 65 Part 3 H46,0,0,0,0,0
+DOUGLAS,045 East Wakarusa H38 Precinct 65 Part 4,2,22,0,0,29
+DOUGLAS,045 East Wakarusa H38 Precinct 65 Part 5,0,0,0,0,0
+DOUGLAS,045 Grant Township Precinct 55 Part 3,7,20,0,0,27
+DOUGLAS,045 Grant Township Precinct 55 Part 1,38,72,5,0,26
+DOUGLAS,045 Grant Township Precinct 55 Part 2,7,30,0,0,28
+DOUGLAS,045 Kanwaka Township Precinct 56 Part 1,273,397,13,0,25
+DOUGLAS,045 Kanwaka Township Precinct 56 Part 2,273,397,13,0,25
+DOUGLAS,045 Kanwaka Township Precinct 56 Part 3,273,397,13,0,25
+DOUGLAS,045 Kanwaka Township Precinct 56 Part 4,11,37,0,0,27
+DOUGLAS,045 Kanwaka Township Precinct 56 Part 5,11,37,0,0,27
+DOUGLAS,045 Lawrence Precinct 1,39,346,13,0,28
+DOUGLAS,045 Lawrence Precinct 2,50,425,5,0,28
+DOUGLAS,045 Lawrence Precinct 3,46,411,5,0,28
+DOUGLAS,045 Lawrence Precinct 4,45,341,16,0,28
+DOUGLAS,045 Lawrence Precinct 5,146,436,14,0,27
+DOUGLAS,045 Lawrence Precinct 6,164,424,10,0,27
+DOUGLAS,045 Lawrence Precinct 7,7,156,6,0,29
+DOUGLAS,045 Lawrence Precinct 8,19,235,7,0,29
+DOUGLAS,045 Lawrence Precinct 9,26,221,3,0,28
+DOUGLAS,045 Lawrence Precinct 10,15,109,10,0,28
+DOUGLAS,045 Lawrence Precinct 11,71,342,6,0,28
+DOUGLAS,045 Lawrence Precinct 12,128,568,18,0,27
+DOUGLAS,045 Lawrence Precinct 13,144,508,11,0,27
+DOUGLAS,045 Lawrence Precinct 14,218,716,37,0,27
+DOUGLAS,045 Lawrence Precinct 15,115,592,14,0,28
+DOUGLAS,045 Lawrence Precinct 16,122,479,10,0,27
+DOUGLAS,045 Lawrence Precinct 17,168,392,7,0,26
+DOUGLAS,045 Lawrence Precinct 18,259,724,16,0,27
+DOUGLAS,045 Lawrence Precinct 19,277,561,7,0,26
+DOUGLAS,045 Lawrence Precinct 20,228,757,32,0,27
+DOUGLAS,045 Lawrence Precinct 21,52,297,7,0,28
+DOUGLAS,045 Lawrence Precinct 22,169,517,19,0,27
+DOUGLAS,045 Lawrence Precinct 23,99,362,9,0,27
+DOUGLAS,045 Lawrence Precinct 24,106,306,7,0,27
+DOUGLAS,045 Lawrence Precinct 25,23,255,5,0,29
+DOUGLAS,045 Lawrence Precinct 26,37,357,8,0,28
+DOUGLAS,045 Lawrence Precinct 27,64,341,12,0,28
+DOUGLAS,045 Lawrence Precinct 28,30,265,6,0,28
+DOUGLAS,045 Lawrence Precinct 29,66,329,9,0,28
+DOUGLAS,045 Lawrence Precinct 30 Part 1,29,129,6,0,27
+DOUGLAS,045 Lawrence Precinct 30 Part 2,27,161,6,0,28
+DOUGLAS,045 Lawrence Precinct 31,132,472,15,0,27
+DOUGLAS,045 Lawrence Precinct 32,72,220,13,0,27
+DOUGLAS,045 Lawrence Precinct 33,67,524,9,0,28
+DOUGLAS,045 Lawrence Precinct 34 Part 1,44,309,2,0,28
+DOUGLAS,045 Lawrence Precinct 34 Part 2,4,59,4,0,28
+DOUGLAS,045 Lawrence Precinct 35 Part 1,57,398,16,0,28
+DOUGLAS,045 Lawrence Precinct 35 Part 2,5,29,1,0,28
+DOUGLAS,045 Lawrence Precinct 36 Part 1,79,311,11,0,27
+DOUGLAS,045 Lawrence Precinct 36 Part 2,71,238,18,0,27
+DOUGLAS,045 Lawrence Precinct 37 Part 1,180,557,24,0,27
+DOUGLAS,045 Lawrence Precinct 37 Part 2,9,19,0,0,26
+DOUGLAS,045 Lawrence Precinct 38,130,482,13,0,27
+DOUGLAS,045 Lawrence Precinct 38 Part 2 H10,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 38 Part 2 H46,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 38 Part 2 H46 A,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 38 Part 3,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 39,27,496,5,0,29
+DOUGLAS,045 Lawrence Precinct 40,11,467,4,0,29
+DOUGLAS,045 Lawrence Precinct 41 Exclave A,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 41 Exclave B,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 41 Exclave C,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 41 S2 H45,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 41 S2 H45 A,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 41 S2 H46,1,6,0,0,28
+DOUGLAS,045 Lawrence Precinct 41 Part 3,0,1,0,0,29
+DOUGLAS,045 Lawrence Precinct 41 Part 1,142,729,30,0,28
+DOUGLAS,045 Lawrence Precinct 42 Part 1,84,335,13,0,27
+DOUGLAS,045 Lawrence Precinct 42 Part 2,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 42 Part 3,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 42 Part 4,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 42 Part 5,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 43 Part 1,118,292,7,0,27
+DOUGLAS,045 Lawrence Precinct 43 Part 2,127,298,13,0,26
+DOUGLAS,045 Lawrence Precinct 43 Part 3,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 44 Part 2,22,80,3,0,27
+DOUGLAS,045 Lawrence Precinct 44 Part 1,98,276,7,0,27
+DOUGLAS,045 Lawrence Precinct 44 H45 A,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 45,484,1185,30,0,26
+DOUGLAS,045 Lawrence Precinct 46 Part 2,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 46 Part 1,213,693,20,0,27
+DOUGLAS,045 Lawrence Precinct 47,103,251,4,0,27
+DOUGLAS,045 Lawrence Precinct 48,211,650,10,0,27
+DOUGLAS,045 Lawrence Precinct 49,250,454,14,0,26
+DOUGLAS,045 Lawrence Precinct 68,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 69,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 70,3,7,0,0,27
+DOUGLAS,045 Lawrence Precinct 71,167,469,6,0,27
+DOUGLAS,045 Lawrence Precinct 72,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 73,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 74 Part 1,0,0,0,0,0
+DOUGLAS,045 Lawrence Precinct 74 Part 2,0,0,0,0,0
+DOUGLAS,045 Lecompton Township Precinct 57 Part 3,54,65,6,0,25
+DOUGLAS,045 Lecompton Township Precinct 57 Part 1,133,240,19,0,26
+DOUGLAS,045 Lecompton Township Precinct 57 Part 2,133,240,19,0,26
+DOUGLAS,045 Lecompton Township Precinct 57 Part 4,133,240,19,0,26
+DOUGLAS,045 Marion Township Precinct 59 Part 3,79,81,1,0,25
+DOUGLAS,045 Marion Township Precinct 59 Part 5,79,81,1,0,25
+DOUGLAS,045 Marion Township Precinct 59 Part 6,79,81,1,0,25
+DOUGLAS,045 Marion Township Precinct 59 Part 1,86,141,7,0,26
+DOUGLAS,045 Marion Township Precinct 59 Part 2,86,141,7,0,26
+DOUGLAS,045 Marion Township Precinct 59 Part 4,86,141,7,0,26
+DOUGLAS,045 Marion Township Precinct 59 Part 7,86,141,7,0,26
+DOUGLAS,045 Northeast Baldwin Precinct 61 Part 1,278,420,26,0,25
+DOUGLAS,045 Northeast Baldwin Precinct 61 Part 2,278,420,26,0,25
+DOUGLAS,045 Northeast Baldwin Precinct 61 Part 3,278,420,26,0,25
+DOUGLAS,045 Northeast Baldwin Precinct 61 Part 4,278,420,26,0,25
+DOUGLAS,045 North Eudora Precinct 52 Part 1,120,184,17,0,25
+DOUGLAS,045 North Eudora Precinct 52 Part 2,120,184,17,0,25
+DOUGLAS,045 North Eudora Precinct 52 Part 3,120,184,17,0,25
+DOUGLAS,045 North Wakarusa Precinct 64 Part 1,46,150,4,0,27
+DOUGLAS,045 North Wakarusa Precinct 64 Part 2,46,150,4,0,27
+DOUGLAS,045 North Wakarusa Precinct 64 H46,0,1,0,0,29
+DOUGLAS,045 Northwest Baldwin Precinct 60 Part 1,193,339,19,0,26
+DOUGLAS,045 Northwest Baldwin Precinct 60 Part 2,193,339,19,0,26
+DOUGLAS,045 Northwest Baldwin Precinct 60 Part 3,193,339,19,0,26
+DOUGLAS,045 South Baldwin Precinct 62 Part 1,345,353,33,0,24
+DOUGLAS,045 South Baldwin Precinct 62 Part 2,345,353,33,0,24
+DOUGLAS,045 South Baldwin Precinct 62 Part 3,345,353,33,0,24
+DOUGLAS,045 South Baldwin Precinct 62 Part 4,345,353,33,0,24
+DOUGLAS,045 South Baldwin Precinct 62 Part 5,345,353,33,0,24
+DOUGLAS,045 South Eudora Precinct 53 Part 1,205,180,14,0,15
+DOUGLAS,045 South Eudora Precinct 53 Part 2,205,180,14,0,15
+DOUGLAS,045 South Eudora Precinct 53 Part 3,205,180,14,0,15
+DOUGLAS,045 South Eudora Precinct 53 Part 4,201,214,13,0,25
+DOUGLAS,045 South Eudora Precinct 53 Part 5,201,214,13,0,25
+DOUGLAS,045 Vinland Precinct 63 Part 1,219,313,20,0,25
+DOUGLAS,045 Vinland Precinct 63 Part 2,219,313,20,0,25
+DOUGLAS,045 Vinland Precinct 63 Part 3,219,313,20,0,25
+DOUGLAS,045 West Eudora Precinct 50 Part 1,0,0,0,0,0
+DOUGLAS,045 West Eudora Precinct 50 Part 2,326,376,51,0,24
+DOUGLAS,045 West Eudora Precinct 50 Part 3,0,0,0,0,0
+DOUGLAS,045 West Wakarusa Precinct 66 Part 5,103,139,4,0,25
+DOUGLAS,045 West Wakarusa Precinct 66 Part 1,66,96,3,0,25
+DOUGLAS,045 West Wakarusa Precinct 66 Part 7,57,83,5,0,25
+DOUGLAS,045 West Wakarusa Precinct 66 Part 4,0,2,0,0,29
+DOUGLAS,045 West Wakarusa Precinct 66 Part 2,0,0,0,0,0
+DOUGLAS,045 West Wakarusa Precinct 66 Part 3,0,0,0,0,0
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 3,91,163,6,0,26
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 4,91,163,6,0,26
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 1,136,129,5,0,15
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 2,136,129,5,0,15
+DOUGLAS,045 Willow Springs Township S3 H45,26,54,2,0,26
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 5,12,33,1,0,27
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 6,12,33,1,0,27
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 7,12,33,1,0,27
+DOUGLAS,045 Willow Springs Township Precinct 67 Part 8,12,33,1,0,27
+EDWARDS,047 Belpre Township,43,16,3,0,16
+EDWARDS,047 Franklin Township,39,1,1,0,19
+EDWARDS,047 Jackson Township,23,8,1,0,17
+EDWARDS,047 Kinsley Township,47,15,1,0,17
+EDWARDS,047 Kinsley Ward 1,172,99,8,0,16
+EDWARDS,047 Kinsley Ward 2,145,103,8,0,15
+EDWARDS,047 Kinsley Ward 2 Exclave,0,0,0,0,0
+EDWARDS,047 Lincoln Township,48,11,2,0,17
+EDWARDS,047 Logan Township,8,6,1,0,15
+EDWARDS,047 North Brown Township,19,5,0,0,17
+EDWARDS,047 South Brown Township,30,9,0,0,17
+EDWARDS,047 Trenton Township,79,28,5,0,17
+EDWARDS,047 Wayne Township,113,46,8,0,16
+ELK,049 Elk Falls Township,41,28,6,0,15
+ELK,049 Greenfield Township,65,39,7,0,15
+ELK,049 Howard Township,188,146,18,0,15
+ELK,049 Liberty Township,32,12,2,0,16
+ELK,049 Longton Township,89,40,14,0,16
+ELK,049 Oak Valley Township,28,17,3,0,15
+ELK,049 Painterhood Township,15,7,1,0,16
+ELK,049 Paw Paw Township,32,7,2,0,17
+ELK,049 Union Center Township,24,15,1,0,16
+ELK,049 Wildcat Township,108,90,18,0,15
+ELLIS,051 Buckeye Township,119,50,4,0,16
+ELLIS,051 Catherine Township,84,45,6,0,16
+ELLIS,051 East Big Creek Township,191,110,10,0,16
+ELLIS,051 Ellis Township,130,64,7,0,16
+ELLIS,051 Ellis Ward 1,149,95,11,0,15
+ELLIS,051 Ellis Ward 2,189,168,18,0,15
+ELLIS,051 Ellis Ward 3,105,81,13,0,15
+ELLIS,051 Freedom Township,27,14,0,0,16
+ELLIS,051 Hays Ward 1 Precinct 1,23,42,5,0,26
+ELLIS,051 Hays Ward 1 Precinct 2,81,78,16,0,14
+ELLIS,051 Hays Ward 1 Precinct 2 Exclave 1,0,0,0,0,0
+ELLIS,051 Hays Ward 1 Precinct 2 Exclave 2,0,0,0,0,0
+ELLIS,051 Hays Ward 2 Precinct 1,162,154,24,0,14
+ELLIS,051 Hays Ward 2 Precinct 2,127,169,11,0,25
+ELLIS,051 Hays Ward 2 Precinct 3,111,119,9,0,24
+ELLIS,051 Hays Ward 2 Precinct 4,116,136,12,0,25
+ELLIS,051 Hays Ward 2 Precinct 5,89,87,11,0,14
+ELLIS,051 Hays Ward 3 Precinct 1,149,146,10,0,14
+ELLIS,051 Hays Ward 3 Precinct 2,260,214,23,0,15
+ELLIS,051 Hays Ward 3 Precinct 3,297,276,6,0,15
+ELLIS,051 Hays Ward 3 Precinct 4,558,410,18,0,15
+ELLIS,051 Hays Ward 3 Precinct 4 Exclave 1,0,0,0,0,0
+ELLIS,051 Hays Ward 3 Precinct 4 Exclave 2,0,0,0,0,0
+ELLIS,051 Hays Ward 4 Precinct 1,190,165,22,0,15
+ELLIS,051 Hays Ward 4 Precinct 2,210,197,19,0,14
+ELLIS,051 Hays Ward 4 Precinct 3,198,180,16,0,15
+ELLIS,051 Hays Ward 4 Precinct 4,373,336,27,0,15
+ELLIS,051 Hays Ward 4 Precinct 5,261,254,12,0,14
+ELLIS,051 Herzog Township H110,62,36,5,0,16
+ELLIS,051 Herzog Township H111,108,76,10,0,15
+ELLIS,051 North Big Creek Township Enclave 1,0,0,0,0,0
+ELLIS,051 North Big Creek Township Enclave 2,0,0,0,0,0
+ELLIS,051 North Big Creek Township Enclave 3,0,0,0,0,0
+ELLIS,051 North Big Creek Township Enclave 4,0,0,0,0,0
+ELLIS,051 North Big Creek Township H110,44,34,3,0,15
+ELLIS,051 North Big Creek Township H111,146,73,6,0,16
+ELLIS,051 North Lookout Township H110,40,18,4,0,16
+ELLIS,051 North Lookout Township H111,38,18,2,0,16
+ELLIS,051 South Lookout Township,73,36,4,0,16
+ELLIS,051 Victoria Township,205,137,18,0,15
+ELLIS,051 West Big Creek Township H110,25,8,0,0,17
+ELLIS,051 West Big Creek Township H111,25,11,2,0,16
+ELLIS,051 Wheatland Township,107,48,4,0,16
+ELLSWORTH,053 Ash Creek Township,27,6,0,0,18
+ELLSWORTH,053 Black Wolf Township,26,16,2,0,15
+ELLSWORTH,053 Buckeye Township,19,9,3,0,16
+ELLSWORTH,053 Canren Township,12,21,0,0,26
+ELLSWORTH,053 Carneiro Township,21,2,2,0,18
+ELLSWORTH,053 Clear Creek Township,31,23,4,0,15
+ELLSWORTH,053 Columbia Township,20,3,4,0,17
+ELLSWORTH,053 Ellsworth City East Ward 1,119,121,10,0,24
+ELLSWORTH,053 Ellsworth City East Ward 2,137,139,12,0,24
+ELLSWORTH,053 Ellsworth City West,150,130,14,0,15
+ELLSWORTH,053 Ellsworth Township,48,28,2,0,16
+ELLSWORTH,053 Garfield Township,24,6,0,0,18
+ELLSWORTH,053 Green Garden Township,44,18,5,0,16
+ELLSWORTH,053 Kanopolis Township,90,111,10,0,25
+ELLSWORTH,053 Langley Township,21,9,3,0,16
+ELLSWORTH,053 Lincoln Township,20,9,1,0,16
+ELLSWORTH,053 Mulberry Township,13,1,3,0,17
+ELLSWORTH,053 Noble Township,24,8,2,0,17
+ELLSWORTH,053 Palacky Township,17,10,1,0,16
+ELLSWORTH,053 Sherman Township,24,10,2,0,16
+ELLSWORTH,053 Thomas Township,27,4,1,0,18
+ELLSWORTH,053 Trivoli Township,19,4,2,0,17
+ELLSWORTH,053 Valley Township,115,81,8,0,15
+ELLSWORTH,053 Venango Township,39,22,1,0,16
+ELLSWORTH,053 Wilson Township,171,134,18,0,15
+FINNEY,055 Friend Township,35,6,4,0,17
+FINNEY,055 Garden City Ward 10,123,99,14,0,15
+FINNEY,055 Garden City Ward 11,236,122,9,0,16
+FINNEY,055 Garden City Ward 12,285,151,10,0,16
+FINNEY,055 Garden City Ward 13,238,125,7,0,16
+FINNEY,055 Garden City Ward 14 H122,0,0,0,0,0
+FINNEY,055 Garden City Ward 14,174,140,9,0,15
+FINNEY,055 Garden City Ward 1 H123,50,71,11,0,25
+FINNEY,055 Garden City Ward 15 H122,0,0,0,0,0
+FINNEY,055 Garden City Ward 15,256,140,11,0,16
+FINNEY,055 Garden City Ward 16,262,181,16,0,15
+FINNEY,055 Garden City Ward 17,0,0,0,0,0
+FINNEY,055 Garden City Ward 1 H122,0,0,0,0,0
+FINNEY,055 Garden City Ward 2,97,107,10,0,25
+FINNEY,055 Garden City Ward 3,181,139,11,0,15
+FINNEY,055 Garden City Ward 4,163,83,6,0,16
+FINNEY,055 Garden City Ward 4 H123,0,0,0,0,0
+FINNEY,055 Garden City Ward 5,133,97,11,0,15
+FINNEY,055 Garden City Ward 6,123,90,10,0,15
+FINNEY,055 Garden City Ward 7,105,86,7,0,15
+FINNEY,055 Garden City Ward 8,156,132,17,0,15
+FINNEY,055 Garden City Ward 8 Exclave,0,0,0,0,0
+FINNEY,055 Garden City Ward 9,89,97,18,0,24
+FINNEY,055 Holcomb Township,422,150,13,0,17
+FINNEY,055 Huffman Township,107,40,6,0,16
+FINNEY,055 Jennie Barker Township,226,108,13,0,16
+FINNEY,055 Kalvesta Township,40,11,1,0,17
+FINNEY,055 Mack Township,60,37,7,0,15
+FINNEY,055 Pierceville Precinct,0,0,0,0,0
+FINNEY,055 Pierceville Precinct H122,92,33,4,0,17
+FINNEY,055 Pleasant Valley Township,56,6,0,0,19
+FINNEY,055 Plymell Township,102,23,4,0,17
+FINNEY,055 Riverside Precinct H117,0,0,0,0,0
+FINNEY,055 Riverside Precinct H122,287,126,8,0,16
+FINNEY,055 Theoni Township,46,6,1,0,18
+FORD,057 Bloom Township,28,1,1,0,19
+FORD,057 Bucklin City,185,58,11,0,17
+FORD,057 Bucklin Township,38,16,2,0,16
+FORD,057 Concord Township,34,11,1,0,17
+FORD,057 Dodge City Airport,0,0,0,0,0
+FORD,057 Dodge City Excel #1,0,0,0,0,0
+FORD,057 Dodge City Excel #2,0,0,0,0,0
+FORD,057 Dodge City Industrial Park,0,0,0,0,0
+FORD,057 Dodge City Millard,0,0,0,0,0
+FORD,057 Dodge City Precinct 01,211,143,21,0,15
+FORD,057 Dodge City Precinct 02,116,94,19,0,15
+FORD,057 Dodge City Precinct 03,122,137,12,0,25
+FORD,057 Dodge City Precinct 03 H115,0,0,0,0,0
+FORD,057 Dodge City Precinct 04,343,252,38,0,15
+FORD,057 Dodge City Precinct 05,647,414,42,0,15
+FORD,057 Dodge City Precinct 06,855,534,49,0,15
+FORD,057 Dodge City Precinct 07,36,17,2,0,16
+FORD,057 Dodge City Precinct 08,0,0,0,0,0
+FORD,057 Dodge City Precinct 09,3,2,0,0,16
+FORD,057 Dodge City Precinct 10,0,0,0,0,0
+FORD,057 Dodge City Township C H115,0,0,0,0,0
+FORD,057 Dodge City Township W H119,0,0,0,0,0
+FORD,057 Dodge Township H115,124,49,9,0,16
+FORD,057 Dodge Township H119,24,10,1,0,16
+FORD,057 Dodge Township H119 A,1,0,0,0,19
+FORD,057 Dodge Township Ward 3,17,5,1,0,17
+FORD,057 Enterprise Township H115,99,41,7,0,16
+FORD,057 Enterprise Township H119,0,1,1,0,0
+FORD,057 Fairview Township,66,25,7,0,16
+FORD,057 Ford City,62,9,4,0,18
+FORD,057 Ford Township,56,8,2,0,18
+FORD,057 Grandview Township East H119,0,0,0,0,0
+FORD,057 Grandview Township H115,118,36,5,0,17
+FORD,057 Grandview Township H119,0,0,0,0,0
+FORD,057 Grandview Township Ward 2 H115,30,13,1,0,16
+FORD,057 Grandview Township Ward 2 H119,0,0,0,0,0
+FORD,057 Richland Township,116,46,12,0,16
+FORD,057 Royal Township,73,30,1,0,17
+FORD,057 Sodville Township,35,3,1,0,18
+FORD,057 Spearville City,189,100,14,0,16
+FORD,057 Spearville Township,117,20,7,0,18
+FORD,057 Wheatland Township,54,8,3,0,18
+FORD,057 Wilburn Township,25,5,0,0,18
+FRANKLIN,059 Appanoose Township,61,53,8,0,15
+FRANKLIN,059 Centropolis North Township,119,53,9,0,16
+FRANKLIN,059 Centropolis South Township,106,69,9,0,15
+FRANKLIN,059 Cutler Township,159,102,17,0,15
+FRANKLIN,059 Franklin Township,528,349,53,0,15
+FRANKLIN,059 Greenwood Township,112,60,5,0,16
+FRANKLIN,059 Harrison Township,149,67,9,0,16
+FRANKLIN,059 Hayes Township,87,71,10,0,15
+FRANKLIN,059 Homewood Township,105,93,11,0,15
+FRANKLIN,059 Lincoln Township,201,159,16,0,15
+FRANKLIN,059 Ohio Township,156,120,19,0,15
+FRANKLIN,059 Ottawa Exclave Airport,0,0,0,0,0
+FRANKLIN,059 Ottawa Precinct 1,141,117,16,0,15
+FRANKLIN,059 Ottawa Precinct 1 Exclave (A),0,0,0,0,0
+FRANKLIN,059 Ottawa Precinct 1 Exclave (B),0,0,0,0,0
+FRANKLIN,059 Ottawa Precinct 2,168,153,8,0,15
+FRANKLIN,059 Ottawa Precinct 3,62,70,14,0,24
+FRANKLIN,059 Ottawa Precinct 4,352,334,32,0,14
+FRANKLIN,059 Ottawa Precinct 6,134,127,8,0,14
+FRANKLIN,059 Ottawa Precinct 7,264,287,42,0,24
+FRANKLIN,059 Ottawa Precinct 8,359,377,39,0,24
+FRANKLIN,059 Ottawa Township,205,134,19,0,15
+FRANKLIN,059 Peoria Township,173,89,13,0,16
+FRANKLIN,059 Pomona Township,150,133,19,0,14
+FRANKLIN,059 Pottawatomie Township,130,74,14,0,15
+FRANKLIN,059 Richmond Township,153,91,14,0,15
+FRANKLIN,059 Williamsburg Township,92,103,16,0,24
+GEARY,061 Blakely Township,32,17,2,0,16
+GEARY,061 Fort Riley Milford Township Block 401,0,0,0,0,0
+GEARY,061 Fort Riley Milford Township Block 501,0,0,0,0,0
+GEARY,061 Fort Riley Milford Township Block 601,0,0,0,0,0
+GEARY,061 Fort Riley Milford Township Block 701,0,0,0,0,0
+GEARY,061 Fort Riley Precinct A,5,2,1,0,16
+GEARY,061 Fort Riley Precinct A S17 A,0,0,0,0,0
+GEARY,061 Fort Riley Precinct A S22,0,0,0,0,0
+GEARY,061 Fort Riley Precinct B,25,14,2,0,16
+GEARY,061 Fort Riley Precinct C,0,0,0,0,0
+GEARY,061 Fort Riley Precinct D,0,0,0,0,0
+GEARY,061 Fort Riley Precinct E,0,0,0,0,0
+GEARY,061 Fort Riley Precinct F,0,0,0,0,0
+GEARY,061 Fort Riley Precinct G,0,0,0,0,0
+GEARY,061 Fort Riley Precinct H,0,0,0,0,0
+GEARY,061 Fort Riley Precinct I,0,0,0,0,0
+GEARY,061 Fort Riley Precinct J,0,0,0,0,0
+GEARY,061 Fort Riley Precinct K,0,0,0,0,0
+GEARY,061 Fort Riley Precinct L S17,0,0,0,0,0
+GEARY,061 Fort Riley Precinct L S22,0,0,0,0,0
+GEARY,061 Fort Riley Precinct M,0,0,0,0,0
+GEARY,061 Fort Riley Precinct N,0,0,0,0,0
+GEARY,061 Grandview Township,102,56,17,0,15
+GEARY,061 Grandview Township Enclave A,0,0,0,0,0
+GEARY,061 Jackson Township,27,12,2,0,16
+GEARY,061 Jefferson Township,92,48,10,0,16
+GEARY,061 Junction City Ward 1 Precinct 1,49,67,9,0,25
+GEARY,061 Junction City Ward 1 Precinct 2,55,61,6,0,25
+GEARY,061 Junction City Ward 1 Precinct 3,115,82,13,0,15
+GEARY,061 Junction City Ward 1 Precinct 4,171,190,11,0,25
+GEARY,061 Junction City Ward 1 Precinct 5,99,104,12,0,24
+GEARY,061 Junction City Ward 1 Precinct 5 H65,99,104,12,0,24
+GEARY,061 Junction City Ward 1 Precinct 5 H68,99,104,12,0,24
+GEARY,061 Junction City Ward 1 Precinct 6,128,137,12,0,24
+GEARY,061 Junction City Ward 1 Precinct 6 Part 1,0,0,0,0,0
+GEARY,061 Junction City Ward 1 Precinct 6 Part 2,0,0,0,0,0
+GEARY,061 Junction City Ward 1 Precinct 7,161,157,14,0,14
+GEARY,061 Junction City Ward 2 Precinct 1,31,31,2,0,0
+GEARY,061 Junction City Ward 2 Precinct 2,73,107,9,0,25
+GEARY,061 Junction City Ward 2 Precinct 3,21,17,0,0,15
+GEARY,061 Junction City Ward 2 Precinct 4,20,12,1,0,16
+GEARY,061 Junction City Ward 2 Precinct 4 Part 1,0,0,0,0,0
+GEARY,061 Junction City Ward 2 Precinct 4 Part 2,0,0,0,0,0
+GEARY,061 Junction City Ward 2 Precinct 4 Part 3,0,0,0,0,0
+GEARY,061 Junction City Ward 2 Precinct 5,98,93,8,0,14
+GEARY,061 Junction City Ward 2 Precinct 5 Part 2 S22,0,0,0,0,0
+GEARY,061 Junction City Ward 2 Precinct 6,57,61,6,0,24
+GEARY,061 Junction City Ward 2 Precinct 7,73,48,9,0,15
+GEARY,061 Junction City Ward 2 Precinct 8,19,14,3,0,15
+GEARY,061 Junction City Ward 3 Precinct 1,38,40,3,0,24
+GEARY,061 Junction City Ward 3 Precinct 2,107,96,16,0,14
+GEARY,061 Junction City Ward 3 Precinct 3,36,32,7,0,14
+GEARY,061 Junction City Ward 3 Precinct 4,20,14,0,0,15
+GEARY,061 Junction City Ward 4 Precinct 1,33,33,10,0,0
+GEARY,061 Junction City Ward 4 Precinct 1 Exclave,0,0,0,0,0
+GEARY,061 Junction City Ward 4 Precinct 2,21,33,0,0,26
+GEARY,061 Junction City Ward 4 Precinct 2 Exclave,0,0,0,0,0
+GEARY,061 Junction City Ward 4 Precinct 3 Exclave Golf,0,0,0,0,0
+GEARY,061 Junction City Ward 4 Precinct 3 H65,56,84,10,0,25
+GEARY,061 Junction City Ward 4 Precinct 3 H68,0,0,0,0,0
+GEARY,061 Junction City Ward 4 Precinct 4,91,159,12,0,26
+GEARY,061 Liberty Township,42,29,6,0,15
+GEARY,061 Lyon Township,98,30,3,0,17
+GEARY,061 Marshall Field,0,0,0,0,0
+GEARY,061 Milford City Precinct,71,27,5,0,16
+GEARY,061 Milford Township,271,164,17,0,15
+GEARY,061 Smokey Hill Township Enclave A,0,0,0,0,0
+GEARY,061 Smokey Hill Township Enclave B,0,0,0,0,0
+GEARY,061 Smokey Hill Township Enclave C,0,0,0,0,0
+GEARY,061 Smokey Hill Township Enclave D,0,0,0,0,0
+GEARY,061 Smokey Hill Township Enclave E,0,0,0,0,0
+GEARY,061 Smokey Hill Township Enclave F,0,0,0,0,0
+GEARY,061 Smokey Hill Township Enclave G,0,0,0,0,0
+GEARY,061 Smokey Hill Township Precinct 01,0,0,0,0,0
+GEARY,061 Smokey Hill Township Precinct 05,113,38,3,0,17
+GEARY,061 Smokey Hill Township S17 H65,201,105,15,0,16
+GEARY,061 Smokey Hill Township S17 H68,201,105,15,0,16
+GEARY,061 Smokey Hill Township S22 H65,201,105,15,0,16
+GEARY,061 Smokey Hill Township S22 H68,201,105,15,0,16
+GEARY,061 Smokey Hill Township Precinct 2,3,1,0,0,17
+GEARY,061 Smokey Hill Township Precinct 3,38,22,3,0,16
+GEARY,061 Smokey Hill Township Precinct 4,34,35,6,0,24
+GEARY,061 Smokey Hill Township Precinct 6,13,9,2,0,15
+GEARY,061 Wingfield Township,36,24,2,0,15
+GOVE,063 Baker Township,351,149,19,0,16
+GOVE,063 Gaeland Township,0,0,0,0,0
+GOVE,063 Gove Township,50,22,4,0,16
+GOVE,063 Grainfield Township,196,60,7,0,17
+GOVE,063 Grinnell Township,142,41,6,0,17
+GOVE,063 Jerome Township,44,12,0,0,17
+GOVE,063 Larrabee Township,24,2,1,0,18
+GOVE,063 Lewis Township,3,0,0,0,19
+GOVE,063 Payne Township,0,0,0,0,0
+GRAHAM,065 Allodium Township,15,0,1,0,19
+GRAHAM,065 Bogue City,0,0,0,0,0
+GRAHAM,065 Bryant Township,29,4,0,0,18
+GRAHAM,065 Gettysburg Township,26,10,3,0,16
+GRAHAM,065 Graham Township,17,8,1,0,16
+GRAHAM,065 Happy Township,24,7,0,0,17
+GRAHAM,065 Hill City Precinct 1 H110,46,34,5,0,15
+GRAHAM,065 Hill City Precinct 1 H118,7,0,0,0,19
+GRAHAM,065 Hill City Precinct 2 H110,244,155,10,0,15
+GRAHAM,065 Hill City Precinct 2 H118,3,4,2,0,24
+GRAHAM,065 Hill City Precinct 3 H110,92,44,8,0,16
+GRAHAM,065 Hill City Precinct 3 H118,15,10,1,0,15
+GRAHAM,065 Indiana Township,10,5,1,0,16
+GRAHAM,065 Millbrook Township,51,12,4,0,17
+GRAHAM,065 Morland City,0,0,0,0,0
+GRAHAM,065 Morlan Township,28,1,0,0,19
+GRAHAM,065 Nicodemus Township H110,6,1,0,0,18
+GRAHAM,065 Nicodemus Township H118,3,6,2,0,25
+GRAHAM,065 Pioneer Township,13,4,2,0,16
+GRAHAM,065 Solomon Township,71,20,4,0,17
+GRAHAM,065 Wildhorse Township,43,40,13,0,14
+GRANT,067 Precinct 4 H122,0,0,0,0,0
+GRANT,067 Precinct 4 H124,287,85,32,0,17
+GRANT,067 Ulysses Ward 1,145,62,13,0,16
+GRANT,067 Ulysses Ward 2,371,182,18,0,16
+GRANT,067 Ulysses Ward 2 Exclave,0,0,0,0,0
+GRANT,067 Ulysses Ward 3,354,178,50,0,16
+GRAY,069 Cimarron Township Precinct 1,148,65,7,0,16
+GRAY,069 Cimarron Township Precinct 2,384,177,30,0,16
+GRAY,069 Copeland Township,80,26,8,0,17
+GRAY,069 East Hess Township,81,23,2,0,17
+GRAY,069 Foote Township,35,7,1,0,18
+GRAY,069 Ingalls Township,115,50,8,0,16
+GRAY,069 Logan Township,63,19,1,0,17
+GRAY,069 Montezuma Township,207,85,17,0,16
+GREELEY,071 Tribune Precinct 1,219,100,17,0,16
+GREELEY,071 Tribune Precinct 2,127,38,3,0,17
+GREELEY,071 Tribune Precinct 3,37,16,3,0,16
+GREENWOOD,073 Bachelor Township,49,33,4,0,15
+GREENWOOD,073 Eureka Airport,0,0,0,0,0
+GREENWOOD,073 Eureka Township,89,68,7,0,15
+GREENWOOD,073 Eureka Ward 1,165,96,17,0,15
+GREENWOOD,073 Eureka Ward 1 Exclave,0,0,0,0,0
+GREENWOOD,073 Eureka Ward 2,126,65,10,0,16
+GREENWOOD,073 Eureka Ward 3,135,90,21,0,15
+GREENWOOD,073 Fall River Township,45,33,5,0,15
+GREENWOOD,073 Janesville Township,118,43,7,0,17
+GREENWOOD,073 Lane Township,24,13,3,0,16
+GREENWOOD,073 Madison Township,223,121,22,0,16
+GREENWOOD,073 Otter Creek Township,44,34,3,0,15
+GREENWOOD,073 Pleasant Grove Township,17,10,0,0,16
+GREENWOOD,073 Quincy Township,36,13,1,0,17
+GREENWOOD,073 Salem Township,10,1,1,0,18
+GREENWOOD,073 Salt Springs Township,72,42,8,0,15
+GREENWOOD,073 Shell Rock Township,60,9,3,0,18
+GREENWOOD,073 South Salem Township C01,26,7,3,0,17
+GREENWOOD,073 South Salem Township C04,0,0,0,0,0
+GREENWOOD,073 Spring Creek Township,25,10,6,0,16
+GREENWOOD,073 Twin Grove Township,101,57,6,0,16
+HAMILTON,075 Bear Creek Township,14,3,0,0,18
+HAMILTON,075 Coolidge Township,18,6,3,0,16
+HAMILTON,075 Kendall Township,21,8,1,0,17
+HAMILTON,075 Lamont Township,35,7,0,0,18
+HAMILTON,075 Liberty Township,14,3,0,0,18
+HAMILTON,075 Medway Township,21,5,0,0,18
+HAMILTON,075 Richland Township,8,1,1,0,18
+HAMILTON,075 Syracuse 1,82,67,9,0,15
+HAMILTON,075 Syracuse 2,68,22,4,0,17
+HAMILTON,075 Syracuse 3,75,33,3,0,16
+HAMILTON,075 Syracuse 4,32,22,0,0,15
+HAMILTON,075 Syracuse 5,74,49,2,0,15
+HARPER,077 Anthony Ward 1,240,132,21,0,16
+HARPER,077 Anthony Ward 2,103,68,12,0,15
+HARPER,077 Anthony Ward 2 Exclave 1,0,0,0,0,0
+HARPER,077 Anthony Ward 2 Exclave 2,0,0,0,0,0
+HARPER,077 Anthony Ward 3,31,15,5,0,16
+HARPER,077 Anthony Ward 3 Exclave 1,0,0,0,0,0
+HARPER,077 Anthony Ward 3 Exclave 2,0,0,0,0,0
+HARPER,077 Anthony Ward 4,79,30,8,0,16
+HARPER,077 Anthony Ward 4 Exclave 1,0,0,0,0,0
+HARPER,077 Harper Ward 1,120,92,7,0,15
+HARPER,077 Harper Ward 1 Exclave 1,0,0,0,0,0
+HARPER,077 Harper Ward 2,115,78,10,0,15
+HARPER,077 Township 1,195,98,15,0,16
+HARPER,077 Township 2,35,6,1,0,18
+HARPER,077 Township 3 East,30,19,2,0,15
+HARPER,077 Township 3 West,47,23,6,0,16
+HARPER,077 Township 4,41,32,3,0,15
+HARPER,077 Township 5 East,53,24,4,0,16
+HARPER,077 Township 5 West,72,16,2,0,18
+HARPER,077 Township 5 West Enclave,0,0,0,0,0
+HARPER,077 Township 6 East,52,27,2,0,16
+HARPER,077 Township 6 West,21,11,0,0,16
+HARVEY,079 Alta Township,68,33,3,0,16
+HARVEY,079 Burrton City,137,87,13,0,15
+HARVEY,079 Burrton City Exclave,0,0,0,0,0
+HARVEY,079 Burrton Township,51,32,5,0,15
+HARVEY,079 Darlington Township H72,40,16,4,0,16
+HARVEY,079 Darlington Township H74,117,56,0,0,16
+HARVEY,079 Emma Township,148,65,7,0,16
+HARVEY,079 Garden Township,81,50,3,0,16
+HARVEY,079 Halstead City Ward 1 Precinct 1,144,110,14,0,15
+HARVEY,079 Halstead City Ward 1 Precinct 2,178,165,14,0,14
+HARVEY,079 Halstead Township,53,49,5,0,14
+HARVEY,079 Hesston Precinct 1,326,349,16,0,25
+HARVEY,079 Hesston Precinct 2,370,302,14,0,15
+HARVEY,079 Highland Township,82,73,3,0,15
+HARVEY,079 Lake Township,41,19,6,0,16
+HARVEY,079 Lakin Township,74,29,1,0,17
+HARVEY,079 Macon Township,103,95,11,0,14
+HARVEY,079 Newton City Ward 1 Precinct 1,135,169,11,0,25
+HARVEY,079 Newton City Ward 1 Precinct 2,115,126,16,0,24
+HARVEY,079 Newton City Ward 1 Precinct 3,85,82,6,0,14
+HARVEY,079 Newton City Ward 2 Precinct 1,105,151,13,0,25
+HARVEY,079 Newton City Ward 2 Precinct 2,336,383,14,0,25
+HARVEY,079 Newton City Ward 3 Precinct 1,154,151,17,0,14
+HARVEY,079 Newton City Ward 3 Precinct 2,254,226,17,0,15
+HARVEY,079 Newton City Ward 3 Precinct 3 Part A,220,180,16,0,15
+HARVEY,079 Newton City Ward 3 Precinct 4,478,396,11,0,15
+HARVEY,079 Newton City Ward 4 Precinct 1,171,204,13,0,25
+HARVEY,079 Newton City Ward 4 Precinct 2,315,405,25,0,25
+HARVEY,079 Newton City Ward 4 Precinct 3,234,268,30,0,25
+HARVEY,079 Newton City Ward 4 Precinct 4,101,117,7,0,25
+HARVEY,079 Newton Township Part A,3,1,0,0,17
+HARVEY,079 Newton Township Part B,95,42,6,0,16
+HARVEY,079 Newton Township Part B Exclave,0,0,0,0,0
+HARVEY,079 Newton Township Part C,2,1,0,0,16
+HARVEY,079 Newton Township Part D,27,7,2,0,17
+HARVEY,079 Newton Township Part E,2,0,0,0,19
+HARVEY,079 Newton Township Part F,0,0,0,0,0
+HARVEY,079 Newton Township Part G,0,0,0,0,0
+HARVEY,079 North Newton City,273,558,13,0,26
+HARVEY,079 Pleasant Township,157,89,2,0,16
+HARVEY,079 Richland Township,132,45,4,0,17
+HARVEY,079 Sedgwick City,259,190,24,0,15
+HARVEY,079 Sedgwick Township,69,51,6,0,15
+HARVEY,079 Walton City,47,34,3,0,15
+HARVEY,079 Walton Township,58,48,3,0,15
+HASKELL,081 Ivanhoe Township,41,7,1,0,18
+HASKELL,081 North Dudley,40,6,1,0,18
+HASKELL,081 North Lockport,43,8,2,0,18
+HASKELL,081 Satanta 1,47,11,1,0,17
+HASKELL,081 Satanta 2 H122,16,3,0,0,18
+HASKELL,081 Satanta 2 H124,160,93,10,0,16
+HASKELL,081 South Lockport,34,9,1,0,17
+HASKELL,081 Sublette 1 H122,15,2,2,0,17
+HASKELL,081 Sublette 1 H124,229,61,12,0,17
+HASKELL,081 Sublette 3 H122,2,3,0,0,26
+HASKELL,081 Sublette 3 H124,147,39,6,0,17
+HODGEMAN,083 Benton Township,27,2,0,0,19
+HODGEMAN,083 Marena Township,173,34,5,0,18
+HODGEMAN,083 North Center,149,74,7,0,16
+HODGEMAN,083 North Hallet,3,1,0,0,17
+HODGEMAN,083 North Roscoe,22,0,0,0,19
+HODGEMAN,083 Sawlog Township,33,8,2,0,17
+HODGEMAN,083 South Center,134,51,7,0,16
+HODGEMAN,083 South Hallet,13,2,1,0,18
+HODGEMAN,083 South Roscoe,23,5,0,0,18
+HODGEMAN,083 Sterling Township,43,14,0,0,17
+HODGEMAN,083 Valley Township,16,4,0,0,18
+JACKSON,085 Adrian Township,39,12,6,0,16
+JACKSON,085 Banner Township,80,60,6,0,15
+JACKSON,085 Cedar Township,238,202,19,0,15
+JACKSON,085 Douglas Township,416,415,41,0,14
+JACKSON,085 Franklin Township,207,214,16,0,24
+JACKSON,085 Garfield Township,139,101,8,0,15
+JACKSON,085 Grant Township,35,40,5,0,25
+JACKSON,085 Holton Ward 1,151,179,17,0,25
+JACKSON,085 Holton Ward 1 Exclave City Lake,0,0,0,0,0
+JACKSON,085 Holton Ward 2,156,216,14,0,25
+JACKSON,085 Holton Ward 3,137,153,17,0,24
+JACKSON,085 Holton Ward 3 Exclave Industrial Park,0,0,0,0,0
+JACKSON,085 Jefferson Township,127,91,9,0,15
+JACKSON,085 Liberty Township,104,118,13,0,25
+JACKSON,085 Lincoln Township,108,220,17,0,26
+JACKSON,085 Netawaka Township,51,61,7,0,25
+JACKSON,085 Soldier Township,95,62,4,0,15
+JACKSON,085 Straight Creek Township,38,37,1,0,15
+JACKSON,085 Washington Township,124,63,7,0,16
+JACKSON,085 Whiting Township,70,52,13,0,15
+JEFFERSON,087 Delaware Township,273,325,28,0,25
+JEFFERSON,087 East Fairview,145,160,12,0,25
+JEFFERSON,087 Jefferson Township,185,144,19,0,15
+JEFFERSON,087 Kaw Township,274,275,22,0,24
+JEFFERSON,087 Kentucky Township,239,330,24,0,25
+JEFFERSON,087 Norton Township,155,115,16,0,15
+JEFFERSON,087 Oskaloosa Township,342,336,26,0,14
+JEFFERSON,087 Ozawkie Township,291,286,17,0,14
+JEFFERSON,087 Rock Creek Township,473,454,46,0,14
+JEFFERSON,087 Rural Township,124,163,5,0,25
+JEFFERSON,087 Sarcoxie Township,163,281,7,0,26
+JEFFERSON,087 Union Township,260,252,20,0,14
+JEFFERSON,087 West Fairview,149,125,6,0,15
+JEWELL,089 Allen Township,7,2,0,0,17
+JEWELL,089 Athens Township,10,5,0,0,16
+JEWELL,089 Browns Creek Township,22,4,0,0,18
+JEWELL,089 Buffalo Township,113,39,13,0,16
+JEWELL,089 Burr Oak Township,48,16,16,0,16
+JEWELL,089 Calvin Township,22,3,0,0,18
+JEWELL,089 Center Township,204,130,20,0,15
+JEWELL,089 Erving Township,8,2,0,0,18
+JEWELL,089 Esbon Township,33,21,8,0,15
+JEWELL,089 Grant Township,49,14,1,0,17
+JEWELL,089 Harrison Township,9,1,0,0,19
+JEWELL,089 Highland Township,9,8,1,0,15
+JEWELL,089 Holmwood Township,4,4,1,0,0
+JEWELL,089 Ionia Township,29,2,1,0,19
+JEWELL,089 Jackson Township,25,8,1,0,17
+JEWELL,089 Limestone Township,17,7,2,0,16
+JEWELL,089 Montana Township,18,5,3,0,16
+JEWELL,089 Odessa Township,3,1,0,0,17
+JEWELL,089 Prairie Township,40,7,3,0,18
+JEWELL,089 Richland Township,8,1,2,0,17
+JEWELL,089 Sinclair Township,10,1,3,0,17
+JEWELL,089 Vicksburg Township,9,0,0,0,19
+JEWELL,089 Walnut Township,24,3,1,0,18
+JEWELL,089 Washington Township,13,7,0,0,16
+JEWELL,089 White Mound Township,13,5,1,0,16
+KEARNY,093 Deerfield Township,117,65,5,0,16
+KEARNY,093 East Hibbard Township,40,6,1,0,18
+KEARNY,093 Hartland Township,33,2,0,0,19
+KEARNY,093 Kendall Township,18,1,0,0,19
+KEARNY,093 Lakin Precinct 1,228,83,7,0,17
+KEARNY,093 Lakin Precinct 2,152,78,10,0,16
+KEARNY,093 Lakin Township,62,18,2,0,17
+KEARNY,093 Southside Township,51,8,1,0,18
+KEARNY,093 West Hibbard Township,15,1,0,0,19
+KINGMAN,095 Allen Township,28,6,4,0,17
+KINGMAN,095 Belmont Township,16,8,0,0,16
+KINGMAN,095 Bennett Township,112,71,14,0,15
+KINGMAN,095 Canton Township,29,7,1,0,17
+KINGMAN,095 Chikaskia Township,25,16,2,0,15
+KINGMAN,095 Dale Township,34,29,3,0,15
+KINGMAN,095 Dresden Township,84,55,9,0,15
+KINGMAN,095 Eagle Township,34,14,2,0,16
+KINGMAN,095 Eureka Township,30,13,1,0,16
+KINGMAN,095 Evan Township,159,48,8,0,17
+KINGMAN,095 Galesburg Township,67,24,3,0,17
+KINGMAN,095 Hoosier Township,38,15,3,0,16
+KINGMAN,095 Kingman Township,44,8,0,0,18
+KINGMAN,095 Kingman Ward 1,155,124,16,0,15
+KINGMAN,095 Kingman Ward 1 Exclave,0,0,0,0,0
+KINGMAN,095 Kingman Ward 2,203,179,25,0,14
+KINGMAN,095 Kingman Ward 3,71,68,10,0,14
+KINGMAN,095 Kingman Ward 4,103,79,6,0,15
+KINGMAN,095 Liberty Township,31,21,2,0,15
+KINGMAN,095 Ninnescah Township,97,28,4,0,17
+KINGMAN,095 Peters Township,31,11,2,0,17
+KINGMAN,095 Richland Township,21,9,2,0,16
+KINGMAN,095 Rochester Township,41,25,4,0,15
+KINGMAN,095 Rural Township,70,40,8,0,15
+KINGMAN,095 Union Township,27,8,0,0,17
+KINGMAN,095 Valley Township,26,11,4,0,16
+KINGMAN,095 Vinita Township,70,36,5,0,16
+KINGMAN,095 White Township Part A,47,24,2,0,16
+KINGMAN,095 White Township Part A Enclave,0,0,0,0,0
+KINGMAN,095 White Township Part B,31,25,4,0,15
+KIOWA,097 Belvidere,8,3,1,0,16
+KIOWA,097 Center I,160,73,15,0,16
+KIOWA,097 Center I I,96,67,4,0,15
+KIOWA,097 Haviland,212,72,8,0,17
+KIOWA,097 Mullinville,132,44,7,0,17
+LABETTE,099 Altamont City Part A,0,0,0,0,0
+LABETTE,099 Canada Township,69,24,5,0,17
+LABETTE,099 Chetopa Ward 1,33,38,1,0,25
+LABETTE,099 Chetopa Ward 2,42,27,3,0,15
+LABETTE,099 Chetopa Ward 3,50,42,5,0,15
+LABETTE,099 Elm Grove Township,219,66,11,0,17
+LABETTE,099 Fairview Township,58,22,0,0,17
+LABETTE,099 Hackberry Township,73,34,3,0,16
+LABETTE,099 Howard Township,92,36,8,0,16
+LABETTE,099 Labette Township,96,43,6,0,16
+LABETTE,099 Liberty Township,82,56,4,0,15
+LABETTE,099 Montana Township,37,21,2,0,16
+LABETTE,099 Mound Valley Township,162,84,12,0,16
+LABETTE,099 Mount Pleasant Township,230,163,19,0,15
+LABETTE,099 Neosho Township,39,25,2,0,15
+LABETTE,099 North Township,127,103,8,0,15
+LABETTE,099 North Township Enclave,0,0,0,0,0
+LABETTE,099 Osage Township S14,0,0,0,0,0
+LABETTE,099 Osage Township S15,147,81,6,0,16
+LABETTE,099 Oswego City Ward 1,99,67,14,0,15
+LABETTE,099 Oswego City Ward 1 Exclave,0,0,0,0,0
+LABETTE,099 Oswego City Ward 2,87,71,8,0,15
+LABETTE,099 Oswego City Ward 3,52,56,8,0,24
+LABETTE,099 Oswego Township,57,28,3,0,16
+LABETTE,099 Parsons Ward 1 Precinct 1,113,124,8,0,25
+LABETTE,099 Parsons Ward 1 Precinct 2,54,47,4,0,15
+LABETTE,099 Parsons Ward 1 Precinct 3,31,45,2,0,25
+LABETTE,099 Parsons Ward 1 Precinct 3 Exclave,0,0,0,0,0
+LABETTE,099 Parsons Ward 2 Precinct 1,31,48,2,0,25
+LABETTE,099 Parsons Ward 2 Precinct 2,86,119,5,0,25
+LABETTE,099 Parsons Ward 2 Precinct 3,73,110,9,0,25
+LABETTE,099 Parsons Ward 2 Precinct 3 Exclave,0,0,0,0,0
+LABETTE,099 Parsons Ward 3 Precinct 1,42,33,3,0,15
+LABETTE,099 Parsons Ward 3 Precinct 2,93,130,7,0,25
+LABETTE,099 Parsons Ward 3 Precinct 2 Exclave,0,0,0,0,0
+LABETTE,099 Parsons Ward 3 Precinct 3,79,110,15,0,25
+LABETTE,099 Parsons Ward 3 Precinct 4,113,142,12,0,25
+LABETTE,099 Parsons Ward 4 Precinct 1,56,54,4,0,14
+LABETTE,099 Parsons Ward 4 Precinct 2,52,101,13,0,26
+LABETTE,099 Parsons Ward 4 Precinct 3,49,83,5,0,26
+LABETTE,099 Parsons Ward 4 Precinct 4,91,105,6,0,25
+LABETTE,099 Richland Township H1,0,0,0,0,0
+LABETTE,099 Richland Township H1 A,10,9,1,0,15
+LABETTE,099 Richland Township H1 B,4,9,1,0,26
+LABETTE,099 Richland Township H7,32,16,2,0,16
+LABETTE,099 Walton Township,157,120,3,0,15
+LANE,101 Alamota Township,28,8,1,0,17
+LANE,101 Cheyenne Township,84,26,5,0,17
+LANE,101 Dighton City Precinct 1,103,58,9,0,16
+LANE,101 Dighton City Precinct 2,136,68,7,0,16
+LANE,101 Dighton City Precinct 3,42,15,5,0,16
+LANE,101 Dighton Township 1,31,10,1,0,17
+LANE,101 Dighton Township 2,39,15,2,0,16
+LANE,101 Dighton Township 3,13,9,0,0,15
+LANE,101 White Rock Township,5,6,1,0,25
+LANE,101 Wilson Township,28,5,2,0,18
+LEAVENWORTH,103 Alexandria Township,181,96,17,0,16
+LEAVENWORTH,103 Basehor City,822,758,52,0,15
+LEAVENWORTH,103 Basehor City Exclave 1,0,0,0,0,0
+LEAVENWORTH,103 Basehor City Exclave 2,0,0,0,0,0
+LEAVENWORTH,103 Basehor City Exclave 3,0,0,0,0,0
+LEAVENWORTH,103 Basehor Township Voting District,403,265,25,0,15
+LEAVENWORTH,103 Easton Township,208,149,13,0,15
+LEAVENWORTH,103 Fairmount Township Voting District,539,415,39,0,15
+LEAVENWORTH,103 High Prairie Township,471,292,35,0,15
+LEAVENWORTH,103 Kickapoo Township,435,255,30,0,16
+LEAVENWORTH,103 Lansing Ward 1,257,231,34,0,14
+LEAVENWORTH,103 Lansing Ward 2 Precinct 1,414,278,30,0,15
+LEAVENWORTH,103 Lansing Ward 2 Precinct 2 H40,414,278,30,0,15
+LEAVENWORTH,103 Lansing Ward 3,370,304,28,0,15
+LEAVENWORTH,103 Lansing Ward 4,361,325,45,0,14
+LEAVENWORTH,103 Leavenworth Ward 1 Precinct 1,65,107,19,0,25
+LEAVENWORTH,103 Leavenworth Ward 1 Precinct 1 Fort A H41,35,15,3,0,16
+LEAVENWORTH,103 Leavenworth Ward 1 Precinct 1 Fort A H42,21,2,0,0,19
+LEAVENWORTH,103 Leavenworth Ward 2 Precinct 1,76,73,10,0,14
+LEAVENWORTH,103 Leavenworth Ward 2 Precinct 2,97,107,11,0,24
+LEAVENWORTH,103 Leavenworth Ward 2 Precinct 3,117,141,22,0,25
+LEAVENWORTH,103 Leavenworth Ward 3 Precinct 1,112,166,35,0,25
+LEAVENWORTH,103 Leavenworth Ward 4 Precinct 1,63,77,7,0,25
+LEAVENWORTH,103 Leavenworth Ward 5 Precinct 1,101,104,12,0,24
+LEAVENWORTH,103 Leavenworth Ward 5 Precinct 2,96,103,22,0,24
+LEAVENWORTH,103 Leavenworth Ward 5 Precinct 3,210,198,28,0,14
+LEAVENWORTH,103 Leavenworth Ward 5 Precinct 4,159,115,11,0,15
+LEAVENWORTH,103 Leavenworth Ward 6 Precinct 1,161,183,16,0,25
+LEAVENWORTH,103 Leavenworth Ward 6 Precinct 2,96,131,21,0,25
+LEAVENWORTH,103 Leavenworth Ward 6 Precinct 3,125,134,17,0,24
+LEAVENWORTH,103 Leavenworth Ward 6 Precinct 4,277,222,24,0,15
+LEAVENWORTH,103 Leavenworth Ward 6 Precinct 5,317,242,21,0,15
+LEAVENWORTH,103 Leavenworth Ward 7 Precinct 1,23,84,7,0,27
+LEAVENWORTH,103 Leavenworth Ward 7 Precinct 2,468,409,47,0,15
+LEAVENWORTH,103 Leavenworth Ward 7 Precinct 3,567,516,30,0,15
+LEAVENWORTH,103 Missouri River H41,0,0,0,0,0
+LEAVENWORTH,103 Missouri River H42,0,0,0,0,0
+LEAVENWORTH,103 Reno Township H38,46,50,5,0,24
+LEAVENWORTH,103 Reno Township H42,212,269,17,0,25
+LEAVENWORTH,103 Sherman Township,473,430,31,0,15
+LEAVENWORTH,103 South Delaware 1 S5 H40,109,74,9,0,15
+LEAVENWORTH,103 South Delaware 2,0,0,0,0,0
+LEAVENWORTH,103 South Delaware 1 S3 H40,42,40,0,0,15
+LEAVENWORTH,103 South Delaware 1 S3 H38,68,40,3,0,16
+LEAVENWORTH,103 South Delaware 1 S5 H38,3,0,0,0,19
+LEAVENWORTH,103 Stranger Township Voting District,317,239,22,0,15
+LEAVENWORTH,103 Tonganoxie North Precinct,388,356,22,0,15
+LEAVENWORTH,103 Tonganoxie South Exclave,0,0,0,0,0
+LEAVENWORTH,103 Tonganoxie South Precinct,243,290,18,0,25
+LEAVENWORTH,103 Tonganoxie Township,459,368,39,0,15
+LEAVENWORTH,103 Walnut Township Voting District,210,219,5,0,25
+LINCOLN,105 Battle Creek Township,11,6,1,0,16
+LINCOLN,105 Beaver Township,13,10,1,0,15
+LINCOLN,105 Cedron Township,9,4,1,0,16
+LINCOLN,105 Colorado Township,63,20,2,0,17
+LINCOLN,105 Elkhorn Township Part A,46,12,2,0,17
+LINCOLN,105 Franklin Township,32,13,2,0,16
+LINCOLN,105 Golden Belt Township,15,10,0,0,16
+LINCOLN,105 Grant Township,22,8,2,0,16
+LINCOLN,105 Hanover Township,14,3,1,0,17
+LINCOLN,105 Highland Township,19,12,1,0,15
+LINCOLN,105 Indiana Township,21,6,2,0,17
+LINCOLN,105 Lincoln Precinct 1,102,85,6,0,15
+LINCOLN,105 Lincoln Precinct 2,123,88,8,0,15
+LINCOLN,105 Lincoln Precinct 2 Exclave,0,0,0,0,0
+LINCOLN,105 Logan Township,25,4,1,0,18
+LINCOLN,105 Madison Township,24,13,3,0,16
+LINCOLN,105 Marion Township,9,1,0,0,19
+LINCOLN,105 Marion Township Enclave 1,0,0,0,0,0
+LINCOLN,105 Orange Township,20,5,2,0,17
+LINCOLN,105 Pleasant Township,94,52,2,0,16
+LINCOLN,105 Salt Creek Township,12,12,2,0,0
+LINCOLN,105 Scott Township,29,14,2,0,16
+LINCOLN,105 Valley Township,9,8,0,0,15
+LINCOLN,105 Vesper Township,25,14,1,0,16
+LINN,107 Blue Mound Township,92,51,9,0,16
+LINN,107 Centerville Township,127,50,0,0,17
+LINN,107 Liberty Township,224,100,13,0,16
+LINN,107 Mound City Township,295,153,23,0,16
+LINN,107 North Lincoln,346,192,18,0,16
+LINN,107 North Potosi,169,87,14,0,16
+LINN,107 Paris Township,125,55,5,0,16
+LINN,107 Scott Township,161,74,13,0,16
+LINN,107 Sheridan Township,117,40,8,0,17
+LINN,107 South Lincoln,98,67,10,0,15
+LINN,107 South Potosi,155,74,13,0,16
+LINN,107 Stanton Township,41,20,2,0,16
+LINN,107 Valley Township,28,14,3,0,16
+LOGAN,109 Augustine Township,10,1,0,0,19
+LOGAN,109 Elkader Township,3,0,0,0,19
+LOGAN,109 Lees Township,5,2,0,0,17
+LOGAN,109 Logansport Township,2,0,0,0,19
+LOGAN,109 McAllaster Township,9,2,0,0,18
+LOGAN,109 Monument Township,43,11,1,0,17
+LOGAN,109 Oakley Precinct 1,218,91,24,0,16
+LOGAN,109 Oakley Precinct 2,346,111,18,0,17
+LOGAN,109 Paxton Township,20,0,0,0,19
+LOGAN,109 Russell Springs Township,15,3,2,0,17
+LOGAN,109 Western Township,20,1,1,0,19
+LOGAN,109 Winona Township,75,14,5,0,17
+LYON,111 Precinct 01,99,213,13,0,26
+LYON,111 Precinct 02,64,154,6,0,26
+LYON,111 Precinct 03,107,154,10,0,25
+LYON,111 Precinct 04,96,195,20,0,26
+LYON,111 Precinct 04 Part A,4,0,0,0,19
+LYON,111 Precinct 04 Part B,0,2,0,0,29
+LYON,111 Precinct 04 Part C,1,4,0,0,28
+LYON,111 Precinct 04 Part D,0,0,0,0,0
+LYON,111 Precinct 05,61,99,20,0,25
+LYON,111 Precinct 05 Part A,0,0,0,0,0
+LYON,111 Precinct 05 Part B,0,0,0,0,0
+LYON,111 Precinct 06 Part A,71,125,14,0,25
+LYON,111 Precinct 06 Part A Exclave,0,0,0,0,0
+LYON,111 Precinct 06 Part B Exclave,0,0,0,0,0
+LYON,111 Precinct 07,23,60,8,0,26
+LYON,111 Precinct 07 Part A,0,0,0,0,0
+LYON,111 Precinct 08,65,124,15,0,26
+LYON,111 Precinct 09,71,121,10,0,25
+LYON,111 Precinct 09 Part A,0,0,0,0,0
+LYON,111 Precinct 10,93,173,6,0,26
+LYON,111 Precinct 11,64,126,12,0,26
+LYON,111 Precinct 12,60,144,13,0,26
+LYON,111 Precinct 13,108,175,24,0,25
+LYON,111 Precinct 14,142,282,10,0,26
+LYON,111 Precinct 15,84,146,6,0,26
+LYON,111 Precinct 16,110,236,10,0,26
+LYON,111 Precinct 17,126,211,16,0,25
+LYON,111 Precinct 17 Enclave Part B,0,0,0,0,0
+LYON,111 Precinct 17 Exclave Part A,0,0,0,0,0
+LYON,111 Precinct 17 Part C,0,0,0,0,0
+LYON,111 Precinct 18,128,199,2,0,26
+LYON,111 Precinct 18 Enclave Part A,0,0,0,0,0
+LYON,111 Precinct 19,192,327,17,0,26
+LYON,111 Precinct 19 Exclave Part A,0,0,0,0,0
+LYON,111 Precinct 19 Exclave Part B,0,0,0,0,0
+LYON,111 Precinct 20,171,283,8,0,26
+LYON,111 Precinct 20 Exclave Part A,0,0,0,0,0
+LYON,111 Precinct 21,77,65,12,0,15
+LYON,111 Precinct 22,55,39,4,0,15
+LYON,111 Precinct 23,57,46,7,0,15
+LYON,111 Precinct 24,234,222,17,0,14
+LYON,111 Precinct 25,205,164,26,0,15
+LYON,111 Precinct 26,82,93,12,0,24
+LYON,111 Precinct 27,148,124,10,0,15
+LYON,111 Precinct 28,130,123,16,0,14
+LYON,111 Precinct 28 Enclave A,0,0,0,0,0
+LYON,111 Precinct 28 Enclave Part B,0,0,0,0,0
+LYON,111 Precinct 29,63,72,4,0,25
+LYON,111 Precinct 29 A,0,0,0,0,0
+LYON,111 Precinct 29 Enclave,0,0,0,0,0
+LYON,111 Precinct 29 Enclave 2,0,0,0,0,0
+LYON,111 Precinct 29 Enclave 3,3,0,0,0,19
+LYON,111 Precinct 29 Exclave Part A,0,0,0,0,0
+LYON,111 Precinct 30,180,173,22,0,14
+LYON,111 Precinct 31,221,259,20,0,25
+LYON,111 Precinct 32,125,120,28,0,14
+MARION,115 Blaine Township,39,26,1,0,15
+MARION,115 Catlin Township,52,30,1,0,16
+MARION,115 Centre Township,139,95,12,0,15
+MARION,115 Clark Township,42,16,2,0,17
+MARION,115 Clear Creek Township,115,53,10,0,16
+MARION,115 Colfax Township,51,21,4,0,16
+MARION,115 Doyle Township,15,4,0,0,17
+MARION,115 Durham Park Township,54,32,3,0,16
+MARION,115 East Branch Township,49,46,4,0,14
+MARION,115 Fairplay Township,37,15,8,0,16
+MARION,115 Florence Ward 1,26,26,11,0,0
+MARION,115 Florence Ward 1 Exclave,0,0,0,0,0
+MARION,115 Florence Ward 2,33,35,10,0,24
+MARION,115 Gale Township,57,40,4,0,15
+MARION,115 Grant Township,43,27,0,0,16
+MARION,115 Hillsboro Ward 1,252,135,17,0,16
+MARION,115 Hillsboro Ward 2,304,151,18,0,16
+MARION,115 Hillsboro Ward 2 Exclave A,0,0,0,0,0
+MARION,115 Hillsboro Ward 2 Exclave Industrial Park,0,0,0,0,0
+MARION,115 Lehigh Township,58,17,1,0,17
+MARION,115 Liberty Township,89,46,5,0,16
+MARION,115 Logan Township,19,6,0,0,17
+MARION,115 Lost Springs Township,54,18,4,0,17
+MARION,115 Marion North Ward,170,148,22,0,15
+MARION,115 Marion South Ward,152,138,22,0,14
+MARION,115 Marion South Ward Exclave,0,0,0,0,0
+MARION,115 Menno Township,91,62,3,0,15
+MARION,115 Milton Township,52,27,5,0,16
+MARION,115 Moore Township,19,8,0,0,17
+MARION,115 Peabody East,78,79,12,0,24
+MARION,115 Peabody West,128,87,20,0,15
+MARION,115 Risley Township,79,30,2,0,17
+MARION,115 Summit Township,15,15,3,0,0
+MARION,115 West Branch Township,177,187,23,0,24
+MARION,115 Wilson Township,64,14,4,0,17
+MARSHALL,117 Balderson Township,24,9,1,0,17
+MARSHALL,117 Bigelow Township,8,7,0,0,15
+MARSHALL,117 Blue Rapids City,162,124,20,0,15
+MARSHALL,117 Blue Rapids Township,22,9,0,0,17
+MARSHALL,117 Center Township,30,13,5,0,16
+MARSHALL,117 Clear Fork Township,6,9,1,0,25
+MARSHALL,117 Cleveland Township,20,22,0,0,25
+MARSHALL,117 Cottage Hill Township,44,20,0,0,16
+MARSHALL,117 East Vermillion Township,104,81,8,0,15
+MARSHALL,117 Elm Creek Township,34,33,3,0,14
+MARSHALL,117 Franklin Township C1,32,34,1,0,25
+MARSHALL,117 Franklin Township C2,28,25,1,0,15
+MARSHALL,117 Guittard Township C1,2,1,0,0,16
+MARSHALL,117 Guittard Township C2,72,66,5,0,15
+MARSHALL,117 Herkimer Township,78,16,0,0,18
+MARSHALL,117 Lincoln Township,40,20,2,0,16
+MARSHALL,117 Logan Township,74,34,7,0,16
+MARSHALL,117 Marysville City Ward 1,165,173,15,0,24
+MARSHALL,117 Marysville City Ward 2,131,120,12,0,14
+MARSHALL,117 Marysville City Ward 2 Exclave,0,0,0,0,0
+MARSHALL,117 Marysville City Ward 3,86,81,9,0,14
+MARSHALL,117 Marysville City Ward 3 Exclave,0,0,0,0,0
+MARSHALL,117 Marysville City Ward 4 Part A,138,149,16,0,24
+MARSHALL,117 Marysville City Ward 4 Part B,0,0,0,0,0
+MARSHALL,117 Marysville City Ward 4 Part B Exclave,0,0,0,0,0
+MARSHALL,117 Marysville Township,69,53,6,0,15
+MARSHALL,117 Murray Township,137,97,12,0,15
+MARSHALL,117 Noble Township,49,27,5,0,16
+MARSHALL,117 Oketo Township,46,42,2,0,15
+MARSHALL,117 Richland Township,52,20,0,0,17
+MARSHALL,117 Rock Township,33,19,2,0,16
+MARSHALL,117 St. Bridget Township,31,26,3,0,15
+MARSHALL,117 Walnut Township,34,19,1,0,16
+MARSHALL,117 Waterville Township,145,109,18,0,15
+MARSHALL,117 Wells Township,24,25,2,0,24
+MARSHALL,117 West Vermillion Township,70,80,11,0,24
+MCPHERSON,113 Battle Hill Township,24,25,0,0,25
+MCPHERSON,113 Bonaville Township,35,1,1,0,19
+MCPHERSON,113 Canton Township,184,108,14,0,16
+MCPHERSON,113 Castle Township,32,27,6,0,14
+MCPHERSON,113 Delmore Township,44,17,4,0,16
+MCPHERSON,113 Empire Township,251,135,19,0,16
+MCPHERSON,113 Groveland Township,54,24,4,0,16
+MCPHERSON,113 Gypsum Creek Township,53,25,2,0,16
+MCPHERSON,113 Harper Township,50,15,4,0,17
+MCPHERSON,113 Hayes Township,49,38,4,0,15
+MCPHERSON,113 Jackson Township,49,38,7,0,15
+MCPHERSON,113 King City Township,133,81,10,0,15
+MCPHERSON,113 Lindsborg Ward 1,102,167,8,0,26
+MCPHERSON,113 Lindsborg Ward 2,160,226,17,0,25
+MCPHERSON,113 Lindsborg Ward 3,136,152,11,0,25
+MCPHERSON,113 Lindsborg Ward 4,133,169,17,0,25
+MCPHERSON,113 Little Valley Township,116,41,5,0,17
+MCPHERSON,113 Lone Tree Township,58,28,2,0,16
+MCPHERSON,113 Marquette Township,130,154,18,0,25
+MCPHERSON,113 McPherson Township,145,81,12,0,16
+MCPHERSON,113 McPherson Ward 1 Exclave,0,0,0,0,0
+MCPHERSON,113 McPherson Ward 1 Precinct 1,1248,1052,82,0,15
+MCPHERSON,113 McPherson Ward 2,391,306,28,0,15
+MCPHERSON,113 McPherson Ward 3 Part A,232,153,14,0,15
+MCPHERSON,113 McPherson Ward 4 Precinct 1 Part A,470,376,36,0,15
+MCPHERSON,113 Meridian Township,65,34,4,0,16
+MCPHERSON,113 Mound Township,338,324,34,0,14
+MCPHERSON,113 New Gottland Township,134,57,5,0,16
+MCPHERSON,113 Smoky Hill Township,88,53,4,0,16
+MCPHERSON,113 South Sharps Creek Township,29,13,2,0,16
+MCPHERSON,113 Spring Valley Township,91,28,4,0,17
+MCPHERSON,113 Superior Township,420,177,30,0,16
+MCPHERSON,113 Turkey Creek Township,72,34,1,0,16
+MCPHERSON,113 Union Township,45,24,5,0,16
+MEADE,119 Cimarron Township,27,4,0,0,18
+MEADE,119 Crooked Creek Township,30,7,1,0,17
+MEADE,119 Fowler Township,166,58,5,0,17
+MEADE,119 Logan Township,41,12,3,0,17
+MEADE,119 Meade Center Township,501,197,31,0,16
+MEADE,119 Mertilla Township,33,6,1,0,18
+MEADE,119 Odee Township,14,1,1,0,18
+MEADE,119 Sand Creek Township,17,0,0,0,19
+MEADE,119 West Plains Township,165,96,13,0,16
+MIAMI,121 East Middle Creek Township,274,138,15,0,16
+MIAMI,121 East Middle Creek Township C2,274,138,15,0,16
+MIAMI,121 East Middle Creek Township C3,274,138,15,0,16
+MIAMI,121 East Valley Township,102,66,6,0,15
+MIAMI,121 Louisburg Ward 1,145,106,13,0,15
+MIAMI,121 Louisburg Ward 1 Exclave Park,0,0,0,0,0
+MIAMI,121 Louisburg Ward 2,190,131,13,0,15
+MIAMI,121 Louisburg Ward 2 Exclave A,0,0,0,0,0
+MIAMI,121 Louisburg Ward 2 Exclave B,0,0,0,0,0
+MIAMI,121 Louisburg Ward 3,191,127,12,0,15
+MIAMI,121 Louisburg Ward 4,186,113,14,0,15
+MIAMI,121 Miami Township,132,75,7,0,16
+MIAMI,121 Mound Township,132,102,14,0,15
+MIAMI,121 North Marysville Township,295,149,10,0,16
+MIAMI,121 North Marysville Township C2,295,149,10,0,16
+MIAMI,121 North Marysville Township C3,295,149,10,0,16
+MIAMI,121 North Marysville Township Enclave,0,0,0,0,0
+MIAMI,121 North Marysville Township Enclave 2,0,0,0,0,0
+MIAMI,121 North Paola Township,111,74,1,0,15
+MIAMI,121 North Paola Township Part 1,6,3,0,0,16
+MIAMI,121 North Paola Township Part 2,49,16,5,0,17
+MIAMI,121 North Paola Township Part 3,0,0,0,0,0
+MIAMI,121 North Wea Township,182,73,10,0,16
+MIAMI,121 Osage Township,114,90,14,0,15
+MIAMI,121 Osawatomie Township,141,111,6,0,15
+MIAMI,121 Osawatomie Township Enclave A,0,0,0,0,0
+MIAMI,121 Osawatomie Township Enclave B,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 1 Exclave A Cemetery,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 1 Exclave B,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 1 Exclave C,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 1 Exclave D,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 1 H5,68,92,9,0,25
+MIAMI,121 Osawatomie Ward 1 H6,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 2,119,137,19,0,24
+MIAMI,121 Osawatomie Ward 2 Exclave Lake,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 3,111,173,14,0,25
+MIAMI,121 Osawatomie Ward 3 Exclave A,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 3 Exclave B,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 3 Exclave D,0,0,0,0,0
+MIAMI,121 Osawatomie Ward 4,66,66,20,0,0
+MIAMI,121 Paola Ward 1,211,175,13,0,15
+MIAMI,121 Paola Ward 1 Exclave,0,0,0,0,0
+MIAMI,121 Paola Ward 1 Exclave B,0,0,0,0,0
+MIAMI,121 Paola Ward 2,140,153,15,0,24
+MIAMI,121 Paola Ward 3,199,185,15,0,14
+MIAMI,121 Paola Ward 3 Exclave A,0,0,0,0,0
+MIAMI,121 Paola Ward 4,227,205,15,0,15
+MIAMI,121 Paola Ward 4 Exclave,0,0,0,0,0
+MIAMI,121 Richland Township,514,219,26,0,16
+MIAMI,121 South Marysville Township,306,197,23,0,15
+MIAMI,121 South Marysville Township C2,306,197,23,0,15
+MIAMI,121 South Marysville Township C3,306,197,23,0,15
+MIAMI,121 South Paola Township,55,50,6,0,14
+MIAMI,121 South Paola Township Part 2,33,34,5,0,24
+MIAMI,121 South Wea Township,420,152,12,0,17
+MIAMI,121 South Wea Township Enclave A,0,0,0,0,0
+MIAMI,121 South Wea Township Enclave B,0,0,0,0,0
+MIAMI,121 South Wea Township Enclave C,0,0,0,0,0
+MIAMI,121 Spring Hill City Exclave A,0,0,0,0,0
+MIAMI,121 Spring Hill City Exclave B,64,70,2,0,25
+MIAMI,121 Spring Hill City Exclave C,0,0,0,0,0
+MIAMI,121 Spring Hill City Precinct 01,268,168,15,0,15
+MIAMI,121 Stanton Township,184,124,9,0,15
+MIAMI,121 Sugar Creek Township,120,42,10,0,16
+MIAMI,121 Ten Mile Township,374,168,12,0,16
+MIAMI,121 West Middle Creek Township,189,81,8,0,16
+MIAMI,121 West Valley Township Exclave,89,71,3,0,15
+MIAMI,121 West Valley Township H5,47,42,7,0,14
+MIAMI,121 West Valley Township H6,53,43,1,0,15
+MITCHELL,123 Asherville Township,26,17,2,0,15
+MITCHELL,123 Beloit City Ward 1,113,72,11,0,15
+MITCHELL,123 Beloit City Ward 2,213,139,15,0,15
+MITCHELL,123 Beloit City Ward 3,223,129,19,0,16
+MITCHELL,123 Beloit City Ward 4,172,105,13,0,15
+MITCHELL,123 Beloit Township,85,30,2,0,17
+MITCHELL,123 Beloit Township Enclave A,0,0,0,0,0
+MITCHELL,123 Beloit Township Enclave B,0,0,0,0,0
+MITCHELL,123 Beloit Township Enclave C,0,0,0,0,0
+MITCHELL,123 Bloomfield Township,26,7,1,0,17
+MITCHELL,123 Blue Hill Township,11,6,2,0,15
+MITCHELL,123 Carr Creek Township,11,0,0,0,19
+MITCHELL,123 Cawker City,0,0,0,0,0
+MITCHELL,123 Cawker Township,115,63,7,0,16
+MITCHELL,123 Center Township,8,4,0,0,16
+MITCHELL,123 Custer Township,27,24,2,0,15
+MITCHELL,123 Eureka Township,10,3,1,0,17
+MITCHELL,123 Glen Elder City,0,0,0,0,0
+MITCHELL,123 Glen Elder Township,127,69,13,0,16
+MITCHELL,123 Hayes Township,9,4,0,0,16
+MITCHELL,123 Hunter City,0,0,0,0,0
+MITCHELL,123 Logan Township,23,15,1,0,15
+MITCHELL,123 Lulu Township,25,3,0,0,18
+MITCHELL,123 Pittsburg Township,103,33,4,0,17
+MITCHELL,123 Plum Creek Township,48,6,1,0,18
+MITCHELL,123 Round Springs Township,13,2,0,0,18
+MITCHELL,123 Salt Creek Township,11,1,0,0,19
+MITCHELL,123 Scottsville City,0,0,0,0,0
+MITCHELL,123 Simpson City,0,0,0,0,0
+MITCHELL,123 Solomon Rapids Township,17,11,2,0,15
+MITCHELL,123 Tipton City,0,0,0,0,0
+MITCHELL,123 Turkey Creek Township,35,15,3,0,16
+MITCHELL,123 Walnut Creek Township,13,7,0,0,16
+MONTGOMERY,125 Caney City Ward 1,79,32,3,0,16
+MONTGOMERY,125 Caney City Ward 1 Exclave A,3,1,0,0,17
+MONTGOMERY,125 Caney City Ward 1 Exclave B,0,0,0,0,0
+MONTGOMERY,125 Caney City Ward 2,63,28,9,0,16
+MONTGOMERY,125 Caney City Ward 3,94,19,7,0,17
+MONTGOMERY,125 Caney City Ward 3 Exclave,2,0,0,0,19
+MONTGOMERY,125 Caney City Ward 4,105,27,8,0,17
+MONTGOMERY,125 Caney Township Havana,168,38,7,0,17
+MONTGOMERY,125 Caney Township Tyro,197,39,8,0,18
+MONTGOMERY,125 Cherokee Township,79,41,8,0,16
+MONTGOMERY,125 Cherry Township,125,49,13,0,16
+MONTGOMERY,125 Cherryvale Ward 1,175,107,19,0,15
+MONTGOMERY,125 Cherryvale Ward 2,136,89,7,0,15
+MONTGOMERY,125 Coffeyville Airport,0,0,0,0,0
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 01,4,23,0,0,28
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 02,42,37,1,0,15
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 03,63,54,4,0,15
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 04,91,53,4,0,16
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 05,95,85,9,0,15
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 06,28,27,4,0,14
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 07,37,35,5,0,14
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 08,48,50,5,0,24
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 09,15,16,1,0,25
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 10,54,42,6,0,15
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 11,141,112,10,0,15
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 12,217,141,13,0,15
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 13,189,124,7,0,15
+MONTGOMERY,125 Coffeyville Ward 1 Precinct 1 Exclave,0,0,0,0,0
+MONTGOMERY,125 Drum Creek Township,159,44,6,0,17
+MONTGOMERY,125 Fawn Creek Township Dearing,373,140,22,0,16
+MONTGOMERY,125 Fawn Creek Township Tyro,115,24,7,0,17
+MONTGOMERY,125 Independence City Ward 1 Precinct 1,55,52,2,0,15
+MONTGOMERY,125 Independence City Ward 1 Precinct 2,117,66,13,0,15
+MONTGOMERY,125 Independence City Ward 2 Precinct 1,40,41,2,0,24
+MONTGOMERY,125 Independence City Ward 2 Precinct 2,40,24,0,0,16
+MONTGOMERY,125 Independence City Ward 3 Precinct 1,102,47,6,0,16
+MONTGOMERY,125 Independence City Ward 3 Precinct 2,48,32,6,0,15
+MONTGOMERY,125 Independence City Ward 3 Precinct 2 Exclave,1,0,0,0,19
+MONTGOMERY,125 Independence City Ward 4 Precinct 1,96,68,7,0,15
+MONTGOMERY,125 Independence City Ward 4 Precinct 2,63,37,10,0,15
+MONTGOMERY,125 Independence City Ward 5 Precinct 1,64,36,5,0,16
+MONTGOMERY,125 Independence City Ward 5 Precinct 2,103,94,11,0,14
+MONTGOMERY,125 Independence City Ward 6 Precinct 1 H11,11,9,1,0,15
+MONTGOMERY,125 Independence City Ward 6 Precinct 1 H12,172,103,9,0,16
+MONTGOMERY,125 Independence City Ward 6 Precinct 2 H11,133,88,10,0,15
+MONTGOMERY,125 Independence City Ward 6 Precinct 2 H11 A,58,50,3,0,15
+MONTGOMERY,125 Independence City Ward 6 Precinct 2 H12,48,22,3,0,16
+MONTGOMERY,125 Independence City Ward 6 Precinct 2 H12 A,6,3,0,0,16
+MONTGOMERY,125 Independence Exclave Airport,0,0,0,0,0
+MONTGOMERY,125 Independence Township 1 Enclave,0,0,0,0,0
+MONTGOMERY,125 Independence Township 1 H11,373,141,19,0,16
+MONTGOMERY,125 Independence Township 1 H12,58,24,10,0,16
+MONTGOMERY,125 Independence Township 2 Part A H11,0,0,0,0,0
+MONTGOMERY,125 Independence Township 2 Part A H12,94,38,2,0,17
+MONTGOMERY,125 Independence Township 2 Part B,0,0,0,0,0
+MONTGOMERY,125 Independence Township 2 Part C,20,19,1,0,15
+MONTGOMERY,125 Liberty Township,125,49,12,0,16
+MONTGOMERY,125 Louisburg Township,122,43,4,0,17
+MONTGOMERY,125 Parker Township 1,58,32,2,0,16
+MONTGOMERY,125 Parker Township 2,171,126,17,0,15
+MONTGOMERY,125 Parker Township 2 Enclave,5,3,2,0,15
+MONTGOMERY,125 Parker Township 2 Enclave A,0,0,0,0,0
+MONTGOMERY,125 Parker Township 2 Enclave B,0,0,0,0,0
+MONTGOMERY,125 Rutland Township,99,24,6,0,17
+MONTGOMERY,125 Sycamore Township H11,240,77,9,0,17
+MONTGOMERY,125 Sycamore Township H12,0,0,0,0,0
+MONTGOMERY,125 Sycamore Township H12 A,0,0,0,0,0
+MONTGOMERY,125 Sycamore Township H12 B,0,0,0,0,0
+MONTGOMERY,125 Sycamore Township H12 C,0,0,0,0,0
+MONTGOMERY,125 West Cherry Township,76,28,0,0,17
+MORRIS,127 Council Grove Ward 1,75,98,21,0,25
+MORRIS,127 Council Grove Ward 2,71,75,15,0,24
+MORRIS,127 Council Grove Ward 3,115,184,35,0,25
+MORRIS,127 Council Grove Ward 3 Exclave,0,0,0,0,0
+MORRIS,127 Herington Exclave C Airport,0,0,0,0,0
+MORRIS,127 Herington Ward 1 Exclave A,0,0,0,0,0
+MORRIS,127 Herington Ward 1 Exclave B,0,0,0,0,0
+MORRIS,127 Highland Township,30,17,3,0,16
+MORRIS,127 Overland Township,14,9,5,0,15
+MORRIS,127 Township 1 Precinct 1,56,43,8,0,15
+MORRIS,127 Township 1 Precinct 2,39,37,12,0,14
+MORRIS,127 Township 2,129,167,27,0,25
+MORRIS,127 Township 3,94,64,15,0,15
+MORRIS,127 Township 4,49,32,12,0,15
+MORRIS,127 Township 5,129,65,17,0,16
+MORRIS,127 Township 6,30,7,3,0,17
+MORRIS,127 Township 7,56,38,8,0,15
+MORRIS,127 Township 8,60,31,4,0,16
+MORRIS,127 Township 9,53,45,15,0,14
+MORTON,129 Cimarron Township,18,5,2,0,17
+MORTON,129 East Richfield,19,15,1,0,15
+MORTON,129 Elkhart Ward 1,117,59,10,0,16
+MORTON,129 Elkhart Ward 2,119,46,8,0,16
+MORTON,129 Elkhart Ward 3,133,69,13,0,16
+MORTON,129 Jones Township,8,1,0,0,18
+MORTON,129 Rolla Township,91,58,5,0,15
+MORTON,129 Taloga Township,34,4,1,0,18
+MORTON,129 Westola Township,21,8,0,0,17
+MORTON,129 West Richfield,37,3,1,0,19
+NEMAHA,131 Adams Township,71,19,2,0,17
+NEMAHA,131 Berwick Township,151,24,4,0,18
+NEMAHA,131 Capioma Township,55,18,0,0,17
+NEMAHA,131 Center Township,33,29,3,0,15
+NEMAHA,131 Centralia,57,66,8,0,25
+NEMAHA,131 Centralia Illinois A,7,17,0,0,27
+NEMAHA,131 Centralia Illinois B,0,0,0,0,0
+NEMAHA,131 Clear Creek Township,28,21,1,0,15
+NEMAHA,131 Gilman Township,55,30,3,0,16
+NEMAHA,131 Granada Township,33,16,3,0,16
+NEMAHA,131 Harrison - Goff,37,22,4,0,15
+NEMAHA,131 Harrison - Kelly,25,15,1,0,16
+NEMAHA,131 Home Township,28,26,8,0,14
+NEMAHA,131 Illinois Township,103,65,4,0,15
+NEMAHA,131 Marion Township,108,73,1,0,15
+NEMAHA,131 Mitchell Township,82,43,3,0,16
+NEMAHA,131 Nemaha Township,59,7,1,0,18
+NEMAHA,131 Neuchatel Township,32,18,2,0,16
+NEMAHA,131 Red Vermillion Township,21,18,2,0,15
+NEMAHA,131 Reilly Township,41,20,1,0,16
+NEMAHA,131 Richland Township Enclave 2,0,0,0,0,0
+NEMAHA,131 Richmond Township,164,70,6,0,16
+NEMAHA,131 Richmond Township Enclave 1,0,0,0,0,0
+NEMAHA,131 Rock Creek Township,135,54,4,0,16
+NEMAHA,131 Rock Creek Township Enclave A,0,0,0,0,0
+NEMAHA,131 Rock Creek Township Enclave B,0,0,0,0,0
+NEMAHA,131 Sabetha Ward 1,150,93,11,0,15
+NEMAHA,131 Sabetha Ward,172,78,9,0,16
+NEMAHA,131 Sabetha Ward 2,161,94,10,0,16
+NEMAHA,131 Sabetha Ward 3 Enclave,0,0,0,0,0
+NEMAHA,131 Sabetha Ward 4,103,50,9,0,16
+NEMAHA,131 Sabetha Ward 5,0,0,0,0,0
+NEMAHA,131 Sabetha Ward Exclave,0,0,0,0,0
+NEMAHA,131 Seneca Ward 1,121,90,9,0,15
+NEMAHA,131 Seneca Ward 2,177,132,6,0,15
+NEMAHA,131 Seneca Ward 3,193,130,12,0,15
+NEMAHA,131 Washington Township,140,43,6,0,17
+NEMAHA,131 Wetmore Township,74,63,10,0,15
+NEOSHO,133 Big Creek Township,123,69,8,0,16
+NEOSHO,133 Canville Township,132,105,13,0,15
+NEOSHO,133 Centerville Township,107,88,6,0,15
+NEOSHO,133 Chanute Ward 1,36,22,3,0,15
+NEOSHO,133 Chanute Ward 2 Precinct 1,92,78,8,0,15
+NEOSHO,133 Chanute Ward 2 Precinct 2,147,78,11,0,16
+NEOSHO,133 Chanute Ward 3 Precinct 1,155,160,34,0,24
+NEOSHO,133 Chanute Ward 3 Precinct 1 Exclave,0,0,0,0,0
+NEOSHO,133 Chanute Ward 3 Precinct 2,129,111,8,0,15
+NEOSHO,133 Chanute Ward 3 Precinct 3,255,204,11,0,15
+NEOSHO,133 Chanute Ward 3 Precinct 3 Exclave,0,0,0,0,0
+NEOSHO,133 Chanute Ward 4 Precinct 1,123,148,13,0,25
+NEOSHO,133 Chanute Ward 4 Precinct 2,76,111,9,0,25
+NEOSHO,133 Chanute Ward 4 Precinct 3,94,64,11,0,15
+NEOSHO,133 Chanute Ward 4 Precinct 3 Exclave A,0,0,0,0,0
+NEOSHO,133 Chanute Ward 4 Precinct 3 Exclave B,0,0,0,0,0
+NEOSHO,133 Chetopa Township H13,163,49,8,0,17
+NEOSHO,133 Chetopa Township H2,0,0,0,0,0
+NEOSHO,133 Chetopa Township H9,65,15,2,0,17
+NEOSHO,133 East Erie,83,116,15,0,25
+NEOSHO,133 Grant Township,85,62,9,0,15
+NEOSHO,133 Ladore Township,53,78,6,0,25
+NEOSHO,133 Lincoln Township,39,31,4,0,15
+NEOSHO,133 Mission Township,193,127,6,0,15
+NEOSHO,133 North Tioga Township,116,52,6,0,16
+NEOSHO,133 Shiloh Township,91,20,7,0,17
+NEOSHO,133 South Tioga East Township,50,36,5,0,15
+NEOSHO,133 South Tioga West Township,33,18,3,0,16
+NEOSHO,133 South Tioga West Township Enclave,0,0,0,0,0
+NEOSHO,133 South Tioga West Township Enclave B,0,0,0,0,0
+NEOSHO,133 South Tioga West Township Enclave C,0,0,0,0,0
+NEOSHO,133 Walnut Grove Township,57,65,5,0,25
+NEOSHO,133 West Erie,147,100,3,0,15
+NESS,135 Bazine Township,112,28,3,0,17
+NESS,135 Eden Township,31,5,0,0,18
+NESS,135 Forrester Township,38,8,1,0,18
+NESS,135 Franklin Township,40,8,2,0,18
+NESS,135 Highpoint Township,32,1,1,0,19
+NESS,135 Johnson Township,25,6,3,0,17
+NESS,135 Nevada Township,102,48,10,0,16
+NESS,135 North Center,262,81,11,0,17
+NESS,135 Ohio Township,80,15,3,0,18
+NESS,135 South Center,122,53,5,0,16
+NESS,135 Waring Township,36,7,1,0,18
+NORTON,137 Almena Township,137,45,11,0,17
+NORTON,137 Center Precinct 1,183,65,10,0,17
+NORTON,137 Center Precinct 2,43,14,3,0,17
+NORTON,137 Harrison Township,0,0,0,0,0
+NORTON,137 Highland Precinct 1,131,35,11,0,17
+NORTON,137 Highland Precinct 2,27,11,1,0,16
+NORTON,137 Highland Precinct 3,24,9,2,0,16
+NORTON,137 Norton Ward 1,183,92,16,0,16
+NORTON,137 Norton Ward 2,255,127,14,0,16
+NORTON,137 Norton Ward 3,186,110,22,0,15
+NORTON,137 Solomon Precinct 1,36,9,0,0,18
+NORTON,137 Solomon Precinct 2,11,1,0,0,19
+OSAGE,139 Agency Township,89,49,15,0,15
+OSAGE,139 Arvonia Township,24,25,6,0,24
+OSAGE,139 Barclay Township,49,27,6,0,15
+OSAGE,139 Dragoon Township,55,34,7,0,15
+OSAGE,139 Elk Township,393,307,38,0,15
+OSAGE,139 Fairfax Township,139,107,8,0,15
+OSAGE,139 Grant Township,63,45,10,0,15
+OSAGE,139 Grant Township Enclave 1,0,0,0,0,0
+OSAGE,139 Grant Township Enclave 2,0,0,0,0,0
+OSAGE,139 Lincoln Township,24,14,4,0,15
+OSAGE,139 Melvern Township,128,102,16,0,15
+OSAGE,139 Michigan Valley Township,86,65,16,0,15
+OSAGE,139 North Burlingame,174,154,22,0,14
+OSAGE,139 North Ridgeway,196,204,31,0,24
+OSAGE,139 North Valleybrook,185,189,20,0,24
+OSAGE,139 Olivet Township,54,34,5,0,15
+OSAGE,139 Osage City Ward 1,135,139,12,0,24
+OSAGE,139 Osage City Ward 2,63,81,11,0,25
+OSAGE,139 Osage City Ward 2 Exclave,0,0,0,0,0
+OSAGE,139 Osage City Ward 3,80,109,12,0,25
+OSAGE,139 Osage City Ward 4,119,132,8,0,25
+OSAGE,139 Scranton Township,194,143,31,0,15
+OSAGE,139 South Burlingame,148,130,29,0,14
+OSAGE,139 South Ridgeway,180,213,26,0,25
+OSAGE,139 South Valleybrook,76,76,13,0,0
+OSAGE,139 Superior Township,69,50,7,0,15
+OSAGE,139 Superior Township Enclave 1,0,0,0,0,0
+OSAGE,139 Vassar Township,148,144,7,0,14
+OSBORNE,141 Bethany Township,39,21,4,0,16
+OSBORNE,141 Bloom Township,19,7,0,0,17
+OSBORNE,141 Corinth Township,11,8,2,0,15
+OSBORNE,141 Covert Township,3,1,0,0,17
+OSBORNE,141 Delhi Township,9,4,1,0,16
+OSBORNE,141 Grant Township,8,2,1,0,17
+OSBORNE,141 Hancock Township,10,0,0,0,19
+OSBORNE,141 Hawkeye Township,8,2,0,0,18
+OSBORNE,141 Independence Township,9,1,1,0,18
+OSBORNE,141 Jackson Township,15,1,0,0,19
+OSBORNE,141 Kill Creek Township,3,0,0,0,19
+OSBORNE,141 Lawrence Township,11,4,1,0,16
+OSBORNE,141 Liberty Township,11,2,1,0,17
+OSBORNE,141 Mount Ayr Township,24,0,1,0,19
+OSBORNE,141 Natoma Township,90,22,4,0,17
+OSBORNE,141 Osborne Ward 1,104,71,8,0,15
+OSBORNE,141 Osborne Ward 2,132,84,12,0,15
+OSBORNE,141 Osborne Ward 3,76,44,16,0,15
+OSBORNE,141 Penn Township,33,12,3,0,16
+OSBORNE,141 Ross 1,30,13,1,0,16
+OSBORNE,141 Ross 2,172,119,25,0,15
+OSBORNE,141 Round Mound Township,20,1,0,0,19
+OSBORNE,141 Sumner Township,38,11,2,0,17
+OSBORNE,141 Tilden Township,29,4,1,0,18
+OSBORNE,141 Valley Township,1,1,0,0,0
+OSBORNE,141 Victor Township,8,3,0,0,17
+OSBORNE,141 Winfield Township,6,2,2,0,16
+OTTAWA,143 Bennington Township,261,177,31,0,15
+OTTAWA,143 Blaine Township,39,15,5,0,16
+OTTAWA,143 Buckeye Township,31,15,4,0,16
+OTTAWA,143 Center Township,32,4,3,0,18
+OTTAWA,143 Chapman Township,25,4,2,0,18
+OTTAWA,143 Concord Township,68,28,5,0,16
+OTTAWA,143 Culver Township,72,35,5,0,16
+OTTAWA,143 Durham Township,3,3,0,0,0
+OTTAWA,143 Fountain Township,37,15,2,0,16
+OTTAWA,143 Garfield Township,31,6,2,0,17
+OTTAWA,143 Grant Township,30,10,2,0,17
+OTTAWA,143 Henry Township,7,1,1,0,17
+OTTAWA,143 Lincoln Township,26,28,1,0,25
+OTTAWA,143 Logan Township,26,4,2,0,18
+OTTAWA,143 Minneapolis Precinct 1,187,72,17,0,16
+OTTAWA,143 Minneapolis Precinct 2,111,48,19,0,16
+OTTAWA,143 Minneapolis Precinct 2 Exclave,0,0,0,0,0
+OTTAWA,143 Minneapolis Precinct 3,173,73,22,0,16
+OTTAWA,143 Morton Township,103,45,20,0,16
+OTTAWA,143 Ottawa Township,15,5,1,0,17
+OTTAWA,143 Richland Township,79,20,8,0,17
+OTTAWA,143 Sheridan Township,106,55,19,0,15
+OTTAWA,143 Sherman Township,24,2,0,0,19
+OTTAWA,143 Stanton Township,14,12,0,0,15
+PAWNEE,145 Ash Valley Township,12,17,0,0,25
+PAWNEE,145 Browns Grove Township C1,69,40,7,0,15
+PAWNEE,145 Browns Grove Township C4,1,1,0,0,0
+PAWNEE,145 Conkling Township,5,5,0,0,0
+PAWNEE,145 Garfield Township,42,26,1,0,16
+PAWNEE,145 Grant Township C1,55,23,2,0,16
+PAWNEE,145 Grant Township C4,11,1,0,0,19
+PAWNEE,145 Keysville Township,13,5,0,0,17
+PAWNEE,145 Larned Township,72,49,5,0,15
+PAWNEE,145 Larned Ward 1,120,139,13,0,25
+PAWNEE,145 Larned Ward 2,182,207,20,0,25
+PAWNEE,145 Larned Ward 3,221,199,9,0,15
+PAWNEE,145 Larned Ward 4,72,104,9,0,25
+PAWNEE,145 Lincoln Township,9,2,0,0,18
+PAWNEE,145 Logan Township,23,2,0,0,19
+PAWNEE,145 Morton Township,17,8,0,0,16
+PAWNEE,145 Orange Township,11,6,1,0,16
+PAWNEE,145 Pawnee Township,20,16,0,0,15
+PAWNEE,145 Pleasant Grove Township,39,23,2,0,16
+PAWNEE,145 Pleasant Grove Township Rural Enclave,0,0,0,0,0
+PAWNEE,145 Pleasant Ridge Township,9,7,1,0,15
+PAWNEE,145 Pleasant Valley Township,28,10,1,0,17
+PAWNEE,145 River Township,22,5,1,0,17
+PAWNEE,145 Santa Fe Township,22,27,3,0,25
+PAWNEE,145 Sawmill Township,8,3,1,0,16
+PAWNEE,145 Shiley Township,15,0,0,0,19
+PAWNEE,145 Valley Center Township,13,1,1,0,18
+PAWNEE,145 Walnut Township,15,12,4,0,14
+PHILLIPS,147 Arcade Township,29,15,6,0,15
+PHILLIPS,147 Beaver Township,25,0,1,0,19
+PHILLIPS,147 Belmont Township,30,6,3,0,17
+PHILLIPS,147 Bow Creek Township,17,1,1,0,18
+PHILLIPS,147 Crystal Township,23,5,0,0,18
+PHILLIPS,147 Dayton Township,17,3,0,0,18
+PHILLIPS,147 Deer Creek Township,34,2,1,0,19
+PHILLIPS,147 Freedom Township,40,7,4,0,17
+PHILLIPS,147 Glenwood Township,18,1,0,0,19
+PHILLIPS,147 Granite Township,14,4,0,0,17
+PHILLIPS,147 Greenwood Township,25,2,1,0,18
+PHILLIPS,147 Kirwin Township,68,25,7,0,16
+PHILLIPS,147 Logan Township,164,81,9,0,16
+PHILLIPS,147 Long Island Township,71,19,5,0,17
+PHILLIPS,147 Mound Township,45,12,9,0,16
+PHILLIPS,147 Phillipsburg City Ward 1,288,136,19,0,16
+PHILLIPS,147 Phillipsburg City Ward 2,225,81,25,0,16
+PHILLIPS,147 Phillipsburg City Ward 3,201,124,21,0,15
+PHILLIPS,147 Phillipsburg City Ward 3 Exclave,0,0,0,0,0
+PHILLIPS,147 Phillipsburg Township,110,30,5,0,17
+PHILLIPS,147 Plainview Township,5,4,0,0,15
+PHILLIPS,147 Plum Township,121,34,11,0,17
+PHILLIPS,147 Prairie View Township,68,21,5,0,17
+PHILLIPS,147 Rushville Township,9,0,0,0,19
+PHILLIPS,147 Solomon Township,67,14,1,0,18
+PHILLIPS,147 Sumner Township,16,1,1,0,18
+PHILLIPS,147 Towanda Township,10,2,0,0,18
+PHILLIPS,147 Valley Township,10,3,2,0,16
+PHILLIPS,147 Walnut Township,3,0,1,0,17
+POTTAWATOMIE,149 Belvue Township,87,27,14,0,16
+POTTAWATOMIE,149 Blue Township,659,484,68,0,15
+POTTAWATOMIE,149 Blue Valley Township,86,55,5,0,15
+POTTAWATOMIE,149 Center Township,49,7,2,0,18
+POTTAWATOMIE,149 Clear Creek Township,34,26,3,0,15
+POTTAWATOMIE,149 Emmett Township,80,49,7,0,15
+POTTAWATOMIE,149 Grant Township,51,49,3,0,14
+POTTAWATOMIE,149 Green Township,73,25,1,0,17
+POTTAWATOMIE,149 Lincoln Township,40,18,4,0,16
+POTTAWATOMIE,149 Lone Tree Township,62,27,6,0,16
+POTTAWATOMIE,149 Louisville Township,226,92,24,0,16
+POTTAWATOMIE,149 Manhattan Ward 2 Precinct 5,0,0,0,0,0
+POTTAWATOMIE,149 Manhattan Ward 2 Precinct 5 Exclave,0,0,0,0,0
+POTTAWATOMIE,149 Mill Creek Township,158,136,23,0,14
+POTTAWATOMIE,149 Pottawatomie County,181,76,9,0,16
+POTTAWATOMIE,149 Rock Creek Township,130,88,25,0,15
+POTTAWATOMIE,149 Shannon Township,73,43,6,0,15
+POTTAWATOMIE,149 Sherman Township,23,8,5,0,16
+POTTAWATOMIE,149 Spring Creek Township,18,8,0,0,16
+POTTAWATOMIE,149 St. Clere Township,16,8,1,0,16
+POTTAWATOMIE,149 St. George Township S1,6,8,0,0,25
+POTTAWATOMIE,149 St. George Township S17,725,387,80,0,16
+POTTAWATOMIE,149 St. Marys City,793,208,42,0,17
+POTTAWATOMIE,149 St. Marys Township,321,48,8,0,18
+POTTAWATOMIE,149 Union Township,57,34,8,0,15
+POTTAWATOMIE,149 Vienna Township,33,14,4,0,16
+POTTAWATOMIE,149 Wamego East S18,279,168,27,0,15
+POTTAWATOMIE,149 Wamego West S18,495,394,72,0,15
+POTTAWATOMIE,149 Wamego East Enclave,0,0,0,0,0
+POTTAWATOMIE,149 Wamego Township Enclave,0,0,0,0,0
+POTTAWATOMIE,149 Wamego Township S1,13,1,0,0,19
+POTTAWATOMIE,149 Wamego Township S17,133,98,14,0,15
+POTTAWATOMIE,149 Wamego Township S18,88,47,9,0,16
+POTTAWATOMIE,149 Wamego West S17 A,0,0,0,0,0
+PRATT,151 Pratt Ward 1,212,165,20,0,15
+PRATT,151 Pratt Ward 2,131,90,12,0,15
+PRATT,151 Pratt Ward 2 Exclave Airport,0,0,0,0,0
+PRATT,151 Pratt Ward 3,265,287,26,0,24
+PRATT,151 Pratt Ward 4,218,203,21,0,14
+PRATT,151 Pratt Ward 4 Exclave Sewer Plant,0,0,0,0,0
+PRATT,151 Pratt Ward 4 Exclave Withers,0,0,0,0,0
+PRATT,151 Pratt Ward 5,224,164,17,0,15
+PRATT,151 Pratt Ward Exclave Pratt College,0,0,0,0,0
+PRATT,151 Township 10,41,16,2,0,16
+PRATT,151 Township 11,75,29,5,0,16
+PRATT,151 Township 12,258,185,13,0,15
+PRATT,151 Township 12 Enclave,0,0,0,0,0
+PRATT,151 Township 6,125,70,7,0,16
+PRATT,151 Township 7,68,39,7,0,15
+PRATT,151 Township 8,27,20,0,0,15
+PRATT,151 Township 9,75,30,3,0,16
+RAWLINS,153 Achilles Township,22,2,2,0,18
+RAWLINS,153 Atwood City Precinct 1 East,64,32,7,0,16
+RAWLINS,153 Atwood City Precinct 1 North,31,14,1,0,16
+RAWLINS,153 Atwood City Precinct 1 West,25,19,3,0,15
+RAWLINS,153 Atwood City Precinct 2,163,80,12,0,16
+RAWLINS,153 Atwood Township,10,5,0,0,16
+RAWLINS,153 Driftwood Township,31,7,1,0,17
+RAWLINS,153 East Center,54,9,2,0,18
+RAWLINS,153 Herl Township,68,19,5,0,17
+RAWLINS,153 Herl Township South,0,0,0,0,0
+RAWLINS,153 Herndon City,44,14,4,0,17
+RAWLINS,153 Jefferson Township,22,2,0,0,19
+RAWLINS,153 Ludell Township,43,8,2,0,18
+RAWLINS,153 McDonald City,56,7,0,0,18
+RAWLINS,153 Mirage Township,23,1,1,0,19
+RAWLINS,153 Rocewood Township,132,6,1,0,19
+RAWLINS,153 Union Township,18,3,1,0,18
+RAWLINS,153 West Center,66,14,2,0,18
+RENO,155 Albion Township,196,119,12,0,15
+RENO,155 Arlington Township,77,92,15,0,25
+RENO,155 Bell Township,25,8,1,0,17
+RENO,155 Castleton Township,76,46,2,0,16
+RENO,155 Center Township,88,39,5,0,16
+RENO,155 Enterprise Township,44,18,1,0,16
+RENO,155 Grant Township,376,230,20,0,16
+RENO,155 Grove Township,16,5,0,0,17
+RENO,155 Haven Township,314,215,36,0,15
+RENO,155 Hayes Township,20,10,0,0,16
+RENO,155 Huntsville Township,36,11,3,0,17
+RENO,155 Hutchinson Precinct 01 H102,43,78,16,0,25
+RENO,155 Hutchinson Precinct 01 H114,0,8,0,0,29
+RENO,155 Hutchinson Precinct 02,46,65,6,0,25
+RENO,155 Hutchinson Precinct 03,28,44,5,0,25
+RENO,155 Hutchinson Precinct 04,371,328,11,0,15
+RENO,155 Hutchinson Precinct 05,104,119,23,0,24
+RENO,155 Hutchinson Precinct 06,102,117,9,0,25
+RENO,155 Hutchinson Precinct 07,123,194,9,0,25
+RENO,155 Hutchinson Precinct 08 H101,87,73,6,0,15
+RENO,155 Hutchinson Precinct 09,213,248,25,0,25
+RENO,155 Hutchinson Precinct 10,289,293,18,0,24
+RENO,155 Hutchinson Precinct 11,304,288,19,0,14
+RENO,155 Hutchinson Precinct 12,157,176,8,0,25
+RENO,155 Hutchinson Precinct 13,172,212,8,0,25
+RENO,155 Hutchinson Precinct 14,134,132,7,0,14
+RENO,155 Hutchinson Precinct 15,72,84,11,0,25
+RENO,155 Hutchinson Precinct 16,115,199,17,0,26
+RENO,155 Hutchinson Precinct 17,187,240,20,0,25
+RENO,155 Hutchinson Precinct 18,61,74,12,0,25
+RENO,155 Hutchinson Precinct 19,54,90,19,0,25
+RENO,155 Hutchinson Precinct 20,117,129,18,0,24
+RENO,155 Hutchinson Precinct 21,87,118,15,0,25
+RENO,155 Hutchinson Precinct 22,219,267,20,0,25
+RENO,155 Hutchinson Precinct 23 Exclave,69,70,5,0,24
+RENO,155 Hutchinson Precinct 23 H104,328,347,27,0,24
+RENO,155 Hutchinson Precinct 24,211,220,20,0,24
+RENO,155 Hutchinson Precinct 25,69,119,9,0,26
+RENO,155 Hutchinson Precinct 26,56,74,10,0,25
+RENO,155 Hutchinson Precinct 26 Exclave,11,13,3,0,24
+RENO,155 Hutchinson Precinct 27,145,148,10,0,24
+RENO,155 Hutchinson Precinct 28,349,303,19,0,15
+RENO,155 Hutchinson Precinct 28 Exclave,216,123,4,0,16
+RENO,155 Hutchinson Precinct 29,134,167,14,0,25
+RENO,155 Hutchinson Precinct 30,55,71,9,0,25
+RENO,155 Hutchinson Precinct 31,132,136,10,0,24
+RENO,155 Hutchinson Precinct 32,52,48,2,0,15
+RENO,155 Hutchinson Precinct 33,90,74,5,0,15
+RENO,155 Hutchinson Precinct 34,25,20,5,0,15
+RENO,155 Hutchinson Precinct 34 Exclave,1,0,0,0,19
+RENO,155 Hutchinson Precinct 35,64,77,7,0,25
+RENO,155 Hutchinson Precinct 36,0,0,0,0,0
+RENO,155 Langdon Township,20,18,6,0,14
+RENO,155 Lincoln Township,106,41,6,0,16
+RENO,155 Little River Township,499,276,25,0,16
+RENO,155 Loda Township,29,10,3,0,16
+RENO,155 Medford Township,43,17,2,0,16
+RENO,155 Medora Township,401,245,19,0,16
+RENO,155 Miami Township,61,46,11,0,15
+RENO,155 Nickerson Ward 1,61,55,11,0,14
+RENO,155 Nickerson Ward 2,32,36,5,0,24
+RENO,155 Nickerson Ward 3,39,41,8,0,24
+RENO,155 Ninnescah Township,40,31,7,0,15
+RENO,155 North Clay Township,210,171,9,0,15
+RENO,155 North Reno Township,314,219,26,0,15
+RENO,155 Plevna Township,75,20,2,0,17
+RENO,155 Roscoe Township,26,14,1,0,16
+RENO,155 Salt Creek Township,99,39,4,0,16
+RENO,155 South Clay Township Clay H102 A,4,4,0,0,0
+RENO,155 South Clay Township H101,209,143,25,0,15
+RENO,155 South Hutchinson Precinct 1,77,71,8,0,14
+RENO,155 South Hutchinson Precinct 2,187,120,19,0,15
+RENO,155 South Hutchinson Precinct 3,133,123,13,0,14
+RENO,155 South Reno Township,63,40,4,0,15
+RENO,155 Sumner Township,158,68,7,0,16
+RENO,155 Sylvia Township,59,37,8,0,15
+RENO,155 Troy Township,32,18,3,0,16
+RENO,155 Valley Township,189,111,17,0,15
+RENO,155 Walnut Township,43,10,1,0,17
+RENO,155 Westminister Township,51,33,6,0,15
+RENO,155 Yoder Township,152,42,7,0,17
+REPUBLIC,157 Albion Township,36,12,4,0,16
+REPUBLIC,157 Beaver Township,21,14,2,0,15
+REPUBLIC,157 Belleville Township,80,14,7,0,17
+REPUBLIC,157 Belleville Ward 1,170,88,16,0,16
+REPUBLIC,157 Belleville Ward 2,173,104,14,0,15
+REPUBLIC,157 Belleville Ward 2 Exclave Airport,0,0,0,0,0
+REPUBLIC,157 Belleville Ward 3,102,49,16,0,16
+REPUBLIC,157 Belleville Ward 3 Exclave Cemetery,0,0,0,0,0
+REPUBLIC,157 Big Bend Township,40,19,7,0,16
+REPUBLIC,157 Courtland Township,103,64,5,0,15
+REPUBLIC,157 Elk Creek Township,47,16,3,0,17
+REPUBLIC,157 Fairview Township,52,17,3,0,17
+REPUBLIC,157 Farmington Township,18,3,2,0,17
+REPUBLIC,157 Freedom Township,53,22,4,0,16
+REPUBLIC,157 Freedom Township Enclave,0,0,0,0,0
+REPUBLIC,157 Grant Township,16,10,0,0,16
+REPUBLIC,157 Jefferson Township,27,17,3,0,15
+REPUBLIC,157 Liberty Township,9,4,1,0,16
+REPUBLIC,157 Lincoln Township,24,5,2,0,17
+REPUBLIC,157 Norway Township,40,18,1,0,16
+REPUBLIC,157 Richland Township,65,34,9,0,16
+REPUBLIC,157 Rose Creek Township,49,14,1,0,17
+REPUBLIC,157 Scandia Township,90,70,8,0,15
+REPUBLIC,157 Union Township,10,8,0,0,15
+REPUBLIC,157 Washington Township,32,4,0,0,18
+REPUBLIC,157 White Rock Township,33,9,3,0,17
+RICE,159 Atlanta Township,36,25,4,0,15
+RICE,159 Bell Township,4,0,0,0,19
+RICE,159 Center Township,34,7,2,0,17
+RICE,159 East Washington Township,38,17,1,0,16
+RICE,159 Eureka Township,17,1,0,0,19
+RICE,159 Farmer Township,91,50,7,0,16
+RICE,159 Galt Township,21,13,0,0,16
+RICE,159 Harrison Township,50,13,7,0,17
+RICE,159 Lincoln Township,80,46,14,0,15
+RICE,159 Lyons Ward 1,165,122,12,0,15
+RICE,159 Lyons Ward 2,121,90,8,0,15
+RICE,159 Lyons Ward 3,80,89,14,0,24
+RICE,159 Lyons Ward 4,122,87,9,0,15
+RICE,159 Mitchell Township,40,21,2,0,16
+RICE,159 Odessa Township,19,4,0,0,18
+RICE,159 Pioneer Township,13,8,2,0,15
+RICE,159 Raymond Township,42,10,2,0,17
+RICE,159 Rockville Township,33,23,1,0,15
+RICE,159 Sterling City East Ward,263,144,23,0,16
+RICE,159 Sterling City East Ward Exclave A,0,0,0,0,0
+RICE,159 Sterling City East Ward Exclave B,0,0,0,0,0
+RICE,159 Sterling City West Ward,142,91,10,0,15
+RICE,159 Sterling Township,34,22,1,0,15
+RICE,159 Union Township,140,79,14,0,16
+RICE,159 Valley Township,52,28,3,0,16
+RICE,159 Victoria Township,70,39,7,0,16
+RICE,159 West Washington Township,28,18,0,0,16
+RICE,159 Wilson Township,34,17,1,0,16
+RILEY,161 Ashland Township,50,45,3,0,15
+RILEY,161 Bala Township,180,77,13,0,16
+RILEY,161 Center Township,31,7,1,0,17
+RILEY,161 Fancy Creek Township,43,12,1,0,17
+RILEY,161 Fort Riley A Madison Township H64,5,4,1,0,15
+RILEY,161 Fort Riley A Madison Township H67,0,0,0,0,0
+RILEY,161 Fort Riley B Madison Township,5,3,0,0,16
+RILEY,161 Grant Township,289,217,20,0,15
+RILEY,161 Jackson Township,71,49,10,0,15
+RILEY,161 Madison Township H64,209,179,21,0,15
+RILEY,161 Madison Township H67,11,2,2,0,17
+RILEY,161 Manahattan Township Precinct 1 Enclave D,0,0,0,0,0
+RILEY,161 Manhattan City Ward 01 Precinct 01,157,305,20,0,26
+RILEY,161 Manhattan City Ward 02 Precinct 01,95,292,24,0,27
+RILEY,161 Manhattan City Ward 02 Precinct 02,50,136,11,0,26
+RILEY,161 Manhattan City Ward 02 Precinct 03,341,447,66,0,25
+RILEY,161 Manhattan City Ward 02 Precinct 04,183,245,32,0,25
+RILEY,161 Manhattan City Ward 03 Precinct 02,53,135,10,0,26
+RILEY,161 Manhattan City Ward 03 Precinct 03,211,279,15,0,25
+RILEY,161 Manhattan City Ward 04 Precinct 02,81,116,8,0,25
+RILEY,161 Manhattan City Ward 04 Precinct 03,165,322,13,0,26
+RILEY,161 Manhattan City Ward 04 Precinct 04,387,527,31,0,25
+RILEY,161 Manhattan City Ward 04 Precinct 05,209,260,21,0,25
+RILEY,161 Manhattan City Ward 04 Precinct 05 Exclave,0,0,0,0,0
+RILEY,161 Manhattan City Ward 04 Precinct 06,131,94,16,0,15
+RILEY,161 Manhattan City Ward 04 Precinct 07,7,6,1,0,15
+RILEY,161 Manhattan City Ward 05 Precinct 02,118,327,11,0,27
+RILEY,161 Manhattan City Ward 05 Precinct 03,156,284,17,0,26
+RILEY,161 Manhattan City Ward 05 Precinct 05,100,142,17,0,25
+RILEY,161 Manhattan City Ward 05 Precinct 06,287,311,29,0,24
+RILEY,161 Manhattan City Ward 05 Precinct 07,95,144,10,0,25
+RILEY,161 Manhattan City Ward 05 Precinct 08,161,213,11,0,25
+RILEY,161 Manhattan City Ward 05 Precinct 09,449,547,17,0,25
+RILEY,161 Manhattan City Ward 05 Precinct 10,447,520,18,0,25
+RILEY,161 Manhattan City Ward 05 Precinct 11,460,511,38,0,25
+RILEY,161 Manhattan City Ward 06 Precinct 01 Job Corp,2,0,0,0,19
+RILEY,161 Manhattan City Ward 06 Precinct 02 Tech Park,0,0,0,0,0
+RILEY,161 Manhattan City Ward 07 Precinct 01,0,0,0,0,0
+RILEY,161 Manhattan City Ward 08 Precinct 01,51,78,9,0,25
+RILEY,161 Manhattan City Ward 08 Precinct 02,0,1,0,0,29
+RILEY,161 Manhattan City Ward 08 Precinct 03,62,89,12,0,25
+RILEY,161 Manhattan City Ward 09 Precinct 01,47,43,2,0,15
+RILEY,161 Manhattan City Ward 09 Precinct 02,43,69,2,0,26
+RILEY,161 Manhattan City Ward 09 Precinct 03,16,19,2,0,25
+RILEY,161 Manhattan City Ward 10 Precinct 01,12,22,0,0,26
+RILEY,161 Manhattan City Ward 11 Precinct 01,41,73,5,0,26
+RILEY,161 Manhattan City Ward 11 Precinct 01 Part B,44,47,8,0,24
+RILEY,161 Manhattan City Ward 11 Precinct 01 Part C,0,0,0,0,0
+RILEY,161 Manhattan City Ward 11 Precinct 03,13,8,1,0,15
+RILEY,161 Manhattan Township Precinct 1,135,94,14,0,15
+RILEY,161 Manhattan Township Precinct 1 Enclave A,0,0,0,0,0
+RILEY,161 Manhattan Township Precinct 1 Enclave B,0,0,0,0,0
+RILEY,161 Manhattan Township Precinct 1 Enclave F,0,0,0,0,0
+RILEY,161 Manhattan Township Precinct 1 Part A,0,0,0,0,0
+RILEY,161 Manhattan Township Precinct 2,114,130,17,0,24
+RILEY,161 Manhattan Township Precinct 3,50,33,6,0,15
+RILEY,161 Manhattan Township Precinct 3 Enclave A,0,0,0,0,0
+RILEY,161 Manhattan Township Precinct 3 Enclave B,0,0,0,0,0
+RILEY,161 Manhattan Township Precinct 4,115,92,14,0,15
+RILEY,161 May Day Township,28,6,1,0,18
+RILEY,161 Ogden Township,109,40,14,0,16
+RILEY,161 Ogden Township Enclave 1,0,0,0,0,0
+RILEY,161 Ogden Township Enclave 2,0,0,0,0,0
+RILEY,161 Ogden Township Fort Riley A,128,101,23,0,15
+RILEY,161 Ogden Township Ward 2 Annex order 506,0,0,0,0,0
+RILEY,161 Ogden Township Ward 4 Order 10-06-93,0,0,0,0,0
+RILEY,161 Ogden Township Ward 5,0,0,0,0,0
+RILEY,161 Sherman Township,155,81,8,0,16
+RILEY,161 Swede Creek Township,31,29,2,0,15
+RILEY,161 Wildcat Township,247,154,18,0,15
+RILEY,161 Wildcat Township Enclave A,0,0,0,0,0
+RILEY,161 Wildcat Township Enclave B,0,0,0,0,0
+RILEY,161 Zeandale Township,104,68,7,0,15
+ROOKS,163 Township 01,54,18,4,0,17
+ROOKS,163 Township 02,103,41,12,0,16
+ROOKS,163 Township 03 Precinct 1,26,9,0,0,17
+ROOKS,163 Township 03 Precinct 2,303,130,36,0,16
+ROOKS,163 Township 04,12,8,0,0,16
+ROOKS,163 Township 05 H110,37,4,2,0,18
+ROOKS,163 Township 05 H118,0,0,0,0,0
+ROOKS,163 Township 05 H118 A,0,0,0,0,0
+ROOKS,163 Township 06,30,6,2,0,17
+ROOKS,163 Township 07,46,20,5,0,16
+ROOKS,163 Township 08,79,32,2,0,16
+ROOKS,163 Township 09,22,6,0,0,17
+ROOKS,163 Township 10,46,14,2,0,17
+ROOKS,163 Township 11 Precinct 1,180,50,10,0,17
+ROOKS,163 Township 11 Precinct 2,425,151,30,0,17
+ROOKS,163 Township 12,53,17,1,0,17
+RUSH,165 Alexander - Belle Prairie Township,48,6,1,0,18
+RUSH,165 Banner Township,36,17,2,0,16
+RUSH,165 Big Timber Township,44,18,4,0,16
+RUSH,165 Brookdale,119,73,13,0,15
+RUSH,165 Center Township,70,27,5,0,16
+RUSH,165 Garfield Township,34,18,1,0,16
+RUSH,165 Hampton - Fairview Township,69,45,8,0,15
+RUSH,165 Illinois Township,25,9,0,0,17
+RUSH,165 LaCrosse,188,137,20,0,15
+RUSH,165 Lone Star Township,61,51,9,0,15
+RUSH,165 Pioneer Township,88,42,3,0,16
+RUSH,165 Pleasantdale Township,7,4,0,0,16
+RUSH,165 Union Township,25,5,0,0,18
+RUSSELL,167 Big Creek Township,128,35,10,0,17
+RUSSELL,167 Center Township,93,36,3,0,17
+RUSSELL,167 Fairfield Township,11,4,1,0,16
+RUSSELL,167 Fairview Township,94,82,13,0,14
+RUSSELL,167 Grant Township,64,23,1,0,17
+RUSSELL,167 Lincoln Township,43,17,1,0,17
+RUSSELL,167 Luray Township,55,45,8,0,15
+RUSSELL,167 Paradise Township,58,16,5,0,17
+RUSSELL,167 Plymouth Township,71,31,1,0,16
+RUSSELL,167 Russell Township,34,10,1,0,17
+RUSSELL,167 Russell Township Exclave,0,0,0,0,0
+RUSSELL,167 Russell Ward 1,208,100,29,0,16
+RUSSELL,167 Russell Ward 2,251,176,20,0,15
+RUSSELL,167 Russell Ward 3,200,135,21,0,15
+RUSSELL,167 Russell Ward 4,224,126,16,0,16
+RUSSELL,167 Russell Ward 4 Exclave,0,0,0,0,0
+RUSSELL,167 Russell Ward 4 Exclave Airport,0,0,0,0,0
+RUSSELL,167 Waldo Township,23,17,2,0,15
+RUSSELL,167 Winterset Township,24,14,2,0,16
+SALINE,169 Cambria Township,96,55,7,0,16
+SALINE,169 Dayton Township,27,18,0,0,16
+SALINE,169 Elm Creek Township H69,228,134,22,0,15
+SALINE,169 Elm Creek Township H71,0,0,0,0,0
+SALINE,169 Eureka Township,125,76,19,0,15
+SALINE,169 Falun Township,67,30,12,0,16
+SALINE,169 Glendale Township,25,11,3,0,16
+SALINE,169 Greeley Township,249,113,24,0,16
+SALINE,169 Gypsum Township,53,10,5,0,17
+SALINE,169 Liberty Township,54,21,5,0,16
+SALINE,169 Ohio Township,92,62,19,0,15
+SALINE,169 Pleasant Valley Township,91,47,9,0,16
+SALINE,169 Salina Precinct 01 Part A,98,123,19,0,25
+SALINE,169 Salina Precinct 01 Part A Exclave 1,0,0,0,0,0
+SALINE,169 Salina Precinct 01 Part A Exclave 2,0,0,0,0,0
+SALINE,169 Salina Precinct 02,99,119,28,0,24
+SALINE,169 Salina Precinct 03,69,98,14,0,25
+SALINE,169 Salina Precinct 04,89,151,33,0,25
+SALINE,169 Salina Precinct 05,103,128,19,0,25
+SALINE,169 Salina Precinct 06,75,101,24,0,25
+SALINE,169 Salina Precinct 07,107,161,36,0,25
+SALINE,169 Salina Precinct 08,109,162,15,0,25
+SALINE,169 Salina Precinct 09,111,167,35,0,25
+SALINE,169 Salina Precinct 10,115,160,22,0,25
+SALINE,169 Salina Precinct 11,128,111,25,0,14
+SALINE,169 Salina Precinct 12,149,238,34,0,25
+SALINE,169 Salina Precinct 13,107,124,17,0,25
+SALINE,169 Salina Precinct 14 Part A,163,158,33,0,14
+SALINE,169 Salina Precinct 15 Part A,114,152,25,0,25
+SALINE,169 Salina Precinct 15 Part A Exclave 1,0,0,0,0,0
+SALINE,169 Salina Precinct 15 Part A Exclave 2,0,0,0,0,0
+SALINE,169 Salina Precinct 15 Part A Exclave 3,0,0,0,0,0
+SALINE,169 Salina Precinct 15 Part A Exclave 4,0,0,0,0,0
+SALINE,169 Salina Precinct 16,104,91,23,0,14
+SALINE,169 Salina Precinct 17,119,122,24,0,24
+SALINE,169 Salina Precinct 18,138,137,28,0,14
+SALINE,169 Salina Precinct 19,235,188,30,0,15
+SALINE,169 Salina Precinct 20 Part A,516,493,31,0,14
+SALINE,169 Salina Precinct 21 Part A,422,362,33,0,15
+SALINE,169 Salina Precinct 22 Part A,366,297,28,0,15
+SALINE,169 Salina Precinct 22 Part A Exclave,0,0,0,0,0
+SALINE,169 Salina Precinct 23,428,431,43,0,24
+SALINE,169 Salina Precinct 24,141,149,21,0,24
+SALINE,169 Salina Precinct 25,101,98,15,0,14
+SALINE,169 Salina Precinct 26,118,159,26,0,25
+SALINE,169 Salina Precinct 27,197,186,21,0,14
+SALINE,169 Salina Precinct 28,140,113,23,0,15
+SALINE,169 Salina Precinct 29,208,211,23,0,24
+SALINE,169 Salina Precinct 30,183,186,20,0,24
+SALINE,169 Salina Precinct 31 Part A,468,420,68,0,14
+SALINE,169 Salina Precinct 32,130,111,18,0,15
+SALINE,169 Salina Precinct 33,258,245,24,0,14
+SALINE,169 Salina Precinct 33 Exclave,0,0,0,0,0
+SALINE,169 Salina Precinct 34,401,380,55,0,14
+SALINE,169 Salina Precinct 35,249,226,48,0,14
+SALINE,169 Salina Precinct 35 Exclave,0,0,0,0,0
+SALINE,169 Smokey Hill Township Part B,62,38,5,0,15
+SALINE,169 Smokey Hill Township Part B Enclave 1,0,0,0,0,0
+SALINE,169 Smokey Hill Township Part B Exclave 1,0,0,0,0,0
+SALINE,169 Smoky View Township,174,127,28,0,15
+SALINE,169 Smolan Township,172,112,16,0,15
+SALINE,169 Solomon Township,125,62,2,0,16
+SALINE,169 Spring Creek Township,100,42,16,0,16
+SALINE,169 Walnut Township,136,94,14,0,15
+SALINE,169 Washington Township,45,20,5,0,16
+SCOTT,171 Beaver Township,64,14,2,0,18
+SCOTT,171 Isbel Township,31,9,2,0,17
+SCOTT,171 Keystone Township,34,2,0,0,19
+SCOTT,171 Lake Township,24,1,0,0,19
+SCOTT,171 Michigan Township,25,4,3,0,17
+SCOTT,171 Scott City Ward 1,148,54,19,0,16
+SCOTT,171 Scott City Ward 2,335,92,10,0,17
+SCOTT,171 Scott City Ward 3,211,80,11,0,16
+SCOTT,171 Scott City Ward 4,249,97,18,0,16
+SCOTT,171 Scott Township,81,21,6,0,17
+SCOTT,171 Valley Township,69,11,1,0,18
+SEWARD,175 Fargo Township 1,30,7,2,0,17
+SEWARD,175 Fargo Township 2,97,34,8,0,16
+SEWARD,175 Fargo Township 3,15,3,0,0,18
+SEWARD,175 Fargo Township 4,42,27,2,0,15
+SEWARD,175 Liberal Township 1,45,12,0,0,17
+SEWARD,175 Liberal Township 1 Exclave,0,0,0,0,0
+SEWARD,175 Liberal Township 2,23,9,0,0,17
+SEWARD,175 Liberal Township 3,46,7,2,0,18
+SEWARD,175 Liberal Township 4,25,8,2,0,17
+SEWARD,175 Liberal Township 4 Exclave,0,0,0,0,0
+SEWARD,175 Liberal Township 5,23,3,1,0,18
+SEWARD,175 Liberal Ward 1 Precinct 1,135,52,17,0,16
+SEWARD,175 Liberal Ward 1 Precinct 2,179,74,21,0,16
+SEWARD,175 Liberal Ward 1 Precinct 3,153,105,9,0,15
+SEWARD,175 Liberal Ward 2,213,89,15,0,16
+SEWARD,175 Liberal Ward 3,88,52,7,0,15
+SEWARD,175 Liberal Ward 4,140,65,12,0,16
+SEWARD,175 Liberal Ward 5,128,56,6,0,16
+SEWARD,175 Liberal Ward 6 Precinct 1,483,196,30,0,16
+SEWARD,175 Liberal Ward 6 Precinct 2,302,115,11,0,17
+SEWARD,175 Seward Township 1,20,5,0,0,18
+SEWARD,175 Seward Township 2,24,3,0,0,18
+SEWARD,175 Seward Township 3,14,3,0,0,18
+SHERIDAN,179 Adell Township,6,5,0,0,15
+SHERIDAN,179 Bloomfield Township,16,5,0,0,17
+SHERIDAN,179 Bow Creek Township,15,6,0,0,17
+SHERIDAN,179 East Kenneth,215,81,6,0,17
+SHERIDAN,179 East Saline,25,3,1,0,18
+SHERIDAN,179 Logan Township,30,4,0,0,18
+SHERIDAN,179 Parnell Township,35,10,1,0,17
+SHERIDAN,179 Prairie Dog Township,13,5,2,0,16
+SHERIDAN,179 Sheridan Township,72,24,4,0,17
+SHERIDAN,179 Solomon Township,66,14,1,0,18
+SHERIDAN,179 Springbrook Township,30,6,2,0,17
+SHERIDAN,179 Union Township,15,2,1,0,18
+SHERIDAN,179 Valley Township,32,11,1,0,17
+SHERIDAN,179 West Kenneth,182,74,13,0,16
+SHERIDAN,179 West Saline,24,4,0,0,18
+SHERMAN,181 Goodland Ward 1,294,120,19,0,16
+SHERMAN,181 Goodland Ward 2,141,56,12,0,16
+SHERMAN,181 Goodland Ward 3,164,63,11,0,16
+SHERMAN,181 Goodland Ward 4,269,119,21,0,16
+SHERMAN,181 Grant Township,23,7,2,0,17
+SHERMAN,181 Iowa Township,13,0,0,0,19
+SHERMAN,181 Itasca Township,98,31,4,0,17
+SHERMAN,181 Kanorado City,24,9,2,0,16
+SHERMAN,181 Lincoln Township,27,10,0,0,17
+SHERMAN,181 Llanos Township,18,3,1,0,18
+SHERMAN,181 Logan Township,87,19,1,0,18
+SHERMAN,181 Logan Township Enclave (B),0,0,0,0,0
+SHERMAN,181 McPherson Township,23,1,0,0,19
+SHERMAN,181 Shermanville Township,11,0,0,0,19
+SHERMAN,181 Smoky Township,23,4,2,0,17
+SHERMAN,181 State Line Township,32,7,0,0,18
+SHERMAN,181 Union Township,27,2,0,0,19
+SHERMAN,181 Voltaire Township,150,23,4,0,18
+SHERMAN,181 Washington Township,29,5,1,0,18
+SMITH,183 Banner Township,21,5,2,0,17
+SMITH,183 Beaver Township,24,3,0,0,18
+SMITH,183 Blaine Township,21,5,0,0,18
+SMITH,183 Cedar Township,130,77,14,0,15
+SMITH,183 Center 1,152,93,9,0,15
+SMITH,183 Center 2,175,112,15,0,15
+SMITH,183 Center 3,136,55,13,0,16
+SMITH,183 Center 4,37,15,5,0,16
+SMITH,183 Cora Township,11,3,0,0,17
+SMITH,183 Crystal Plains Township,10,2,1,0,17
+SMITH,183 Dor Township,17,4,1,0,17
+SMITH,183 Garfield Township,11,1,0,0,19
+SMITH,183 German Township,5,2,0,0,17
+SMITH,183 Harlan Township,31,6,1,0,18
+SMITH,183 Harvey Township,46,8,4,0,17
+SMITH,183 Houston Township,36,25,1,0,15
+SMITH,183 Lane Township,27,21,3,0,15
+SMITH,183 Lincoln Township,28,9,1,0,17
+SMITH,183 Logan Township,11,7,0,0,16
+SMITH,183 Martin Township,4,3,0,0,15
+SMITH,183 Oak 1,87,26,10,0,17
+SMITH,183 Pawnee Township,17,3,0,0,18
+SMITH,183 Pleasant Township,11,6,1,0,16
+SMITH,183 Swan Township,11,7,0,0,16
+SMITH,183 Valley Township,18,5,2,0,17
+SMITH,183 Washington Township,17,1,1,0,18
+SMITH,183 Webster Township,22,1,0,0,19
+SMITH,183 White Rock Township,19,4,0,0,18
+STAFFORD,185 Albano Township,15,4,0,0,17
+STAFFORD,185 Byron Township,28,3,0,0,19
+STAFFORD,185 Clear Creek Township,14,4,0,0,17
+STAFFORD,185 Cleveland Township,20,5,2,0,17
+STAFFORD,185 Douglas Township,28,14,2,0,16
+STAFFORD,185 East Cooper Township,18,1,0,0,19
+STAFFORD,185 East St. John,106,81,4,0,15
+STAFFORD,185 Fairview Township,16,20,1,0,25
+STAFFORD,185 Farmington Township,97,48,3,0,16
+STAFFORD,185 Hayes Township,50,26,2,0,16
+STAFFORD,185 Lincoln Township,38,7,1,0,18
+STAFFORD,185 North Seward Township,48,15,3,0,17
+STAFFORD,185 North Stafford,114,90,13,0,15
+STAFFORD,185 Ohio Township,28,11,1,0,17
+STAFFORD,185 Putnam Township,8,2,0,0,18
+STAFFORD,185 Richland Township,14,5,2,0,16
+STAFFORD,185 Rose Valley Township,11,13,0,0,25
+STAFFORD,185 South Seward Township,15,0,2,0,18
+STAFFORD,185 South Stafford,87,76,8,0,15
+STAFFORD,185 South St. John,68,27,6,0,16
+STAFFORD,185 Union Township,7,6,0,0,15
+STAFFORD,185 West Cooper Township,23,4,2,0,17
+STAFFORD,185 West St. John,86,49,9,0,15
+STAFFORD,185 York Township,11,2,0,0,18
+STANTON,187 Big Bow,85,16,6,0,17
+STANTON,187 Manter,70,26,2,0,17
+STANTON,187 Stanton,366,119,19,0,17
+STEVENS,189 Banner Township,45,11,0,0,18
+STEVENS,189 Center Precinct 1,13,5,2,0,16
+STEVENS,189 Center Precinct 2,72,36,6,0,16
+STEVENS,189 Harmony Township,26,1,1,0,19
+STEVENS,189 Hugoton Ward 03 Precinct 02,25,15,1,0,16
+STEVENS,189 Hugoton Ward 04 Precinct 02,123,61,6,0,16
+STEVENS,189 Hugoton Ward 05 Precinct 02,7,2,0,0,17
+STEVENS,189 Hugoton Ward 1 Precinct 1,83,51,8,0,15
+STEVENS,189 Hugoton Ward 1 Precinct 2,128,47,6,0,17
+STEVENS,189 Hugoton Ward 2 Precinct 1,21,6,4,0,16
+STEVENS,189 Hugoton Ward 2 Precinct 2,206,119,6,0,16
+STEVENS,189 Moscow Township,119,43,9,0,16
+STEVENS,189 Voorhees Township,48,9,1,0,18
+STEVENS,189 West Center Township,30,13,4,0,16
+SUMNER,191 Avon Township,69,47,7,0,15
+SUMNER,191 Belle Plaine Township H79,485,398,65,0,15
+SUMNER,191 Belle Plaine Township H82,3,2,0,0,16
+SUMNER,191 Bluff Township,12,8,0,0,16
+SUMNER,191 Caldwell City Ward 1,33,92,5,0,27
+SUMNER,191 Caldwell City Ward 2,95,122,18,0,25
+SUMNER,191 Caldwell Township,23,25,4,0,24
+SUMNER,191 Chikaskia Township,18,5,1,0,17
+SUMNER,191 Conway Township,203,139,18,0,15
+SUMNER,191 Creek Township,49,15,1,0,17
+SUMNER,191 Dixon Township,141,59,8,0,16
+SUMNER,191 Downs Township,36,13,1,0,17
+SUMNER,191 Eden Township,82,40,7,0,16
+SUMNER,191 Falls Township,20,24,3,0,25
+SUMNER,191 Gore Township Enclave,0,0,0,0,0
+SUMNER,191 Gore Township H79,164,89,15,0,16
+SUMNER,191 Gore Township H82,42,33,7,0,15
+SUMNER,191 Greene Township,18,6,3,0,16
+SUMNER,191 Guelph Township,34,17,4,0,16
+SUMNER,191 Harmon Township,68,29,6,0,16
+SUMNER,191 Illinois Township,55,13,4,0,17
+SUMNER,191 Jackson Township,27,26,5,0,14
+SUMNER,191 London Township,172,72,12,0,16
+SUMNER,191 Morris Township,4,5,0,0,25
+SUMNER,191 Mulvane City,115,93,10,0,15
+SUMNER,191 Mulvane City Exclave A,0,0,0,0,0
+SUMNER,191 Mulvane City Exclave B,0,4,0,0,29
+SUMNER,191 Osborne Township,49,37,4,0,15
+SUMNER,191 Oxford Township,249,189,28,0,15
+SUMNER,191 Palestine Township,51,35,1,0,15
+SUMNER,191 Ryan Township,31,23,1,0,15
+SUMNER,191 Seventy - Six Township H116,74,16,5,0,17
+SUMNER,191 Seventy - Six Township H80,0,0,0,0,0
+SUMNER,191 South Haven Township,112,69,18,0,15
+SUMNER,191 Springdale Township,128,75,9,0,16
+SUMNER,191 Sumner Township,32,18,0,0,16
+SUMNER,191 Valverde Township,44,11,2,0,17
+SUMNER,191 Walton Precinct,69,47,3,0,15
+SUMNER,191 Wellington City Airport,0,0,0,0,0
+SUMNER,191 Wellington City Precinct 1,307,434,37,0,25
+SUMNER,191 Wellington City Precinct 2,626,765,70,0,25
+SUMNER,191 Wellington Lake Exclave,0,0,0,0,0
+SUMNER,191 Wellington Township H116,49,29,5,0,15
+SUMNER,191 Wellington Township H80,25,22,3,0,15
+SUMNER,191 Wellington Township H80 A,0,0,0,0,0
+THOMAS,193 Barrett Township,33,11,4,0,16
+THOMAS,193 Colby Ward 1,192,129,15,0,15
+THOMAS,193 Colby Ward 2,222,143,18,0,15
+THOMAS,193 Colby Ward 2 Exclave,0,0,0,0,0
+THOMAS,193 Colby Ward 3,288,174,25,0,15
+THOMAS,193 Colby Ward 3 Exclave,0,0,0,0,0
+THOMAS,193 Colby Ward 4,267,159,26,0,15
+THOMAS,193 Colby Ward 4 Exclave,0,0,0,0,0
+THOMAS,193 East Hale Township,45,8,2,0,18
+THOMAS,193 East Morgan Township,67,39,3,0,16
+THOMAS,193 East Morgan Township Enclave 2,0,0,0,0,0
+THOMAS,193 East Morgan Township Enclave Voting District,0,0,0,0,0
+THOMAS,193 Kingery Township,31,7,2,0,17
+THOMAS,193 Lacey Township,37,13,2,0,17
+THOMAS,193 Menlo Township,24,1,1,0,19
+THOMAS,193 North Randall Township,32,2,0,0,19
+THOMAS,193 Rovohl Township,52,16,4,0,17
+THOMAS,193 Smith Township,61,11,3,0,18
+THOMAS,193 South Randall Township,72,27,2,0,17
+THOMAS,193 Summers Township,78,12,2,0,18
+THOMAS,193 Wendell Township,23,10,1,0,16
+THOMAS,193 West Hale Township,93,29,5,0,17
+THOMAS,193 West Morgan Township,130,53,4,0,16
+TREGO,195 Collyer City,24,10,3,0,16
+TREGO,195 Collyer Township,53,20,4,0,16
+TREGO,195 Franklin Township,12,6,0,0,16
+TREGO,195 Glencoe Township,31,4,0,0,18
+TREGO,195 Ogallah Township,46,31,3,0,15
+TREGO,195 Riverside Township,25,14,1,0,16
+TREGO,195 WaKeeney City Central Precinct,153,72,12,0,16
+TREGO,195 WaKeeney City East Precinct,136,59,11,0,16
+TREGO,195 WaKeeney City West Precinct,144,94,10,0,15
+TREGO,195 WaKeeney Township,119,60,5,0,16
+TREGO,195 Wilcox Township,21,6,2,0,17
+WABAUNSEE,197 Alma Township,195,154,147,0,13
+WABAUNSEE,197 Chalk Township,12,3,3,0,16
+WABAUNSEE,197 Farmer Township,29,14,17,0,14
+WABAUNSEE,197 Garfield Township,117,71,38,0,15
+WABAUNSEE,197 Harveyville Township,101,102,38,0,24
+WABAUNSEE,197 Hessdale Township,54,43,13,0,14
+WABAUNSEE,197 Kaw Township,75,18,14,0,17
+WABAUNSEE,197 Keene Township,113,90,22,0,15
+WABAUNSEE,197 Maple Hill Township,258,149,49,0,15
+WABAUNSEE,197 McFarland Township,50,27,36,0,14
+WABAUNSEE,197 Paxico Township,205,71,68,0,15
+WABAUNSEE,197 Wabaunsee Township S17,111,76,22,0,15
+WABAUNSEE,197 Wabaunsee Township S18,5,5,2,0,0
+WABAUNSEE,197 Washington Township,26,12,8,0,15
+WABAUNSEE,197 Wilmington Township,92,77,38,0,14
+WALLACE,199 Harrison Township,32,0,1,0,19
+WALLACE,199 Sharon Springs Precinct 1,102,29,9,0,17
+WALLACE,199 Sharon Springs Precinct 2,205,43,11,0,17
+WALLACE,199 Wallace Township,55,6,2,0,18
+WALLACE,199 Weskan Township,116,15,4,0,18
+WASHINGTON,201 Barnes Township,48,27,1,0,16
+WASHINGTON,201 Brantford Township,34,4,0,0,18
+WASHINGTON,201 Charleston Township,28,6,0,0,18
+WASHINGTON,201 Clifton Township,107,48,7,0,16
+WASHINGTON,201 Coleman Township,19,6,0,0,17
+WASHINGTON,201 Farmington Township,43,25,3,0,16
+WASHINGTON,201 Franklin Township,33,12,1,0,17
+WASHINGTON,201 Grant Township,12,2,1,0,18
+WASHINGTON,201 Greenleaf Township,85,42,6,0,16
+WASHINGTON,201 Haddam Township,42,19,7,0,16
+WASHINGTON,201 Hanover Township,241,100,14,0,16
+WASHINGTON,201 Highland Township,12,1,0,0,19
+WASHINGTON,201 Independence Township,47,6,2,0,18
+WASHINGTON,201 Kimeo Township,21,7,0,0,17
+WASHINGTON,201 Lincoln Township,19,1,2,0,18
+WASHINGTON,201 Linn Township,135,48,9,0,17
+WASHINGTON,201 Little Blue Township,19,14,2,0,15
+WASHINGTON,201 Logan Township,35,13,3,0,16
+WASHINGTON,201 Lowe Township,18,2,0,0,19
+WASHINGTON,201 Mill Creek Township,57,24,4,0,16
+WASHINGTON,201 Sheridan Township,31,8,3,0,17
+WASHINGTON,201 Sherman Township,80,22,1,0,17
+WASHINGTON,201 Strawberry Township,39,7,3,0,17
+WASHINGTON,201 Union Township,19,12,0,0,16
+WASHINGTON,201 Washington City,244,160,30,0,15
+WASHINGTON,201 Washington City Exclave,0,0,0,0,0
+WASHINGTON,201 Washington Township,79,25,4,0,17
+WASHINGTON,201 Washington Township Rural Enclave,0,0,0,0,0
+WASHINGTON,201 Washington Township Rural Enclave B,0,0,0,0,0
+WICHITA,203 Leoti Precinct 1,178,50,14,0,17
+WICHITA,203 Leoti Precinct 2,247,55,10,0,17
+WICHITA,203 Leoti Precinct 3,171,31,7,0,18
+WILSON,205 Cedar Township,116,23,13,0,17
+WILSON,205 Center Township,121,72,3,0,16
+WILSON,205 Chetopa Township,58,7,1,0,18
+WILSON,205 Clifton Township,63,22,5,0,17
+WILSON,205 Colfax Township,94,57,4,0,16
+WILSON,205 Duck Creek Township,28,5,0,0,18
+WILSON,205 Fall River Township,106,14,9,0,18
+WILSON,205 Fredonia Ward 1,79,67,6,0,15
+WILSON,205 Fredonia Ward 2,43,19,2,0,16
+WILSON,205 Fredonia Ward 3,55,18,4,0,17
+WILSON,205 Fredonia Ward 3 Exclave,0,0,0,0,0
+WILSON,205 Fredonia Ward 4,200,123,14,0,15
+WILSON,205 Guilford Township,44,10,0,0,18
+WILSON,205 Neodesha Township,126,53,2,0,16
+WILSON,205 Neodesha Ward 1,84,45,12,0,15
+WILSON,205 Neodesha Ward 1 Exclave,0,0,0,0,0
+WILSON,205 Neodesha Ward 1 Exclave 2,0,0,0,0,0
+WILSON,205 Neodesha Ward 2,71,44,7,0,15
+WILSON,205 Neodesha Ward 3,59,31,3,0,16
+WILSON,205 Neodesha Ward 3 Exclave 1,0,0,0,0,0
+WILSON,205 Neodesha Ward 3 Exclave 2,0,0,0,0,0
+WILSON,205 Neodesha Ward 4,143,92,3,0,16
+WILSON,205 Neodesha Ward 4 Exclave,0,0,0,0,0
+WILSON,205 Newark Township,55,20,3,0,17
+WILSON,205 Pleasant Valley Township,39,27,3,0,15
+WILSON,205 Prairie Township,33,7,2,0,17
+WILSON,205 Talleyrand Township,38,11,1,0,17
+WILSON,205 Verdigris Township,40,26,9,0,15
+WILSON,205 Webster Township,8,13,0,0,26
+WOODSON,207 Center Township,153,62,4,0,16
+WOODSON,207 Liberty Township,33,31,5,0,14
+WOODSON,207 Neosho Falls Township,14,15,0,0,25
+WOODSON,207 North Township,25,9,1,0,17
+WOODSON,207 Perry Township,25,15,1,0,16
+WOODSON,207 Piqua Township,46,23,3,0,16
+WOODSON,207 Toronto Township,95,71,12,0,15
+WOODSON,207 Yates Center Ward 1,109,97,12,0,15
+WOODSON,207 Yates Center Ward 1 Exclave,0,0,0,0,0
+WOODSON,207 Yates Center Ward 2,113,95,9,0,15
+WOODSON,207 Yates Center Ward 2 Exclave,0,0,0,0,0
+Johnson,091 Aubry Twp 0-01,68,40,2,0,16
+Johnson,091 Aubry Twp 0-02,386,174,19,0,16
+Johnson,091 Aubry Twp 0-03,194,115,16,0,15
+Johnson,091 Aubry Twp 0-04,453,254,20,0,16
+Johnson,091 Aubry Twp 0-05,7,4,2,0,15
+Johnson,091 Aubry Twp 0-06,58,24,6,0,16
+Johnson,091 De Soto 0-01,352,245,38,0,15
+Johnson,091 De Soto 0-02,178,195,15,0,25
+Johnson,091 De Soto 0-03,367,255,17,0,15
+Johnson,091 De Soto 0-04,0,0,0,0,0
+Johnson,091 De Soto 0-05,0,0,0,0,0
+Johnson,091 De Soto 0-06,26,17,5,0,15
+Johnson,091 De Soto 0-07,0,2,0,0,29
+Johnson,091 De Soto 0-08,0,0,0,0,0
+Johnson,091 Edgerton,0,0,0,0,0
+Johnson,091 Edgerton 0-01,240,142,17,0,16
+Johnson,091 Edgerton 0-02,0,0,0,0,0
+Johnson,091 Edgerton 0-03,0,0,0,0,0
+Johnson,091 Edgerton 0-04,0,0,0,0,0
+Johnson,091 Edgerton 0-05,0,0,0,0,0
+Johnson,091 Edgerton 0-06,0,0,0,0,0
+Johnson,091 Edgerton 0-07,0,0,0,0,0
+Johnson,091 Edgerton 0-08,0,0,0,0,0
+Johnson,091 Edgerton 0-09,0,0,0,0,0
+Johnson,091 Fairway 1-01,102,181,4,0,26
+Johnson,091 Fairway 1-02,81,126,3,0,26
+Johnson,091 Fairway 2-01,85,137,2,0,26
+Johnson,091 Fairway 2-02,93,131,3,0,25
+Johnson,091 Fairway 3-01,121,191,2,0,26
+Johnson,091 Fairway 3-02,107,134,2,0,25
+Johnson,091 Fairway 4-01,20,65,7,0,27
+Johnson,091 Fairway 4-02,33,87,2,0,27
+Johnson,091 Fairway 4-03,32,51,2,0,26
+Johnson,091 Fairway 4-04,35,84,3,0,26
+Johnson,091 Gardner 0-01,441,318,28,0,15
+Johnson,091 Gardner 0-02,52,57,6,0,24
+Johnson,091 Gardner 0-03,245,201,40,0,15
+Johnson,091 Gardner 0-04,248,216,23,0,15
+Johnson,091 Gardner 0-05,0,0,0,0,0
+Johnson,091 Gardner 0-06,333,217,27,0,15
+Johnson,091 Gardner 0-07,5,8,1,0,25
+Johnson,091 Gardner 0-08,33,14,0,0,17
+Johnson,091 Gardner 0-09,351,289,25,0,15
+Johnson,091 Gardner 0-10,239,168,19,0,15
+Johnson,091 Gardner 0-11,0,0,0,0,0
+Johnson,091 Gardner 0-12,4,8,2,0,25
+Johnson,091 Gardner 0-13,235,225,18,0,14
+Johnson,091 Gardner 0-14,215,170,18,0,15
+Johnson,091 Gardner 0-15,0,0,0,0,0
+Johnson,091 Gardner 0-16,0,0,0,0,0
+Johnson,091 Gardner 7,0,0,0,0,0
+Johnson,091 Gardner Twp 0-01,177,123,11,0,15
+Johnson,091 Gardner Twp 0-02,208,124,15,0,15
+Johnson,091 Gardner Twp 0-03,0,0,0,0,0
+Johnson,091 Gardner Twp 0-04,2,0,0,0,19
+Johnson,091 Gardner Twp 0-05,5,1,0,0,18
+Johnson,091 Gardner Twp 0-06,0,0,0,0,0
+Johnson,091 Gardner Twp 0-07,2,1,1,0,15
+Johnson,091 Gardner Twp 0-08,1,4,0,0,28
+Johnson,091 Gardner Twp 0-09,0,0,0,0,0
+Johnson,091 Gardner Twp 0-10,0,0,0,0,0
+Johnson,091 Gardner Twp 0-11,50,33,3,0,15
+Johnson,091 Gardner Twp 0-12,0,0,0,0,0
+Johnson,091 Gardner Twp 0-13,1,0,1,0,0
+Johnson,091 Lake Quivira,0,0,0,0,0
+Johnson,091 Lake Quivira 0-01,284,245,10,0,15
+Johnson,091 Leawood 1-01,169,324,9,0,26
+Johnson,091 Leawood 1-02,359,441,17,0,25
+Johnson,091 Leawood 1-03,319,342,11,0,25
+Johnson,091 Leawood 1-04,244,294,7,0,25
+Johnson,091 Leawood 1-05,219,243,11,0,25
+Johnson,091 Leawood 1-06,46,78,4,0,26
+Johnson,091 Leawood 2-01,273,347,7,0,25
+Johnson,091 Leawood 2-02,313,402,25,0,25
+Johnson,091 Leawood 2-03,366,352,15,0,14
+Johnson,091 Leawood 2-04,486,270,3,0,16
+Johnson,091 Leawood 2-05,220,198,7,0,15
+Johnson,091 Leawood 2-06,175,135,7,0,15
+Johnson,091 Leawood 3-01,198,218,2,0,25
+Johnson,091 Leawood 3-02,353,332,14,0,15
+Johnson,091 Leawood 3-03,241,187,9,0,15
+Johnson,091 Leawood 3-04,98,91,0,0,15
+Johnson,091 Leawood 3-05,479,318,10,0,15
+Johnson,091 Leawood 3-06,512,284,15,0,16
+Johnson,091 Leawood 3-07,331,271,11,0,15
+Johnson,091 Leawood 4-01,133,74,2,0,16
+Johnson,091 Leawood 4-02,347,256,10,0,15
+Johnson,091 Leawood 4-03,301,275,7,0,15
+Johnson,091 Leawood 4-04,369,306,6,0,15
+Johnson,091 Leawood 4-05,3,358,321,0,25
+Johnson,091 Leawood 4-06,0,355,156,0,26
+Johnson,091 Leawood 4-07,3,551,305,0,26
+Johnson,091 Leawood 4-08,1,247,149,0,26
+Johnson,091 Lenexa 1-01,181,174,14,0,14
+Johnson,091 Lenexa 1-02,335,403,13,0,25
+Johnson,091 Lenexa 1-03,381,474,21,0,25
+Johnson,091 Lenexa 1-04,262,273,12,0,24
+Johnson,091 Lenexa 1-05,287,300,25,0,24
+Johnson,091 Lenexa 1-06,380,341,10,0,15
+Johnson,091 Lenexa 1-07,169,202,18,0,25
+Johnson,091 Lenexa 1-08,78,84,7,0,24
+Johnson,091 Lenexa 1-09,6,6,0,0,0
+Johnson,091 Lenexa 2-01,535,381,25,0,15
+Johnson,091 Lenexa 2-02,222,116,7,0,16
+Johnson,091 Lenexa 2-03,471,295,10,0,16
+Johnson,091 Lenexa 2-04,528,241,9,0,16
+Johnson,091 Lenexa 2-05,211,285,20,0,25
+Johnson,091 Lenexa 2-06,343,193,5,0,16
+Johnson,091 Lenexa 2-07,472,396,24,0,15
+Johnson,091 Lenexa 3-01,185,246,20,0,25
+Johnson,091 Lenexa 3-02,270,459,23,0,26
+Johnson,091 Lenexa 3-03,415,456,17,0,25
+Johnson,091 Lenexa 3-04,296,257,7,0,15
+Johnson,091 Lenexa 3-05,125,198,15,0,25
+Johnson,091 Lenexa 3-06,228,270,7,0,25
+Johnson,091 Lenexa 3-07,321,340,19,0,25
+Johnson,091 Lenexa 3-08,329,355,15,0,25
+Johnson,091 Lenexa 4-01,130,166,8,0,25
+Johnson,091 Lenexa 4-02,285,300,16,0,24
+Johnson,091 Lenexa 4-03,93,140,11,0,25
+Johnson,091 Lenexa 4-04,140,133,10,0,14
+Johnson,091 Lenexa 4-05,104,141,10,0,25
+Johnson,091 Lenexa 4-06,186,190,23,0,24
+Johnson,091 Lenexa 4-07,244,241,21,0,14
+Johnson,091 Lenexa 4-08,248,346,11,0,25
+Johnson,091 Lenexa 4-09,231,266,25,0,25
+Johnson,091 Lenexa 4-10,118,148,8,0,25
+Johnson,091 Lenexa 4-11,30,45,3,0,25
+Johnson,091 Lexexa 1-09,0,0,0,0,0
+Johnson,091 Lexington Twp 0-01,378,221,13,0,16
+Johnson,091 Lexington Twp 0-02,1,0,2,0,36
+Johnson,091 Lexington Twp 0-03,1,0,1,0,0
+Johnson,091 Lexington Twp 0-04,0,0,0,0,0
+Johnson,091 Lexington Twp 0-05,0,0,0,0,0
+Johnson,091 McCamish Twp 0-01,107,36,4,0,17
+Johnson,091 McCamish Twp 0-02,196,89,5,0,16
+Johnson,091 McCamish Twp 0-03,0,0,0,0,0
+Johnson,091 Merriam 1-01,134,185,10,0,25
+Johnson,091 Merriam 1-02,147,233,18,0,25
+Johnson,091 Merriam 2-01,216,292,23,0,25
+Johnson,091 Merriam 2-02,0,1,0,0,29
+Johnson,091 Merriam 2-03,101,159,11,0,25
+Johnson,091 Merriam 3-01,156,257,10,0,26
+Johnson,091 Merriam 3-02,154,245,18,0,25
+Johnson,091 Merriam 4-01,223,299,25,0,25
+Johnson,091 Merriam 4-02,94,141,5,0,25
+Johnson,091 Merriam 4-03,108,196,13,0,26
+Johnson,091 Mission 1-01,179,301,20,0,26
+Johnson,091 Mission 1-02,63,171,12,0,26
+Johnson,091 Mission 2-01,95,187,12,0,26
+Johnson,091 Mission 2-02,146,270,9,0,26
+Johnson,091 Mission 3-01,148,266,16,0,26
+Johnson,091 Mission 3-02,85,157,13,0,26
+Johnson,091 Mission 4-01,98,217,8,0,26
+Johnson,091 Mission 4-02,168,316,12,0,26
+Johnson,091 Mission 4-03,87,149,15,0,25
+Johnson,091 Mission Hills 0-01,241,177,0,0,15
+Johnson,091 Mission Hills 0-02,248,300,6,0,25
+Johnson,091 Mission Hills 0-03,182,156,2,0,15
+Johnson,091 Mission Hills 0-04,292,294,3,0,24
+Johnson,091 Mission Woods,0,0,0,0,0
+Johnson,091 Mission Woods 0-01,36,60,1,0,26
+Johnson,091 Olathe 1-01,279,249,25,0,15
+Johnson,091 Olathe 1-02,177,167,24,0,14
+Johnson,091 Olathe 1-03,149,125,6,0,15
+Johnson,091 Olathe 1-04,266,241,27,0,14
+Johnson,091 Olathe 1-05,322,238,17,0,15
+Johnson,091 Olathe 1-06,213,135,13,0,15
+Johnson,091 Olathe 1-07,0,0,0,0,0
+Johnson,091 Olathe 1-08,305,281,34,0,14
+Johnson,091 Olathe 1-09,332,223,17,0,15
+Johnson,091 Olathe 1-11,55,44,6,0,15
+Johnson,091 Olathe 1-12,0,0,0,0,0
+Johnson,091 Olathe 1-13,0,0,0,0,0
+Johnson,091 Olathe 1-14,300,204,11,0,15
+Johnson,091 Olathe 1-15,266,207,17,0,15
+Johnson,091 Olathe 1-16,366,248,20,0,15
+Johnson,091 Olathe 1-17,100,55,3,0,16
+Johnson,091 Olathe 1-18,90,75,9,0,15
+Johnson,091 Olathe 1-19,129,104,10,0,15
+Johnson,091 Olathe 1-20,184,187,23,0,24
+Johnson,091 Olathe 1-21,325,290,26,0,15
+Johnson,091 Olathe 1-22,548,354,27,0,15
+Johnson,091 Olathe 1-23,1,0,0,0,19
+Johnson,091 Olathe 1-24,80,67,8,0,15
+Johnson,091 Olathe 1-26,0,2,0,0,29
+Johnson,091 Olathe 1-27,194,181,25,0,14
+Johnson,091 Olathe 2-01,122,102,6,0,15
+Johnson,091 Olathe 2-02,173,181,12,0,24
+Johnson,091 Olathe 2-03,217,172,16,0,15
+Johnson,091 Olathe 2-04,213,216,22,0,24
+Johnson,091 Olathe 2-05,802,458,19,0,16
+Johnson,091 Olathe 2-06,392,244,14,0,16
+Johnson,091 Olathe 2-07,430,337,25,0,15
+Johnson,091 Olathe 2-08,279,250,35,0,14
+Johnson,091 Olathe 2-09,134,114,7,0,15
+Johnson,091 Olathe 2-10,523,498,31,0,14
+Johnson,091 Olathe 2-11,377,339,33,0,15
+Johnson,091 Olathe 2-12,233,192,10,0,15
+Johnson,091 Olathe 2-13,195,222,25,0,25
+Johnson,091 Olathe 2-14,230,177,15,0,15
+Johnson,091 Olathe 2-15,252,158,18,0,15
+Johnson,091 Olathe 2-16,51,92,8,0,26
+Johnson,091 Olathe 2-17,0,1,0,0,29
+Johnson,091 Olathe 2-18,0,0,0,0,0
+Johnson,091 Olathe 2-19,5,1,0,0,18
+Johnson,091 Olathe 2-21,0,0,0,0,0
+Johnson,091 Olathe 2-22,461,391,28,0,15
+Johnson,091 Olathe 2-23,284,261,17,0,15
+Johnson,091 Olathe 3-01,110,109,9,0,14
+Johnson,091 Olathe 3-02,365,295,33,0,15
+Johnson,091 Olathe 3-03,210,129,7,0,16
+Johnson,091 Olathe 3-04,327,237,22,0,15
+Johnson,091 Olathe 3-05,382,220,15,0,16
+Johnson,091 Olathe 3-06,265,176,5,0,15
+Johnson,091 Olathe 3-07,235,188,15,0,15
+Johnson,091 Olathe 3-08,361,273,24,0,15
+Johnson,091 Olathe 3-09,199,118,6,0,16
+Johnson,091 Olathe 3-10,362,262,17,0,15
+Johnson,091 Olathe 3-11,215,194,15,0,15
+Johnson,091 Olathe 3-12,307,255,15,0,15
+Johnson,091 Olathe 3-13,356,270,15,0,15
+Johnson,091 Olathe 3-15,226,186,15,0,15
+Johnson,091 Olathe 3-16,257,198,8,0,15
+Johnson,091 Olathe 3-17,371,241,21,0,15
+Johnson,091 Olathe 3-18,344,225,8,0,15
+Johnson,091 Olathe 3-19,235,128,9,0,16
+Johnson,091 Olathe 3-20,225,169,18,0,15
+Johnson,091 Olathe 3-21,258,135,11,0,16
+Johnson,091 Olathe 3-22,309,213,16,0,15
+Johnson,091 Olathe 3-23,247,218,21,0,15
+Johnson,091 Olathe 3-24,151,132,3,0,15
+Johnson,091 Olathe 3-25,0,0,0,0,0
+Johnson,091 Olathe 3-26,27,23,2,0,15
+Johnson,091 Olathe 4-01,208,205,28,0,14
+Johnson,091 Olathe 4-02,428,373,30,0,15
+Johnson,091 Olathe 4-03,110,136,15,0,25
+Johnson,091 Olathe 4-04,134,146,13,0,24
+Johnson,091 Olathe 4-05,302,272,14,0,15
+Johnson,091 Olathe 4-06,359,331,26,0,15
+Johnson,091 Olathe 4-07,305,279,29,0,14
+Johnson,091 Olathe 4-08,282,233,8,0,15
+Johnson,091 Olathe 4-09,389,318,21,0,15
+Johnson,091 Olathe 4-10,192,197,6,0,24
+Johnson,091 Olathe 4-11,102,134,16,0,25
+Johnson,091 Olathe 4-12,364,284,15,0,15
+Johnson,091 Olathe 4-13,155,153,12,0,14
+Johnson,091 Olathe 4-14,349,339,15,0,14
+Johnson,091 Olathe 4-15,14,17,4,0,24
+Johnson,091 Olathe 4-16,91,97,12,0,24
+Johnson,091 Olathe 4-17,1,2,0,0,26
+Johnson,091 Olathe Twp 0-01,148,115,9,0,15
+Johnson,091 Olathe Twp 0-02,34,17,1,0,16
+Johnson,091 Olathe Twp 0-03,19,20,1,0,25
+Johnson,091 Olathe Twp 0-04,1,1,0,0,0
+Johnson,091 Olathe Twp 0-05,2,0,0,0,19
+Johnson,091 Olathe Twp 0-06,0,0,0,0,0
+Johnson,091 Olathe Twp 0-07,1,0,0,0,19
+Johnson,091 Olathe Twp 0-08,4,2,0,0,16
+Johnson,091 Olathe Twp 0-09,0,0,0,0,0
+Johnson,091 Olathe Twp 0-10,5,6,0,0,25
+Johnson,091 Olathe Twp 0-11,3,1,0,0,17
+Johnson,091 Olathe Twp 0-14,1,0,0,0,19
+Johnson,091 Olathe Twp 0-24,1,1,1,0,0
+Johnson,091 Olathe Twp 0-25,6,1,1,0,17
+Johnson,091 Olathe Twp 0-26,3,0,0,0,19
+Johnson,091 Olathe Twp 0-32,18,5,0,0,17
+Johnson,091 Overland Park 1-01,175,296,17,0,26
+Johnson,091 Overland Park 1-02,181,302,18,0,26
+Johnson,091 Overland Park 1-03,195,279,16,0,25
+Johnson,091 Overland Park 1-04,75,87,8,0,25
+Johnson,091 Overland Park 1-05,118,205,14,0,26
+Johnson,091 Overland Park 1-06,252,378,20,0,25
+Johnson,091 Overland Park 1-07,251,334,26,0,25
+Johnson,091 Overland Park 1-08,161,223,21,0,25
+Johnson,091 Overland Park 1-09,105,157,15,0,25
+Johnson,091 Overland Park 1-10,213,307,25,0,25
+Johnson,091 Overland Park 1-11,58,79,3,0,25
+Johnson,091 Overland Park 1-12,170,255,18,0,25
+Johnson,091 Overland Park 1-13,149,186,14,0,25
+Johnson,091 Overland Park 1-14,169,311,22,0,26
+Johnson,091 Overland Park 1-15,94,139,7,0,25
+Johnson,091 Overland Park 1-16,184,368,33,0,26
+Johnson,091 Overland Park 1-17,88,156,14,0,26
+Johnson,091 Overland Park 1-18,170,318,14,0,26
+Johnson,091 Overland Park 1-19,149,211,15,0,25
+Johnson,091 Overland Park 1-20,112,179,9,0,25
+Johnson,091 Overland Park 1-21,74,75,4,0,24
+Johnson,091 Overland Park 1-22,37,70,7,0,26
+Johnson,091 Overland Park 2-01,180,245,20,0,25
+Johnson,091 Overland Park 2-02,175,312,9,0,26
+Johnson,091 Overland Park 2-03,166,257,14,0,25
+Johnson,091 Overland Park 2-04,220,282,20,0,25
+Johnson,091 Overland Park 2-05,167,256,18,0,25
+Johnson,091 Overland Park 2-06,200,245,14,0,25
+Johnson,091 Overland Park 2-07,172,203,9,0,25
+Johnson,091 Overland Park 2-08,90,157,6,0,26
+Johnson,091 Overland Park 2-09,173,209,9,0,25
+Johnson,091 Overland Park 2-10,177,127,12,0,15
+Johnson,091 Overland Park 2-11,186,255,15,0,25
+Johnson,091 Overland Park 2-12,144,183,11,0,25
+Johnson,091 Overland Park 2-13,87,113,13,0,25
+Johnson,091 Overland Park 2-14,135,195,6,0,25
+Johnson,091 Overland Park 2-15,282,378,20,0,25
+Johnson,091 Overland Park 2-16,161,226,15,0,25
+Johnson,091 Overland Park 2-17,276,295,14,0,25
+Johnson,091 Overland Park 2-18,233,338,25,0,25
+Johnson,091 Overland Park 2-19,158,227,10,0,25
+Johnson,091 Overland Park 2-20,172,207,5,0,25
+Johnson,091 Overland Park 2-21,162,242,3,0,25
+Johnson,091 Overland Park 2-22,165,269,8,0,26
+Johnson,091 Overland Park 2-23,225,252,7,0,25
+Johnson,091 Overland Park 2-24,319,398,15,0,25
+Johnson,091 Overland Park 2-25,264,318,10,0,25
+Johnson,091 Overland Park 2-26,92,120,7,0,25
+Johnson,091 Overland Park 3-01,415,352,18,0,15
+Johnson,091 Overland Park 3-02,204,269,17,0,25
+Johnson,091 Overland Park 3-03,251,251,8,0,0
+Johnson,091 Overland Park 3-04,264,341,21,0,25
+Johnson,091 Overland Park 3-05,256,312,18,0,25
+Johnson,091 Overland Park 3-06,304,359,19,0,25
+Johnson,091 Overland Park 3-07,150,242,18,0,25
+Johnson,091 Overland Park 3-08,258,263,24,0,24
+Johnson,091 Overland Park 3-09,326,397,20,0,25
+Johnson,091 Overland Park 3-10,211,198,7,0,15
+Johnson,091 Overland Park 3-11,268,241,13,0,15
+Johnson,091 Overland Park 3-12,125,198,17,0,25
+Johnson,091 Overland Park 3-13,404,417,17,0,24
+Johnson,091 Overland Park 3-14,260,325,18,0,25
+Johnson,091 Overland Park 3-15,201,172,10,0,15
+Johnson,091 Overland Park 3-16,213,300,21,0,25
+Johnson,091 Overland Park 3-17,195,241,6,0,25
+Johnson,091 Overland Park 3-18,183,248,19,0,25
+Johnson,091 Overland Park 3-19,245,250,23,0,24
+Johnson,091 Overland Park 3-20,307,339,19,0,25
+Johnson,091 Overland Park 3-21,257,260,13,0,24
+Johnson,091 Overland Park 4-01,222,162,6,0,15
+Johnson,091 Overland Park 4-02,367,226,9,0,16
+Johnson,091 Overland Park 4-03,477,248,8,0,16
+Johnson,091 Overland Park 4-04,466,351,21,0,15
+Johnson,091 Overland Park 4-05,302,283,12,0,15
+Johnson,091 Overland Park 4-06,253,240,14,0,14
+Johnson,091 Overland Park 4-07,170,229,6,0,25
+Johnson,091 Overland Park 4-08,309,276,17,0,15
+Johnson,091 Overland Park 4-09,376,193,10,0,16
+Johnson,091 Overland Park 4-10,237,164,8,0,15
+Johnson,091 Overland Park 4-11,359,336,9,0,15
+Johnson,091 Overland Park 4-12,488,415,17,0,15
+Johnson,091 Overland Park 4-13,280,143,13,0,16
+Johnson,091 Overland Park 4-14,228,137,8,0,16
+Johnson,091 Overland Park 4-15,403,346,20,0,15
+Johnson,091 Overland Park 4-16,336,200,13,0,16
+Johnson,091 Overland Park 4-17,373,322,16,0,15
+Johnson,091 Overland Park 4-18,45,53,4,0,25
+Johnson,091 Overland Park 5-01,318,301,11,0,15
+Johnson,091 Overland Park 5-02,141,154,8,0,25
+Johnson,091 Overland Park 5-03,318,263,8,0,15
+Johnson,091 Overland Park 5-04,249,277,24,0,25
+Johnson,091 Overland Park 5-05,174,246,6,0,25
+Johnson,091 Overland Park 5-06,249,215,13,0,15
+Johnson,091 Overland Park 5-07,494,234,12,0,16
+Johnson,091 Overland Park 5-08,466,350,22,0,15
+Johnson,091 Overland Park 5-09,416,395,11,0,15
+Johnson,091 Overland Park 5-10,310,276,22,0,15
+Johnson,091 Overland Park 5-11,343,383,10,0,25
+Johnson,091 Overland Park 5-12,80,75,2,0,15
+Johnson,091 Overland Park 5-13,378,418,18,0,25
+Johnson,091 Overland Park 5-14,320,296,8,0,15
+Johnson,091 Overland Park 5-15,195,231,12,0,25
+Johnson,091 Overland Park 5-16,199,173,4,0,15
+Johnson,091 Overland Park 5-17,101,123,4,0,25
+Johnson,091 Overland Park 5-18,227,240,16,0,24
+Johnson,091 Overland Park 5-19,30,22,0,0,15
+Johnson,091 Overland Park 6-01,397,297,9,0,15
+Johnson,091 Overland Park 6-02,328,224,5,0,15
+Johnson,091 Overland Park 6-03,366,247,9,0,15
+Johnson,091 Overland Park 6-04,352,230,9,0,15
+Johnson,091 Overland Park 6-05,374,304,18,0,15
+Johnson,091 Overland Park 6-06,1,0,0,0,19
+Johnson,091 Overland Park 6-07,119,68,4,0,16
+Johnson,091 Overland Park 6-08,640,289,17,0,16
+Johnson,091 Overland Park 6-09,459,354,15,0,15
+Johnson,091 Overland Park 6-10,299,219,20,0,15
+Johnson,091 Overland Park 6-11,311,227,10,0,15
+Johnson,091 Overland Park 6-12,136,111,8,0,15
+Johnson,091 Overland Park 6-13,415,286,27,0,15
+Johnson,091 Overland Park 6-14,0,0,0,0,0
+Johnson,091 Overland Park 6-15,414,279,22,0,15
+Johnson,091 Overland Park 6-16,252,150,8,0,16
+Johnson,091 Overland Park 6-17,79,53,5,0,15
+Johnson,091 Overland Park 6-18,2,1,0,0,16
+Johnson,091 Overland Park 6-19,364,333,25,0,15
+Johnson,091 Overland Park 6-20,238,90,3,0,17
+Johnson,091 Overland Park 6-21,607,271,25,0,16
+Johnson,091 Overland Park 6-22,209,118,10,0,16
+Johnson,091 Oxford Twp 0-01,1,2,0,0,26
+Johnson,091 Oxford Twp 0-02,292,146,15,0,16
+Johnson,091 Oxford Twp 0-04,194,143,12,0,15
+Johnson,091 Oxford Twp 0-05,10,0,0,0,19
+Johnson,091 Oxford Twp 0-08,0,0,0,0,0
+Johnson,091 Oxford Twp 0-09,14,6,0,0,17
+Johnson,091 Oxford Twp 0-10,2,0,0,0,19
+Johnson,091 Oxford Twp 0-11,66,23,2,0,17
+Johnson,091 Prairie Village 1-01,251,457,7,0,26
+Johnson,091 Prairie Village 1-02,158,326,7,0,26
+Johnson,091 Prairie Village 1-03,227,463,9,0,26
+Johnson,091 Prairie Village 2-01,181,376,11,0,26
+Johnson,091 Prairie Village 2-02,97,159,10,0,25
+Johnson,091 Prairie Village 2-03,157,327,13,0,26
+Johnson,091 Prairie Village 3-01,150,243,10,0,26
+Johnson,091 Prairie Village 3-02,215,361,13,0,26
+Johnson,091 Prairie Village 3-03,194,341,8,0,26
+Johnson,091 Prairie Village 4-01,302,365,16,0,25
+Johnson,091 Prairie Village 4-02,152,254,12,0,26
+Johnson,091 Prairie Village 4-03,240,422,12,0,26
+Johnson,091 Prairie Village 5-01,228,417,5,0,26
+Johnson,091 Prairie Village 5-02,299,378,11,0,25
+Johnson,091 Prairie Village 5-03,247,279,13,0,25
+Johnson,091 Prairie Village 6-01,263,394,14,0,25
+Johnson,091 Prairie Village 6-02,161,361,21,0,26
+Johnson,091 Prairie Village 6-03,127,198,16,0,25
+Johnson,091 Roeland Park 1-01,75,149,6,0,26
+Johnson,091 Roeland Park 1-02,49,130,7,0,26
+Johnson,091 Roeland Park 2-01,82,177,10,0,26
+Johnson,091 Roeland Park 2-02,138,227,6,0,26
+Johnson,091 Roeland Park 3-01,45,169,11,0,27
+Johnson,091 Roeland Park 3-02,125,318,16,0,26
+Johnson,091 Roeland Park 4-01,81,120,5,0,25
+Johnson,091 Roeland Park 4-02,229,383,20,0,26
+Johnson,091 Shawnee 1-01,279,339,22,0,25
+Johnson,091 Shawnee 1-02,220,255,10,0,25
+Johnson,091 Shawnee 1-03,189,241,19,0,25
+Johnson,091 Shawnee 1-04,397,356,12,0,15
+Johnson,091 Shawnee 1-05,383,416,23,0,25
+Johnson,091 Shawnee 1-06,374,270,15,0,15
+Johnson,091 Shawnee 1-07,311,322,20,0,24
+Johnson,091 Shawnee 1-08,347,304,22,0,15
+Johnson,091 Shawnee 1-09,56,56,1,0,0
+Johnson,091 Shawnee 1-10,126,105,8,0,15
+Johnson,091 Shawnee 1-11,209,196,16,0,14
+Johnson,091 Shawnee 1-12,4,3,0,0,15
+Johnson,091 Shawnee 2-01,135,123,19,0,14
+Johnson,091 Shawnee 2-02,258,257,20,0,14
+Johnson,091 Shawnee 2-03,164,221,16,0,25
+Johnson,091 Shawnee 2-04,271,344,25,0,25
+Johnson,091 Shawnee 2-05,143,149,10,0,24
+Johnson,091 Shawnee 2-06,231,195,11,0,15
+Johnson,091 Shawnee 2-07,150,182,17,0,25
+Johnson,091 Shawnee 2-08,164,162,13,0,14
+Johnson,091 Shawnee 2-09,137,174,15,0,25
+Johnson,091 Shawnee 2-10,137,141,13,0,24
+Johnson,091 Shawnee 2-11,221,231,18,0,24
+Johnson,091 Shawnee 2-12,42,73,9,0,25
+Johnson,091 Shawnee 2-13,101,130,13,0,25
+Johnson,091 Shawnee 3-01,242,155,8,0,15
+Johnson,091 Shawnee 3-02,422,334,18,0,15
+Johnson,091 Shawnee 3-03,279,283,27,0,24
+Johnson,091 Shawnee 3-04,310,223,17,0,15
+Johnson,091 Shawnee 3-05,468,292,23,0,15
+Johnson,091 Shawnee 3-06,270,253,18,0,14
+Johnson,091 Shawnee 3-07,380,303,30,0,15
+Johnson,091 Shawnee 3-08,354,289,16,0,15
+Johnson,091 Shawnee 3-09,228,136,17,0,15
+Johnson,091 Shawnee 4-01,386,364,27,0,14
+Johnson,091 Shawnee 4-02,218,200,14,0,15
+Johnson,091 Shawnee 4-03,92,82,11,0,14
+Johnson,091 Shawnee 4-04,73,125,12,0,25
+Johnson,091 Shawnee 4-05,286,311,22,0,25
+Johnson,091 Shawnee 4-06,284,237,18,0,15
+Johnson,091 Shawnee 4-07,359,365,20,0,24
+Johnson,091 Shawnee 4-08,151,138,6,0,15
+Johnson,091 Shawnee 4-09,431,419,26,0,14
+Johnson,091 Shawnee 4-11,197,235,13,0,25
+Johnson,091 Shawnee 4-12,42,42,4,0,0
+Johnson,091 Spring Hill 0-01,515,322,50,0,15
+Johnson,091 Spring Hill 0-02,0,0,0,0,0
+Johnson,091 Spring Hill 0-03,33,24,3,0,15
+Johnson,091 Spring Hill 0-04,0,0,0,0,0
+Johnson,091 Spring Hill Twp 0-01,400,243,27,0,15
+Johnson,091 Spring Hill Twp 0-02,0,2,0,0,29
+Johnson,091 Spring Hill Twp 0-03,43,24,2,0,16
+Johnson,091 Spring Hill Twp 0-04,10,3,1,0,17
+Johnson,091 Spring Hill Twp 0-05,2,6,0,0,27
+Johnson,091 Westwood 0-01,92,245,12,0,27
+Johnson,091 Westwood 0-02,114,236,2,0,26
+Johnson,091 Westwood Hills 0-01,55,149,2,0,27
+Wyandotte,209 BS 1-1,208,236,12,0,25
+Wyandotte,209 BS 2-1,161,168,15,0,24
+Wyandotte,209 BS 3-1,224,265,8,0,25
+Wyandotte,209 BS 4-1,253,313,23,0,25
+Wyandotte,209 DT 1-1,7,6,0,0,15
+Wyandotte,209 ED 1-1,419,342,52,0,15
+Wyandotte,209 ED 2-1,68,58,6,0,15
+Wyandotte,209 KC 10-1,14,254,3,0,29
+Wyandotte,209 KC 10-2,28,387,8,0,29
+Wyandotte,209 KC 10-3,1,14,1,0,28
+Wyandotte,209 KC 10-4,26,139,3,0,28
+Wyandotte,209 KC 10-5,65,255,8,0,27
+Wyandotte,209 KC 11-10,74,290,6,0,27
+Wyandotte,209 KC 11-11,138,374,16,0,27
+Wyandotte,209 KC 11-12,27,48,4,0,26
+Wyandotte,209 KC 11-1,50,242,7,0,28
+Wyandotte,209 KC 11-2,40,199,5,0,28
+Wyandotte,209 KC 11-3,62,291,9,0,28
+Wyandotte,209 KC 11-4,45,210,9,0,27
+Wyandotte,209 KC 11-5,60,180,15,0,27
+Wyandotte,209 KC 11-6,22,235,3,0,29
+Wyandotte,209 KC 11-7,45,185,9,0,27
+Wyandotte,209 KC 1-1,7,72,4,0,28
+Wyandotte,209 KC 11-8,39,231,6,0,28
+Wyandotte,209 KC 11-9,53,226,5,0,27
+Wyandotte,209 KC 12-10,117,125,10,0,24
+Wyandotte,209 KC 12-11,67,58,3,0,15
+Wyandotte,209 KC 12-1,77,151,18,0,26
+Wyandotte,209 KC 12-2,23,49,7,0,26
+Wyandotte,209 KC 12-3,74,145,14,0,26
+Wyandotte,209 KC 12-4,121,186,25,0,25
+Wyandotte,209 KC 12-5,144,146,13,0,24
+Wyandotte,209 KC 12-6,113,146,18,0,25
+Wyandotte,209 KC 12-7,84,108,19,0,25
+Wyandotte,209 KC 12-8,115,161,17,0,25
+Wyandotte,209 KC 12-9,127,173,15,0,25
+Wyandotte,209 KC 1-2,9,84,1,0,28
+Wyandotte,209 KC 13-1,40,269,16,0,28
+Wyandotte,209 KC 1-3,19,50,0,0,27
+Wyandotte,209 KC 13-2,80,212,22,0,26
+Wyandotte,209 KC 13-3,51,185,6,0,27
+Wyandotte,209 KC 13-4,10,179,3,0,29
+Wyandotte,209 KC 13-5,81,162,6,0,26
+Wyandotte,209 KC 13-6,85,176,13,0,26
+Wyandotte,209 KC 13-7,82,111,12,0,25
+Wyandotte,209 KC 13-8,64,166,13,0,26
+Wyandotte,209 KC 13-9,71,238,9,0,27
+Wyandotte,209 KC 14-10,242,375,16,0,25
+Wyandotte,209 KC 14-11,118,218,5,0,26
+Wyandotte,209 KC 14-1,149,179,12,0,25
+Wyandotte,209 KC 14-12,267,343,15,0,25
+Wyandotte,209 KC 14-13,154,288,15,0,26
+Wyandotte,209 KC 14-14,303,352,19,0,25
+Wyandotte,209 KC 14-15,384,424,23,0,25
+Wyandotte,209 KC 14-16,77,153,7,0,26
+Wyandotte,209 KC 14-2,59,109,6,0,26
+Wyandotte,209 KC 14-3,40,112,4,0,27
+Wyandotte,209 KC 14-4,75,242,9,0,27
+Wyandotte,209 KC 14-5,83,195,8,0,26
+Wyandotte,209 KC 14-6,114,246,17,0,26
+Wyandotte,209 KC 14-7,138,323,15,0,26
+Wyandotte,209 KC 14-8,106,234,10,0,26
+Wyandotte,209 KC 14-9,119,122,6,0,24
+Wyandotte,209 KC 2-1,28,110,4,0,27
+Wyandotte,209 KC 2-2,11,79,1,0,28
+Wyandotte,209 KC 2-3,2,27,0,0,29
+Wyandotte,209 KC 2-4,6,94,6,0,28
+Wyandotte,209 KC 2-5,23,156,8,0,28
+Wyandotte,209 KC 3-1,19,247,3,0,29
+Wyandotte,209 KC 3-2,15,243,5,0,29
+Wyandotte,209 KC 3-3,2,42,3,0,28
+Wyandotte,209 KC 3-4,11,148,1,0,29
+Wyandotte,209 KC 4-1,38,149,6,0,27
+Wyandotte,209 KC 4-2,17,35,2,0,26
+Wyandotte,209 KC 4-3,38,92,5,0,26
+Wyandotte,209 KC 4-4,84,196,5,0,26
+Wyandotte,209 KC 5-1,47,140,8,0,27
+Wyandotte,209 KC 5-2,11,43,5,0,27
+Wyandotte,209 KC 5-3,14,29,4,0,26
+Wyandotte,209 KC 5-4,21,50,5,0,26
+Wyandotte,209 KC 5-5,28,79,4,0,27
+Wyandotte,209 KC 6-1,41,69,3,0,26
+Wyandotte,209 KC 6-2,16,22,0,0,25
+Wyandotte,209 KC 7-1,48,101,13,0,26
+Wyandotte,209 KC 7-2,33,75,3,0,26
+Wyandotte,209 KC 7-3,53,135,1,0,27
+Wyandotte,209 KC 7-4,141,170,11,0,25
+Wyandotte,209 KC 7-5,14,39,11,0,26
+Wyandotte,209 KC 7-6,92,205,10,0,26
+Wyandotte,209 KC 7-7,24,62,7,0,26
+Wyandotte,209 KC 7-8,142,240,16,0,26
+Wyandotte,209 KC 7-9,121,226,15,0,26
+Wyandotte,209 KC 8-1,47,167,13,0,27
+Wyandotte,209 KC 8-2,30,220,6,0,28
+Wyandotte,209 KC 8-3,93,334,10,0,27
+Wyandotte,209 KC 8-4,70,170,18,0,26
+Wyandotte,209 KC 9-10,112,248,13,0,26
+Wyandotte,209 KC 9-11,90,287,17,0,27
+Wyandotte,209 KC 9-12,130,189,13,0,25
+Wyandotte,209 KC 9-1,22,36,1,0,26
+Wyandotte,209 KC 9-13,88,137,17,0,25
+Wyandotte,209 KC 9-14,133,193,14,0,25
+Wyandotte,209 KC 9-15,0,0,0,0,0
+Wyandotte,209 KC 9-16,157,261,13,0,26
+Wyandotte,209 KC 9-2,72,94,8,0,25
+Wyandotte,209 KC 9-3,109,309,11,0,27
+Wyandotte,209 KC 9-4,25,45,5,0,26
+Wyandotte,209 KC 9-5,14,6,1,0,16
+Wyandotte,209 KC 9-6,41,170,14,0,27
+Wyandotte,209 KC 9-7,109,129,20,0,25
+Wyandotte,209 KC 9-8,43,145,4,0,27
+Wyandotte,209 KC 9-9,47,55,7,0,25
+Wyandotte,209 QC 1-1,12,15,0,0,25
+Shawnee,177 TP-41,139,203,19,0,25
+Shawnee,177 WP-10-02,169,176,10,0,24
+Shawnee,177 WP-10-06,111,155,7,0,25
+Shawnee,177 WP-04-01,27,137,15,0,27
+Shawnee,177 WP-07-07,54,131,11,0,26
+Shawnee,177 WP-13-30,45,71,3,0,25
+Shawnee,177 WP-10-05,83,175,11,0,26
+Shawnee,177 WP-07-03,79,171,9,0,26
+Shawnee,177 WP-09-10,167,326,20,0,26
+Shawnee,177 WP-13-02,30,73,5,0,26
+Shawnee,177 WP-08-03,87,245,13,0,27
+Shawnee,177 TP-47,230,364,16,0,25
+Shawnee,177 WP-06-04,60,149,12,0,26
+Shawnee,177 WP-13-09,49,37,5,0,15
+Shawnee,177 WP-12-15,241,308,17,0,25
+Shawnee,177 WP-02-02,69,125,12,0,26
+Shawnee,177 WP-11-06,97,172,16,0,26
+Shawnee,177 TP-96,146,160,18,0,24
+Shawnee,177 WP-01-04,81,152,12,0,26
+Shawnee,177 WP-09-12,44,96,3,0,26
+Shawnee,177 WP-04-03,21,100,5,0,27
+Shawnee,177 TP-90,156,147,17,0,14
+Shawnee,177 WP-05-03,64,120,11,0,26
+Shawnee,177 WP-08-01,44,143,12,0,27
+Shawnee,177 WP-04-07,23,99,2,0,27
+Shawnee,177 WP-11-10,67,124,7,0,26
+Shawnee,177 WP-07-02,64,170,16,0,26
+Shawnee,177 WP-11-08,96,156,16,0,25
+Shawnee,177 TP-10,125,215,16,0,26
+Shawnee,177 TP-40,58,97,2,0,26
+Shawnee,177 WP-08-06,107,151,5,0,25
+Shawnee,177 WP-08-09,114,224,15,0,26
+Shawnee,177 WP-02-03,67,140,8,0,26
+Shawnee,177 WP-13-06,75,33,3,0,16
+Shawnee,177 TP-09,187,295,17,0,25
+Shawnee,177 WP-12-09,235,345,18,0,25
+Shawnee,177 WP-07-11,116,234,7,0,26
+Shawnee,177 TP-24,206,261,20,0,25
+Shawnee,177 TP-34,66,55,5,0,15
+Shawnee,177 TP-56,273,284,15,0,24
+Shawnee,177 TP-82,176,153,14,0,15
+Shawnee,177 WP-03-08,66,121,11,0,26
+Shawnee,177 WP-13-12,257,252,16,0,14
+Shawnee,177 WP-05-05,51,147,11,0,27
+Shawnee,177 WP-10-09,69,131,10,0,26
+Shawnee,177 TP-94,154,220,11,0,25
+Shawnee,177 TP-63,74,121,13,0,25
+Shawnee,177 WP-05-07,48,154,12,0,27
+Shawnee,177 WP-05-04,49,155,9,0,27
+Shawnee,177 WP-15-03,10,18,0,0,26
+Shawnee,177 WP-08-08,61,185,5,0,27
+Shawnee,177 WP-01-06,207,238,19,0,25
+Shawnee,177 TP-02,181,120,15,0,15
+Shawnee,177 WP-05-91,33,53,5,0,25
+Shawnee,177 WP-06-06,46,98,11,0,26
+Shawnee,177 TP-86,358,298,16,0,15
+Shawnee,177 TP-58,261,303,21,0,25
+Shawnee,177 WP-07-01,83,215,14,0,26
+Shawnee,177 WP-12-03,128,197,9,0,25
+Shawnee,177 WP-11-07,103,157,12,0,25
+Shawnee,177 WP-10-07,94,187,17,0,26
+Shawnee,177 TP-66,61,49,7,0,15
+Shawnee,177 WP-15-01,155,244,16,0,25
+Shawnee,177 TP-54,38,21,1,0,16
+Shawnee,177 WP-04-09,40,151,10,0,27
+Shawnee,177 WP-03-04,50,118,9,0,26
+Shawnee,177 TP-37,135,191,15,0,25
+Shawnee,177 WP-14-02,174,274,17,0,25
+Shawnee,177 WP-12-11,262,330,19,0,25
+Shawnee,177 WP-13-05,11,3,0,0,17
+Shawnee,177 WP-09-02,59,141,10,0,26
+Shawnee,177 WP-05-10,162,268,14,0,26
+Shawnee,177 TP-38,162,190,25,0,25
+Shawnee,177 TP-42,147,218,8,0,25
+Shawnee,177 WP-12-16,217,360,12,0,26
+Shawnee,177 TP-14,237,214,19,0,15
+Shawnee,177 TP-22,140,140,12,0,0
+Shawnee,177 WP-10-11,160,234,25,0,25
+Shawnee,177 WP-10-01,94,213,12,0,26
+Shawnee,177 TP-29,203,245,16,0,25
+Shawnee,177 WP-09-01,17,39,3,0,26
+Shawnee,177 WP-06-08,58,167,14,0,26
+Shawnee,177 WP-11-01,81,122,9,0,25
+Shawnee,177 TP-33,258,312,25,0,25
+Shawnee,177 TP-39,0,0,0,0,0
+Shawnee,177 TP-97,26,24,2,0,15
+Shawnee,177 WP-02-07,15,70,8,0,27
+Shawnee,177 WP-09-05,74,180,8,0,26
+Shawnee,177 WP-04-11,36,58,3,0,25
+Shawnee,177 WP-13-22,28,34,1,0,25
+Shawnee,177 WP-03-01,64,144,10,0,26
+Shawnee,177 TP-45,116,174,3,0,25
+Shawnee,177 WP-12-08,145,245,11,0,26
+Shawnee,177 WP-02-04,50,131,13,0,26
+Shawnee,177 WP-10-10,102,180,10,0,26
+Shawnee,177 WP-04-14,0,0,0,0,0
+Shawnee,177 WP-12-19,50,25,0,0,16
+Shawnee,177 WP-06-03,153,196,15,0,25
+Shawnee,177 TP-44,182,242,11,0,25
+Shawnee,177 WP-02-10,55,214,10,0,27
+Shawnee,177 WP-04-02,28,136,12,0,27
+Shawnee,177 WP-12-01,83,183,13,0,26
+Shawnee,177 WP-10-14,100,198,6,0,26
+Shawnee,177 WP-08-05,159,275,23,0,26
+Shawnee,177 WP-03-02,63,180,7,0,27
+Shawnee,177 WP-06-09,232,340,27,0,25
+Shawnee,177 WP-09-04,106,236,9,0,26
+Shawnee,177 WP-05-14,104,105,7,0,24
+Shawnee,177 TP-72,172,189,25,0,24
+Shawnee,177 TP-35,177,219,22,0,25
+Shawnee,177 WP-14-03,142,151,8,0,25
+Shawnee,177 WP-02-09,68,172,9,0,26
+Shawnee,177 TP-65,208,211,25,0,24
+Shawnee,177 WP-11-05,89,190,16,0,26
+Shawnee,177 WP-11-04,135,261,20,0,26
+Shawnee,177 TP-01,190,208,25,0,24
+Shawnee,177 WP-03-07,42,113,4,0,27
+Shawnee,177 TP-30,192,205,13,0,25
+Shawnee,177 TP-87,183,155,10,0,15
+Shawnee,177 TP-43,256,248,14,0,14
+Shawnee,177 TP-89,75,43,3,0,16
+Shawnee,177 WP-15-02,93,202,11,0,26
+Shawnee,177 TP-52,8,10,1,0,25
+Shawnee,177 WP-01-01,45,114,8,0,26
+Shawnee,177 WP-03-10,3,8,2,0,26
+Shawnee,177 WP-11-09,107,176,18,0,25
+Shawnee,177 TP-32,218,214,21,0,14
+Shawnee,177 WP-12-14,142,171,13,0,25
+Shawnee,177 TP-15,125,134,12,0,24
+Shawnee,177 WP-02-06,41,104,9,0,26
+Shawnee,177 TP-73,317,235,22,0,15
+Shawnee,177 WP-14-05,191,152,4,0,15
+Shawnee,177 TP-92,174,190,7,0,25
+Shawnee,177 TP-28,161,207,17,0,25
+Shawnee,177 TP-74,205,162,24,0,15
+Shawnee,177 WP-06-01,30,120,7,0,27
+Shawnee,177 WP-09-06,105,195,9,0,26
+Shawnee,177 WP-05-01,34,127,8,0,27
+Shawnee,177 WP-04-08,45,118,11,0,26
+Shawnee,177 WP-06-05,104,209,16,0,26
+Shawnee,177 TP-84,51,56,4,0,25
+Shawnee,177 TP-48,151,255,19,0,26
+Shawnee,177 TP-53,64,106,8,0,25
+Shawnee,177 WP-08-10,131,139,8,0,25
+Shawnee,177 TP-26,170,237,10,0,25
+Shawnee,177 WP-12-20,176,241,20,0,25
+Shawnee,177 TP-85,82,118,5,0,25
+Shawnee,177 WP-07-09,73,135,7,0,26
+Shawnee,177 WP-01-05,140,200,22,0,25
+Shawnee,177 WP-02-01,76,148,20,0,26
+Shawnee,177 WP-01-02,55,149,8,0,27
+Shawnee,177 TP-62,26,21,2,0,15
+Shawnee,177 TP-55,29,33,8,0,24
+Shawnee,177 WP-05-06,33,108,6,0,27
+Shawnee,177 WP-08-07,55,154,7,0,27
+Shawnee,177 WP-12-06,146,267,14,0,26
+Shawnee,177 TP-25,178,211,26,0,25
+Shawnee,177 WP-08-11,118,222,11,0,26
+Shawnee,177 WP-05-09,123,222,10,0,26
+Shawnee,177 TP-64,94,161,22,0,25
+Shawnee,177 WP-11-03,69,143,6,0,26
+Shawnee,177 TP-99,38,34,4,0,15
+Shawnee,177 WP-05-02,34,128,15,0,27
+Shawnee,177 WP-03-05,26,80,8,0,27
+Shawnee,177 TP-95,217,212,10,0,14
+Shawnee,177 WP-05-11,113,212,15,0,26
+Shawnee,177 TP-93,151,146,5,0,15
+Shawnee,177 WP-02-08,9,87,6,0,28
+Shawnee,177 WP-10-04,121,165,15,0,25
+Shawnee,177 WP-12-13,199,219,15,0,25
+Shawnee,177 WP-03-06,44,88,9,0,26
+Shawnee,177 WP-04-10,52,192,15,0,27
+Shawnee,177 TP-91,277,239,17,0,15
+Shawnee,177 WP-07-06,70,123,12,0,26
+Shawnee,177 WP-06-07,38,77,7,0,26
+Shawnee,177 WP-12-05,173,211,17,0,25
+Shawnee,177 WP-08-04,86,225,9,0,27
+Shawnee,177 WP-09-11,95,192,9,0,26
+Shawnee,177 WP-06-02,27,118,14,0,27
+Shawnee,177 TP-12,145,136,12,0,14
+Shawnee,177 TP-39,205,238,15,0,25
+Shawnee,177 TP-49,118,160,3,0,25
+Shawnee,177 WP-04-06,96,165,8,0,26
+Shawnee,177 WP-01-I,0,0,0,0,0
+Shawnee,177 TP-81,168,142,15,0,15
+Shawnee,177 WP-05-15,20,29,2,0,25
+Shawnee,177 TP-36,184,267,19,0,25
+Shawnee,177 WP-09-03,154,249,12,0,26
+Shawnee,177 WP-08-02,57,174,13,0,27
+Shawnee,177 TP-15,0,0,0,0,0
+Shawnee,177 WP-14-04,314,287,16,0,15
+Shawnee,177 WP-03-09,53,127,7,0,26
+Shawnee,177 WP-01-03,50,117,6,0,26
+Shawnee,177 WP-11-02,103,185,7,0,26
+Shawnee,177 WP-07-10,58,158,10,0,26
+Shawnee,177 WP-10-03,201,287,17,0,25
+Shawnee,177 WP-02-11,44,99,6,0,26
+Shawnee,177 WP-12-07,146,234,17,0,25
+Shawnee,177 WP-07-05,93,135,19,0,25
+Shawnee,177 WP-12-04,188,234,13,0,25
+Shawnee,177 WP-09-08,123,222,25,0,26
+Shawnee,177 WP-10-08,75,163,17,0,26
+Shawnee,177 WP-07-04,106,191,5,0,26
+Shawnee,177 WP-12-31,122,141,16,0,25
+Shawnee,177 WP-03-03,29,113,7,0,27
+Shawnee,177 WP-05-08,47,112,12,0,26
+Shawnee,177 WP-04-12,0,15,1,0,29
+Shawnee,177 WP-14-01,216,316,17,0,25
+Shawnee,177 WP-09-09,95,172,11,0,26
+Shawnee,177 WP-13-21,22,44,2,0,26
+Shawnee,177 TP-31,262,342,19,0,25
+Shawnee,177 WP-12-02,53,134,19,0,26
+Shawnee,177 TP-57,191,254,10,0,25
+Shawnee,177 WP-04-15,51,87,2,0,26
+Shawnee,177 TP-46,131,140,6,0,25
+Shawnee,177 WP-02-05,45,145,8,0,27
+Shawnee,177 WP-04-04,29,176,12,0,28
+Shawnee,177 TP-80,217,193,8,0,15
+Sedgwick,173 101,292,402,44,0,25
+Sedgwick,173 102,294,403,28,0,25
+Sedgwick,173 103,26,68,7,0,26
+Sedgwick,173 104,14,12,4,0,14
+Sedgwick,173 105,93,296,23,0,27
+Sedgwick,173 106,127,551,37,0,27
+Sedgwick,173 107,421,664,34,0,25
+Sedgwick,173 108,175,400,30,0,26
+Sedgwick,173 109,196,473,33,0,26
+Sedgwick,173 110,439,639,53,0,25
+Sedgwick,173 111,118,168,9,0,25
+Sedgwick,173 112,203,549,32,0,27
+Sedgwick,173 113,47,446,17,0,28
+Sedgwick,173 114,22,406,14,0,29
+Sedgwick,173 116,50,593,19,0,28
+Sedgwick,173 117,40,560,13,0,29
+Sedgwick,173 118,89,648,25,0,28
+Sedgwick,173 119,132,454,24,0,27
+Sedgwick,173 120,167,411,24,0,26
+Sedgwick,173 121,282,373,19,0,25
+Sedgwick,173 122,398,599,31,0,25
+Sedgwick,173 123,153,123,17,0,15
+Sedgwick,173 124,0,1,0,0,29
+Sedgwick,173 127,107,86,17,0,15
+Sedgwick,173 128,328,478,35,0,25
+Sedgwick,173 129,58,88,15,0,25
+Sedgwick,173 130,150,277,30,0,26
+Sedgwick,173 205,65,125,16,0,26
+Sedgwick,173 206,99,129,6,0,25
+Sedgwick,173 207,543,716,46,0,25
+Sedgwick,173 208,106,136,15,0,25
+Sedgwick,173 209,234,361,21,0,25
+Sedgwick,173 210,308,424,39,0,25
+Sedgwick,173 211,271,265,16,0,14
+Sedgwick,173 212,472,567,22,0,25
+Sedgwick,173 213,606,528,38,0,15
+Sedgwick,173 214,643,417,20,0,15
+Sedgwick,173 215,725,684,24,0,15
+Sedgwick,173 216,457,428,18,0,15
+Sedgwick,173 217,656,438,21,0,15
+Sedgwick,173 218,835,681,39,0,15
+Sedgwick,173 221,388,294,21,0,15
+Sedgwick,173 222,521,415,21,0,15
+Sedgwick,173 223,664,460,31,0,15
+Sedgwick,173 224,500,547,59,0,24
+Sedgwick,173 225,533,559,56,0,24
+Sedgwick,173 226,871,583,41,0,15
+Sedgwick,173 227,504,288,21,0,16
+Sedgwick,173 228,741,302,23,0,16
+Sedgwick,173 233,151,134,12,0,15
+Sedgwick,173 235,79,143,9,0,26
+Sedgwick,173 236,438,258,11,0,16
+Sedgwick,173 239,15,4,0,0,17
+Sedgwick,173 241,161,110,5,0,15
+Sedgwick,173 301,139,165,20,0,25
+Sedgwick,173 302,219,310,54,0,25
+Sedgwick,173 303,127,118,21,0,14
+Sedgwick,173 304,120,172,19,0,25
+Sedgwick,173 305,383,583,52,0,25
+Sedgwick,173 306,324,541,62,0,25
+Sedgwick,173 307,144,233,23,0,25
+Sedgwick,173 308,243,413,37,0,25
+Sedgwick,173 309,326,436,50,0,25
+Sedgwick,173 310,134,201,27,0,25
+Sedgwick,173 311,147,141,20,0,14
+Sedgwick,173 312,120,160,24,0,25
+Sedgwick,173 313,331,481,58,0,25
+Sedgwick,173 314,342,394,59,0,24
+Sedgwick,173 315,235,307,63,0,25
+Sedgwick,173 316,366,313,53,0,15
+Sedgwick,173 317,7,5,0,0,15
+Sedgwick,173 318,13,9,1,0,15
+Sedgwick,173 319,57,118,11,0,26
+Sedgwick,173 320,33,76,13,0,26
+Sedgwick,173 321,1,14,3,0,27
+Sedgwick,173 324,98,153,19,0,25
+Sedgwick,173 325,263,339,43,0,25
+Sedgwick,173 326,26,41,6,0,25
+Sedgwick,173 401,226,182,19,0,15
+Sedgwick,173 402,239,191,14,0,15
+Sedgwick,173 403,408,252,19,0,16
+Sedgwick,173 404,395,467,50,0,25
+Sedgwick,173 405,296,336,42,0,24
+Sedgwick,173 406,234,276,53,0,24
+Sedgwick,173 407,30,43,3,0,25
+Sedgwick,173 408,223,309,41,0,25
+Sedgwick,173 409,121,173,27,0,25
+Sedgwick,173 410,839,541,47,0,15
+Sedgwick,173 412,765,526,69,0,15
+Sedgwick,173 413,539,413,49,0,15
+Sedgwick,173 414,115,87,5,0,15
+Sedgwick,173 416,381,260,29,0,15
+Sedgwick,173 417,222,257,29,0,25
+Sedgwick,173 418,351,352,51,0,24
+Sedgwick,173 419,261,359,36,0,25
+Sedgwick,173 420,327,325,48,0,14
+Sedgwick,173 422,216,187,32,0,14
+Sedgwick,173 423,243,241,38,0,14
+Sedgwick,173 424,72,84,15,0,24
+Sedgwick,173 425,501,415,70,0,15
+Sedgwick,173 429,153,182,20,0,25
+Sedgwick,173 433,115,113,10,0,14
+Sedgwick,173 437,134,83,14,0,15
+Sedgwick,173 503,383,353,49,0,14
+Sedgwick,173 504,257,267,22,0,24
+Sedgwick,173 506,542,448,42,0,15
+Sedgwick,173 507,476,448,54,0,14
+Sedgwick,173 508,425,413,32,0,14
+Sedgwick,173 509,441,369,29,0,15
+Sedgwick,173 510,730,465,19,0,16
+Sedgwick,173 512,1027,729,51,0,15
+Sedgwick,173 513,340,162,12,0,16
+Sedgwick,173 514,660,521,28,0,15
+Sedgwick,173 515,561,473,41,0,15
+Sedgwick,173 516,396,304,28,0,15
+Sedgwick,173 517,351,346,37,0,14
+Sedgwick,173 518,495,364,28,0,15
+Sedgwick,173 519,472,473,45,0,24
+Sedgwick,173 522,534,379,38,0,15
+Sedgwick,173 523,518,408,33,0,15
+Sedgwick,173 524,822,648,52,0,15
+Sedgwick,173 525,494,482,45,0,14
+Sedgwick,173 526,601,419,47,0,15
+Sedgwick,173 527,572,439,34,0,15
+Sedgwick,173 530,647,348,26,0,16
+Sedgwick,173 531,953,652,41,0,15
+Sedgwick,173 534,64,30,2,0,16
+Sedgwick,173 538,116,80,5,0,15
+Sedgwick,173 539,274,204,30,0,15
+Sedgwick,173 601,136,345,22,0,26
+Sedgwick,173 602,402,492,57,0,25
+Sedgwick,173 603,284,173,14,0,16
+Sedgwick,173 604,396,456,68,0,24
+Sedgwick,173 605,153,179,14,0,25
+Sedgwick,173 606,114,167,11,0,25
+Sedgwick,173 607,320,809,47,0,26
+Sedgwick,173 608,161,464,36,0,27
+Sedgwick,173 609,383,825,73,0,26
+Sedgwick,173 610,426,503,56,0,25
+Sedgwick,173 611,223,247,29,0,24
+Sedgwick,173 612,523,639,49,0,25
+Sedgwick,173 613,402,517,35,0,25
+Sedgwick,173 614,137,197,23,0,25
+Sedgwick,173 615,229,569,49,0,26
+Sedgwick,173 616,205,210,41,0,24
+Sedgwick,173 617,88,142,36,0,25
+Sedgwick,173 618,442,440,31,0,14
+Sedgwick,173 619,412,485,50,0,25
+Sedgwick,173 621,23,14,0,0,16
+Sedgwick,173 622,668,460,41,0,15
+Sedgwick,173 623,589,368,38,0,15
+Sedgwick,173 624,29,39,4,0,25
+Sedgwick,173 627,37,34,6,0,14
+Sedgwick,173 AF,413,198,17,0,16
+Sedgwick,173 AT02,58,42,5,0,15
+Sedgwick,173 AT03,328,142,10,0,16
+Sedgwick,173 AT04,2,1,0,0,16
+Sedgwick,173 AT05,128,76,4,0,16
+Sedgwick,173 AT06,40,3,0,0,19
+Sedgwick,173 AT08,33,11,2,0,17
+Sedgwick,173 BA01,618,462,40,0,15
+Sedgwick,173 BA02,493,467,33,0,14
+Sedgwick,173 BA03,385,299,28,0,15
+Sedgwick,173 DB11,532,397,42,0,15
+Sedgwick,173 DB12,273,241,9,0,15
+Sedgwick,173 DB14,205,146,14,0,15
+Sedgwick,173 DB15,24,4,1,0,18
+Sedgwick,173 DB21,263,225,42,0,14
+Sedgwick,173 DB22,292,257,18,0,15
+Sedgwick,173 DB23,374,311,25,0,15
+Sedgwick,173 DB24,76,50,5,0,15
+Sedgwick,173 DB25,20,27,4,0,25
+Sedgwick,173 DB31,125,79,8,0,15
+Sedgwick,173 DB32,331,302,26,0,15
+Sedgwick,173 DB36,454,396,29,0,15
+Sedgwick,173 DB37,61,61,7,0,00
+Sedgwick,173 DB41,203,178,19,0,15
+Sedgwick,173 DB42,841,596,43,0,15
+Sedgwick,173 DL02,0,0,0,0,00
+Sedgwick,173 DL03,1,1,0,0,00
+Sedgwick,173 DL04,0,1,0,0,29
+Sedgwick,173 EA,202,160,10,0,15
+Sedgwick,173 ER,21,15,4,0,15
+Sedgwick,173 GA,524,237,19,0,16
+Sedgwick,173 GD,164,58,5,0,17
+Sedgwick,173 GN01,422,190,24,0,16
+Sedgwick,173 GO,805,487,49,0,16
+Sedgwick,173 GR,248,109,24,0,16
+Sedgwick,173 GY01,804,455,49,0,16
+Sedgwick,173 GY02,8,10,0,0,25
+Sedgwick,173 GY03,17,17,5,0,00
+Sedgwick,173 HA11,314,288,34,0,14
+Sedgwick,173 HA21,339,302,51,0,14
+Sedgwick,173 HA31,360,318,58,0,14
+Sedgwick,173 HA41,332,266,34,0,15
+Sedgwick,173 HA42,86,49,7,0,16
+Sedgwick,173 IL01,479,199,31,0,16
+Sedgwick,173 KE01,12,1,0,0,19
+Sedgwick,173 KE03,408,309,24,0,15
+Sedgwick,173 KE04,17,16,3,0,14
+Sedgwick,173 KE07,9,7,2,0,15
+Sedgwick,173 KE08,8,3,0,0,17
+Sedgwick,173 LI,170,73,9,0,16
+Sedgwick,173 MI01,696,360,16,0,16
+Sedgwick,173 MI02,237,198,12,0,15
+Sedgwick,173 MI03,7,4,1,0,15
+Sedgwick,173 MI04,1,0,1,0,00
+Sedgwick,173 MI05,0,2,0,0,29
+Sedgwick,173 MI07,4,7,0,0,26
+Sedgwick,173 MI09,97,95,15,0,14
+Sedgwick,173 MI14,62,35,2,0,16
+Sedgwick,173 MO,495,372,44,0,15
+Sedgwick,173 MV01,283,252,18,0,15
+Sedgwick,173 MV02,628,556,59,0,15
+Sedgwick,173 NI01,126,57,6,0,16
+Sedgwick,173 NI,494,367,31,0,15
+Sedgwick,173 OH01,344,175,21,0,16
+Sedgwick,173 PA01,141,62,7,0,16
+Sedgwick,173 PA02,67,41,6,0,15
+Sedgwick,173 PA05,645,404,43,0,15
+Sedgwick,173 PA06,31,21,2,0,15
+Sedgwick,173 PA09,5,2,0,0,17
+Sedgwick,173 PC11,188,171,23,0,14
+Sedgwick,173 PC13,68,55,6,0,15
+Sedgwick,173 PC21,332,261,32,0,15
+Sedgwick,173 PC31,360,358,42,0,14
+Sedgwick,173 PC43,117,95,7,0,15
+Sedgwick,173 PY01,312,122,12,0,16
+Sedgwick,173 RI01,20,14,4,0,15
+Sedgwick,173 RI03,82,140,18,0,25
+Sedgwick,173 RI06,62,55,4,0,15
+Sedgwick,173 RI07,93,94,20,0,24
+Sedgwick,173 RI13,4,3,0,0,15
+Sedgwick,173 RO01,229,127,17,0,16
+Sedgwick,173 RO03,144,90,11,0,15
+Sedgwick,173 SA01,463,255,49,0,16
+Sedgwick,173 SA02,304,220,22,0,15
+Sedgwick,173 SH,385,187,15,0,16
+Sedgwick,173 UN01,622,182,18,0,17
+Sedgwick,173 UN02,39,17,3,0,16
+Sedgwick,173 VA,227,138,27,0,15
+Sedgwick,173 VC11,323,215,33,0,15
+Sedgwick,173 VC21,338,255,21,0,15
+Sedgwick,173 VC31,288,181,25,0,15
+Sedgwick,173 VC41,233,182,30,0,15
+Sedgwick,173 VC42,107,67,13,0,15
+Sedgwick,173 VI,115,61,14,0,16
+Sedgwick,173 WA01,34,17,2,0,16
+Sedgwick,173 WA02,139,63,9,0,16
+Sedgwick,173 WA03,9,3,0,0,17
+Sedgwick,173 WA12,2,0,0,0,19

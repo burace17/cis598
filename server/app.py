@@ -20,7 +20,9 @@ result_reader = getattr(result_module, config.reader_class)()
 model = getattr(model_module, config.model_class)(result_reader)
 
 def update_forecast():
-    model.update_forecast()
+    while True:
+        model.update_forecast()
+        time.sleep(0.3)
 
 threading.Thread(target=update_forecast).start()
 

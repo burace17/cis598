@@ -19,6 +19,7 @@ const RESULT_TOTAL_VOTES = "total_votes";
 const UPDATE_INTERVAL = 20000;
 
 var lastResult: Result = null;
+var lastForecast: Result = null;
 
 function onMouseOverSubdiv(actual: boolean, result: Result)
 {
@@ -27,7 +28,7 @@ function onMouseOverSubdiv(actual: boolean, result: Result)
 
 function onMouseLeaveSubdiv(actual: boolean)
 {
-    updateVoteTotals(false, actual, lastResult);
+    updateVoteTotals(false, actual, actual? lastResult : lastForecast);
 }
 
 // Update the vote total box with the data contained in result.
@@ -57,7 +58,11 @@ function updateVoteTotals(fromServer: boolean, actual: boolean, result?: Result)
     // If these results are from the server, we can update the last update time and save this result.
     if (fromServer)
     {
+        if (actual)
         lastResult = result;
+        else
+        lastForecast = result;
+
         ReactDOM.render(
             <LastUpdated />,
             document.getElementById("last_updated")
@@ -120,7 +125,7 @@ function fetchNewResults() {
         return response.json();
     }).then(response => {
         const result = convertToResult(response);
-        updateVoteTotals(false, false, result);
+        updateVoteTotals(true, false, result);
     });
 
     fetch("http://localhost:5000/get_forecast_subdiv").then (response => {

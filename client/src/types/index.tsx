@@ -41,11 +41,11 @@ export class Result {
         const sorted = this.getSortedCandidates();
         const winner = sorted[0];
 
-        if (winner[1].votes === sorted[1][1].votes)
-            return ["Tie", null];
-
         if (winner[1].votes === 0)
             return ["NA", null];
+        
+            if (winner[1].votes === sorted[1][1].votes)
+            return ["Tie", null];
 
         return winner;
     }

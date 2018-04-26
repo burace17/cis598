@@ -4,29 +4,29 @@ Here, you may specify any variables that you wish to be available from anywhere 
 """
 
 # Name of the module containing the forecasting algorithm to use
-model = "cis598.sample_forecaster.sample_model"
+model = "cis598.kansas_forecaster.kansas_model"
 
 # Name of the module containing the result reader to use
-result_reader = "cis598.sample_forecaster.pa_sos_reader"
+result_reader = "cis598.kansas_forecaster.simulation"
 
 # Names of the specific Model class and ResultReader class your implementation uses
-model_class = "SampleModel"
-reader_class = "PAReader"
+model_class = "KansasModel"
+reader_class = "SimulatedElection"
 
 # --------------------------------------------------------
 # Web app configuration.
 # --------------------------------------------------------
 
 # These values will be displayed to the user
-elex_name = "Pennsylvania's 18th Congressional District Special Election"
+elex_name = "KSGov"
 
 # Define all of the candidates that will be displayed to the user here.
 # The keys of the candidate_info dictionary must correspond to the names defined in the candidates array defined above.
 # Use the display name to indicate how each candidate's name should be displayed to the user.
 candidates = {
-    "SACCONE, RICHARD": { "displayName": "Rick Saccone", "party":"Republican", "votes":0},
-    "LAMB, CONOR": { "displayName": "Conor Lamb", "party":"Democratic", "votes":0},
-    "MILLER, DREW GRAY": { "displayName": "Drew Gray Miller", "party":"Libertarian", "votes":0}
+    "Sam Brownback": { "displayName": "Sam Brownback", "party":"Republican", "votes":0},
+    "Paul Davis": { "displayName": "Paul Davis", "party":"Democratic", "votes":0},
+    "Other": { "displayName": "Others", "party":"Other", "votes":0}
 }
 
 # --------------------------------------------------------
