@@ -19,7 +19,7 @@ export function VoteTotal(props: Properties)
                 <tr>
                 <td>{elem[1].displayName}</td>
                 <td>{elem[1].party}</td>
-                <td>{elem[1].votes.toLocaleString()}</td>
+                <td>{Math.round(elem[1].votes).toLocaleString()}</td>
                 <td>{props.result.totalVotes === 0 ? 0.0 : ((elem[1].votes / props.result.totalVotes) * 100).toFixed(2)}</td>
                 </tr>
             ));
