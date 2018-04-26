@@ -1,4 +1,5 @@
-export interface Candidate {
+export interface Candidate 
+{
     displayName: string;
     party: string;
     votes: number;
@@ -6,7 +7,8 @@ export interface Candidate {
 
 export type CandidateInfo = Map<string, Candidate>;
 
-export class Result {
+export class Result 
+{
     name: string;
     candidates: CandidateInfo;
     partsReporting: number;
@@ -25,7 +27,8 @@ export class Result {
     getSortedCandidates()
     {
         const mapArr = Array.from(this.candidates);
-        const sorted = mapArr.sort((a, b) => {
+        const sorted = mapArr.sort((a, b) => 
+        {
             if (a[1].votes < b[1].votes)
                 return -1;
             else if (a[1].votes === b[1].votes)

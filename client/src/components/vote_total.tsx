@@ -6,13 +6,15 @@ interface Properties
     result: Result;
 }
 
-export function VoteTotal(props: Properties) {
+export function VoteTotal(props: Properties) 
+{
     var candidateElements: Array<JSX.Element> = [];
     if (props.result)
     {
         // Convert the Map to an Array so we can sort it by number of votes.
         const sorted = props.result.getSortedCandidates();
-        sorted.forEach(elem => {
+        sorted.forEach(elem => 
+        {
             candidateElements.push((
                 <tr>
                 <td>{elem[1].displayName}</td>

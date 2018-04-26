@@ -59,9 +59,9 @@ function updateVoteTotals(fromServer: boolean, actual: boolean, result?: Result)
     if (fromServer)
     {
         if (actual)
-        lastResult = result;
+            lastResult = result;
         else
-        lastForecast = result;
+            lastForecast = result;
 
         ReactDOM.render(
             <LastUpdated />,
@@ -79,7 +79,8 @@ function updateMaps(actual: boolean, resultsBySubdiv: Map<string, Result>)
     );
 }
 
-function convertToResult(resultObj: object): Result {
+function convertToResult(resultObj: object): Result 
+{
     const name = resultObj[RESULT_OBJ_NAME];
     const candidates: object = resultObj[RESULT_CANDIDATE_NAME];
     const partsReporting = resultObj[RESULT_PARTS_REPORTING];
@@ -88,7 +89,8 @@ function convertToResult(resultObj: object): Result {
 
     // convert candidates object to Map<string, Candidate>
     var candidateMap = new Map<string, Candidate>();
-    Object.keys(candidates).forEach(key => {
+    Object.keys(candidates).forEach(key => 
+    {
         candidateMap.set(key, candidates[key]);
     });
 
@@ -106,31 +108,40 @@ function convertSubdivResults(resultObj: object): Map<string, Result>
     return results;
 }
 
-function fetchNewResults() {
-    fetch("http://localhost:5000/get_actual_count").then (response => {
+function fetchNewResults() 
+{
+    fetch("http://localhost:5000/get_actual_count").then (response => 
+    {
         return response.json();
-    }).then(response => {
+    }).then(response => 
+    {
         const result = convertToResult(response);
         updateVoteTotals(true, true, result);
     });
 
-    fetch("http://localhost:5000/get_actual_subdiv").then (response => {
+    fetch("http://localhost:5000/get_actual_subdiv").then (response => 
+    {
         return response.json();
-    }).then(response => {
+    }).then(response => 
+    {
         const subDivResults = convertSubdivResults(response);
         updateMaps(true, subDivResults);
     });
 
-    fetch("http://localhost:5000/get_forecast").then (response => {
+    fetch("http://localhost:5000/get_forecast").then (response => 
+    {
         return response.json();
-    }).then(response => {
+    }).then(response => 
+    {
         const result = convertToResult(response);
         updateVoteTotals(true, false, result);
     });
 
-    fetch("http://localhost:5000/get_forecast_subdiv").then (response => {
+    fetch("http://localhost:5000/get_forecast_subdiv").then (response => 
+    {
         return response.json();
-    }).then(response => {
+    }).then(response => 
+    {
         const subDivResults = convertSubdivResults(response);
         updateMaps(false, subDivResults);
     });

@@ -7,7 +7,8 @@ import { ResultWidget } from './result_widget';
 //const mapServiceUrl = "https://services8.arcgis.com/yBvhbG6FeRtNxtFh/arcgis/rest/services/PA18/FeatureServer";
 const mapServiceUrl = "https://services8.arcgis.com/yBvhbG6FeRtNxtFh/arcgis/rest/services/KSCounties3/FeatureServer";
 
-interface Properties {
+interface Properties 
+{
     voteData: Map<string, Result>;
     actual: boolean;
     mouseOver: (actual: boolean, result: Result) => void;
@@ -40,7 +41,8 @@ function getWinnerColor(result: Result)
     return [0,0,0,1.0];
 }
 
-export class ResultMap extends React.Component<Properties, object> {
+export class ResultMap extends React.Component<Properties, object> 
+{
     map: __esri.Map = null;
     view: __esri.MapView = null;
     widget: JSX.Element = null;
@@ -56,23 +58,26 @@ export class ResultMap extends React.Component<Properties, object> {
 
     handleMapLoad(map: __esri.Map, view: __esri.MapView)
     {
-        console.log("map loaded");
         this.map = map;
         this.view = view;
-        esriPromise(["esri/layers/FeatureLayer", "esri/layers/GraphicsLayer", "esri/Graphic", "esri/symbols/SimpleFillSymbol"]).then(([FeatureLayer, GraphicsLayer, Graphic, SimpleFillSymbol]) => {
-            var shape: __esri.FeatureLayer = new FeatureLayer({
+        esriPromise(["esri/layers/FeatureLayer", "esri/Graphic", "esri/symbols/SimpleFillSymbol"]).then(([FeatureLayer, Graphic, SimpleFillSymbol]) => 
+        {
+            var shape: __esri.FeatureLayer = new FeatureLayer(
+            {
                 url: mapServiceUrl,
                 outFields: ["NAME"]
             });
     
-            shape.queryFeatures().then(featureSet => {
+            shape.queryFeatures().then(featureSet => 
+            {
                 for (var i = 0; i < featureSet.features.length; i++)
                 {
                     var graphic = featureSet.features[i];
                     const subdivName = graphic.getAttribute("NAME");
                     const subdivResults = this.props.voteData.get(subdivName.toLowerCase());
 
-                    const symbol = new SimpleFillSymbol({
+                    const symbol = new SimpleFillSymbol(
+                    {
                         type: "simple-fill",
                         color: getWinnerColor(subdivResults),
                         style: "solid",
@@ -81,25 +86,30 @@ export class ResultMap extends React.Component<Properties, object> {
                             width: 1
                         }
                     });
-                    const newGraphic = new Graphic({
+                    const newGraphic = new Graphic(
+                    {
                         geometry: graphic.geometry.clone(),
                         symbol: symbol,
                         attributes: graphic.attributes
                     });
 
-                    subdivResults.candidates.forEach((info, name) => {
+                    subdivResults.candidates.forEach((info, name) => 
+                    {
                         newGraphic.setAttribute(info.displayName, info.votes);
                     });
                     view.graphics.add(newGraphic);
                 }
             });
 
-            shape.queryExtent().then(response => {
+            shape.queryExtent().then(response => 
+            {
                this.view.goTo(response.extent);
             });
 
-            this.view.on("pointer-move", event => {
-                this.view.hitTest(event).then(response => {
+            this.view.on("pointer-move", event => 
+            {
+                this.view.hitTest(event).then(response => 
+                {
                     const graphic = response.results[0].graphic;
                     const subdivName = graphic.getAttribute("NAME");
                     const subdivResults = this.props.voteData.get(subdivName.toLowerCase());
@@ -112,7 +122,8 @@ export class ResultMap extends React.Component<Properties, object> {
                 });
             });
 
-            this.view.on("pointer-leave", event => {
+            this.view.on("pointer-leave", event => 
+            {
                 this.cursorOverSubdiv = "";
                 this.props.mouseLeave(this.props.actual);
             });
@@ -132,7 +143,8 @@ export class ResultMap extends React.Component<Properties, object> {
             result: Result;
         }
         var changedGraphics: ChangedGraphic[] = [];
-        this.view.graphics.forEach(graphic => {
+        this.view.graphics.forEach(graphic => 
+        {
             const attributes = graphic.attributes;
             const name = graphic.getAttribute("NAME").toLowerCase();
             const newResults = this.props.voteData.get(name);
@@ -146,11 +158,14 @@ export class ResultMap extends React.Component<Properties, object> {
                 }
             }
         });
-        esriPromise(["esri/symbols/SimpleFillSymbol", "esri/Graphic"]).then(([SimpleFillSymbol, Graphic]) => {
-            changedGraphics.forEach(changedGraphic => {
+        esriPromise(["esri/symbols/SimpleFillSymbol", "esri/Graphic"]).then(([SimpleFillSymbol, Graphic]) => 
+        {
+            changedGraphics.forEach(changedGraphic => 
+            {
                 this.view.graphics.remove(changedGraphic.graphic);
 
-                const symbol = new SimpleFillSymbol({
+                const symbol = new SimpleFillSymbol(
+                {
                     type: "simple-fill",
                     color: getWinnerColor(changedGraphic.result),
                     style: "solid",
@@ -160,7 +175,8 @@ export class ResultMap extends React.Component<Properties, object> {
                     }
                 });
 
-                var newGraphic = new Graphic({
+                var newGraphic = new Graphic(
+                {
                     geometry: changedGraphic.graphic.geometry.clone(),
                     symbol: symbol
                 });
