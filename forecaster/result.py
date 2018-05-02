@@ -60,6 +60,10 @@ class Result:
 
     def set_votes(self, candidate, votes):
         self.candidates[candidate]["votes"] = votes
+        new_total = 0
+        for candidate in self.candidates.keys():
+            new_total += self.candidates[candidate]["votes"]
+        self.total_votes = new_total
 
     def __safeCalculateVotePercentage(self, candidate_votes, total):
         """
