@@ -7,6 +7,7 @@ import { PrecinctsReporting } from "./components/precincts_reporting";
 import { LastUpdated } from "./components/last_updated";
 import { ResultMap } from "./components/map";
 import { Candidate, CandidateInfo, Result } from "./types/index";
+import { Config } from "./config";
 
 const CAND_INFO_STR = "candidate_info";
 const ELEX_NAME_STR = "elex_name";
@@ -15,8 +16,6 @@ const RESULT_CANDIDATE_NAME = "candidates";
 const RESULT_PARTS_REPORTING = "parts_reporting";
 const RESULT_TOTAL_PARTS = "total_parts";
 const RESULT_TOTAL_VOTES = "total_votes";
-
-const UPDATE_INTERVAL = 20000;
 
 var lastResult: Result = null;
 var lastForecast: Result = null;
@@ -110,7 +109,7 @@ function convertSubdivResults(resultObj: object): Map<string, Result>
 
 function fetchNewResults() 
 {
-    fetch("http://localhost:5000/get_actual_count").then (response => 
+    fetch(Config.BACKEND_URL + "/get_actual_count").then (response => 
     {
         return response.json();
     }).then(response => 
@@ -119,7 +118,7 @@ function fetchNewResults()
         updateVoteTotals(true, true, result);
     });
 
-    fetch("http://localhost:5000/get_actual_subdiv").then (response => 
+    fetch(Config.BACKEND_URL + "/get_actual_subdiv").then (response => 
     {
         return response.json();
     }).then(response => 
@@ -128,7 +127,7 @@ function fetchNewResults()
         updateMaps(true, subDivResults);
     });
 
-    fetch("http://localhost:5000/get_forecast").then (response => 
+    fetch(Config.BACKEND_URL + "/get_forecast").then (response => 
     {
         return response.json();
     }).then(response => 
@@ -137,7 +136,7 @@ function fetchNewResults()
         updateVoteTotals(true, false, result);
     });
 
-    fetch("http://localhost:5000/get_forecast_subdiv").then (response => 
+    fetch(Config.BACKEND_URL + "/get_forecast_subdiv").then (response => 
     {
         return response.json();
     }).then(response => 
@@ -149,4 +148,4 @@ function fetchNewResults()
 
 updateVoteTotals(true, true);
 fetchNewResults();
-setInterval(() => fetchNewResults(), UPDATE_INTERVAL);
+setInterval(() => fetchNewResults(), Config.UPDATE_INTERVAL);

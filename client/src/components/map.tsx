@@ -2,9 +2,7 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { Map, esriPromise } from 'react-arcgis';
 import { CandidateInfo, Candidate, Result } from '../types/index';
-
-//const mapServiceUrl = "https://services8.arcgis.com/yBvhbG6FeRtNxtFh/arcgis/rest/services/PA18/FeatureServer";
-const mapServiceUrl = "https://services8.arcgis.com/yBvhbG6FeRtNxtFh/arcgis/rest/services/KSCounties3/FeatureServer";
+import { Config } from "../config";
 
 interface Properties 
 {
@@ -63,7 +61,7 @@ export class ResultMap extends React.Component<Properties, object>
         {
             var shape: __esri.FeatureLayer = new FeatureLayer(
             {
-                url: mapServiceUrl,
+                url: Config.MAP_SERVICE_URL,
                 outFields: ["NAME"]
             });
     
