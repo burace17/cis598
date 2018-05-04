@@ -55,6 +55,8 @@ Configuration for the election forecaster is split into two parts: the backend a
 the backend controls the algorithm itself and how it retrieves data. The frontend configuration will control what the 
 user sees. 
 
+Backend
+-------------------------------
 For the backend, one should modify ``config.py`` in the root of the repository. Below is a description of the options 
 available in this file.
 
@@ -75,6 +77,26 @@ the name that will actually be displayed to the user. You may also specify the `
 party that candidate is affiliated with. Finally, it is also necessary to specify the ``votes`` option which should be set to zero.
 This is used by the platform later on to store the current number of votes for each candidate. 
 
+Frontend
+-----------------------
+
+The frontend configuration is located in the ``client/src`` directory. It contains a small number of options.
+
+===============   =========================================  ===============================================================================
+Name              Default Value                              Description
+===============   =========================================  ===============================================================================
+UPDATE_INTERVAL   20000                                      Interval (in milliseconds) for how often the frontend should request new data
+MAP_SERVICE_URL   ...                                        URL for the ArcGIS Online service containing the results map. (more info below)
+BACKEND_URL       http://localhost:5000                      URL for the backend service.
+===============   =========================================  ===============================================================================
+
+To locate the service URL for your map, follow these steps.
+
+1.  Login to ArcGIS Online.
+2.  Click on the "Content" tab at the top of your organization page.
+3.  Click on your map/layer in the content list.
+4.  Scroll to the bottom of the page. In the right column, there should be a URL. 
+5.  Click on the 'Copy' button to copy the service URL to your clipboard.
 
 Forecaster
 ==================
