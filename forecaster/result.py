@@ -22,6 +22,9 @@ class Result:
         self.total_parts = total_parts
             
     def toDict(self):
+        """
+        Converts this object into a dictionary.
+        """
         return {"name":self.name, "parts_reporting":self.parts_reporting, "total_parts":self.total_parts, "candidates":self.candidates, "total_votes":self.total_votes}
     
     def add_votes(self, candidate, votes):
@@ -59,6 +62,9 @@ class Result:
             return self.candidates[candidate]["votes"]
 
     def set_votes(self, candidate, votes):
+        """
+        Sets the number of votes for the given candidate to the given value. 
+        """
         self.candidates[candidate]["votes"] = votes
         new_total = 0
         for candidate in self.candidates.keys():
@@ -114,6 +120,9 @@ class Result:
         return self.name
         
     def clear_votes(self):
+        """
+        Sets the number of votes for all candidates to zero.
+        """
         self.total_votes = 0
         for candidate in self.candidates.keys():
             self.candidates[candidate]["votes"] = 0

@@ -4,7 +4,7 @@ from cis598 import config
 import csv
 import random
 
-results_path = "/home/blair/cis598/kansas_forecaster/2014_gov_results.csv"
+results_path = "./kansas_forecaster/2014_gov_results.csv"
 
 class SimulatedElection(ResultReader):
     """
@@ -14,16 +14,19 @@ class SimulatedElection(ResultReader):
     """
     def __init__(self):
         self.results = []
+        random.seed(134)
         with open(results_path, "r") as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 self.results.append(row)
             print(len(self.results))
+        #self.index = len(self.results) - 1
 
     def check_for_new_results(self):
         if len(self.results) > 0:
             index = random.randint(0, len(self.results)-1)
             result_dict = self.results[index]
+            #self.index -= 1
             result = Result(config.candidates, name=result_dict["county"].title())
             result.add_votes("Sam Brownback", int(result_dict["rep_votes"]))
             result.add_votes("Paul Davis", int(result_dict["dem_votes"]))

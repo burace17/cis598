@@ -19,7 +19,7 @@ class KansasModel(Model):
         self.benchmark_counties = {}
 
         # Read in benchmark results.
-        with open("/home/blair/cis598/kansas_forecaster/benchmark.csv") as csvfile:
+        with open("./kansas_forecaster/benchmark.csv") as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 county_name = row["county"].lower()
