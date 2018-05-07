@@ -13,6 +13,9 @@ result_reader = "cis598.kansas_forecaster.simulation"
 model_class = "KansasModel"
 reader_class = "SimulatedElection"
 
+# How often (in seconds) the platform should request new results and update the forecast
+update_interval = 1.0
+
 # --------------------------------------------------------
 # Web app configuration.
 # --------------------------------------------------------

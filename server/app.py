@@ -35,7 +35,7 @@ def update_forecast():
         forecast_count_json = json.dumps(model.get_forecast().toDict())
         actual_subdiv_json = json.dumps(model.get_actual_subdiv())
         forecast_subdiv_json = json.dumps(model.get_forecast_subdiv())
-        time.sleep(0.1)
+        time.sleep(config.update_interval)
 
 threading.Thread(target=update_forecast).start()
 
