@@ -19,14 +19,17 @@ const RESULT_TOTAL_VOTES = "total_votes";
 
 var lastResult: Result = null;
 var lastForecast: Result = null;
+var isMouseOverSubdiv: boolean = false;
 
 function onMouseOverSubdiv(actual: boolean, result: Result)
 {
+    isMouseOverSubdiv = true;
     updateVoteTotals(false, actual, result);
 }
 
 function onMouseLeaveSubdiv(actual: boolean)
 {
+    isMouseOverSubdiv = false;
     updateVoteTotals(false, actual, actual? lastResult : lastForecast);
 }
 
@@ -36,22 +39,26 @@ function onMouseLeaveSubdiv(actual: boolean)
 function updateVoteTotals(fromServer: boolean, actual: boolean, result?: Result) 
 {
     const vote_totals_element_id = actual? "actual_vote_totals" : "forecast_vote_totals";
-    ReactDOM.render(
-        <VoteTotal result={result} />,
-        document.getElementById(vote_totals_element_id)
-    );
 
-    if (actual)
+    // This check ensures that we do not change the vote total box while the user has their cursor over
+    // a subdivision.
+    if (!(fromServer && isMouseOverSubdiv))
     {
         ReactDOM.render(
-            <ElectionName result={result} />,
-            document.getElementById("election_name")
+            <VoteTotal result={result} />,
+            document.getElementById(vote_totals_element_id)
         );
-    
-        ReactDOM.render(
-            <PrecinctsReporting result={result} />,
-            document.getElementById("precincts_reporting")
-        );
+        if (actual)
+        {
+            ReactDOM.render(
+                <ElectionName result={result} />,
+                document.getElementById("election_name")
+            );
+            ReactDOM.render(
+                <PrecinctsReporting result={result} />,
+                document.getElementById("precincts_reporting")
+            );
+        }   
     }
 
     // If these results are from the server, we can update the last update time and save this result.
