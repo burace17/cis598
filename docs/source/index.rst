@@ -6,7 +6,7 @@
 Welcome to election-forecaster's documentation!
 ===============================================
 
-election-forecaster is a platform that allows one to host their election forecasting platforms.
+election-forecaster is a platform that allows one to host their election forecasting algorithms.
 It provides a React-based frontend which shows users the current election results, as well as the 
 current prediction. 
 

@@ -20,19 +20,19 @@ class SimulatedElection(ResultReader):
             for row in reader:
                 self.results.append(row)
             print(len(self.results))
-        #self.index = len(self.results) - 1
+        self.index = 0
 
     def check_for_new_results(self):
         if len(self.results) > 0:
-            index = random.randint(0, len(self.results)-1)
-            result_dict = self.results[index]
-            #self.index -= 1
+            #index = random.randint(0, len(self.results)-1)
+            result_dict = self.results[self.index]
+            self.index += 1
             result = Result(config.candidates, name=result_dict["county"].title())
             result.add_votes("Sam Brownback", int(result_dict["rep_votes"]))
             result.add_votes("Paul Davis", int(result_dict["dem_votes"]))
             result.add_votes("Other", int(result_dict["lib_votes"]))
 
-            del self.results[index]
+            del self.results[self.index]
             return result
         else:
             return None
